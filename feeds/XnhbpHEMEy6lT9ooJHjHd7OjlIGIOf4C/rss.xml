@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Shiv — Listen</title>
+<description>Private taste feed: episodes only from Shiv&apos;s follow list. Curated for Apple Podcasts.</description>
+<language>en-us</language>
+<link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/XnhbpHEMEy6lT9ooJHjHd7OjlIGIOf4C/rss.xml</link>
+<itunes:author>Shivanshu Chaudhary</itunes:author>
+<itunes:summary>Private taste feed: episodes only from Shiv&apos;s follow list. Curated for Apple Podcasts.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:category text="Technology"/>
+<itunes:type>episodic</itunes:type>
+<generator>shiv-podcast-feeds/0.1</generator>
+<item>
+<title>Smoke: Welcome to Listen</title>
+<description>Bootstrap episode</description>
+<link>https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3</link>
+<guid isPermaLink="false">smoke-listen-001</guid>
+<pubDate>Sun, 20 Sep 2026 13:57:42 +0000</pubDate>
+<enclosure url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" length="0" type="audio/mpeg"/>
+<itunes:author>Shiv Private Feeds</itunes:author>
+<itunes:duration>372</itunes:duration>
+</item>
+</channel></rss>

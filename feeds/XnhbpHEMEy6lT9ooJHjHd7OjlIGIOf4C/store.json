@@ -1,0 +1,24 @@
+{
+  "feed_key": "listen",
+  "title": "Shiv \u2014 Listen",
+  "description": "Private taste feed: episodes only from Shiv's follow list. Curated for Apple Podcasts.",
+  "language": "en-us",
+  "author": "Shivanshu Chaudhary",
+  "explicit": "false",
+  "category": "Technology",
+  "items": [
+    {
+      "title": "Smoke: Welcome to Listen",
+      "show": "Shiv Private Feeds",
+      "enclosure_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "guid": "smoke-listen-001",
+      "pub_date": "2026-09-20T13:57:42.570037+00:00",
+      "duration": "372",
+      "link": null,
+      "description": "Bootstrap episode",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0
+    }
+  ],
+  "max_items": 80
+}

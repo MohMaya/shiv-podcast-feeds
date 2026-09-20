@@ -1,0 +1,24 @@
+{
+  "feed_key": "discover",
+  "title": "Shiv \u2014 Discover",
+  "description": "Private discovery feed: stimulating new episodes from follows + new shows. Curated for Apple Podcasts.",
+  "language": "en-us",
+  "author": "Shivanshu Chaudhary",
+  "explicit": "false",
+  "category": "Technology",
+  "items": [
+    {
+      "title": "Smoke: Welcome to Discover",
+      "show": "Shiv Private Feeds",
+      "enclosure_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "guid": "smoke-discover-001",
+      "pub_date": "2026-09-20T13:57:42.632490+00:00",
+      "duration": "400",
+      "link": null,
+      "description": null,
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0
+    }
+  ],
+  "max_items": 80
+}
