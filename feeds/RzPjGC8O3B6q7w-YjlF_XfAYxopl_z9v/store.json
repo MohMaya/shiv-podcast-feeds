@@ -1,0 +1,26 @@
+{
+  "feed_key": "arena",
+  "title": "Shiv \u2014 Arena",
+  "description": "News and social commentary across the spectrum (Breaking Points, Ezra Klein, Bill Maher, Daily Show, Tucker-as-performance). Cap: 1\u20132 episodes per drop \u2014 not a doomscroll.",
+  "language": "en-us",
+  "author": "Shivanshu Chaudhary",
+  "explicit": "false",
+  "category": "News",
+  "items": [
+    {
+      "title": "9/17/26: Trump Panics As Fed Raises Rates, Gas Stations Out Of Diesel, Americans Say Shut Down AI",
+      "show": "Breaking Points with Krystal and Saagar",
+      "enclosure_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/190ee4d8-ed3b-4d94-aac8-b4c80110b2cf/audio.mp3?utm_source=Podcast&in_playlist=4c1a5135-4197-47c9-b19b-b0ab0164b667",
+      "guid": "apple-1000790380732",
+      "pub_date": "2026-09-20T18:26:09.541933+00:00",
+      "duration": "3847",
+      "link": "https://podcasts.apple.com/us/podcast/9-17-26-trump-panics-as-fed-raises-rates-gas-stations/id1570045623?i=1000790380732",
+      "description": "On today's show, Krystal and Saagar discuss the Fed hiking interest rates, Gas stations running out of diesel, Derek Thompson joins to discuss AI and polling showing 78% of Americans think it could destroy humanity, and finally a US vessel struck by Iran.\n \u00a0\n Derek Thompson:\u00a0https://www.derekthompson.org/\n \u00a0\n To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com\u00a0 \u00a0\n Merch Store: https://shop.breakingpoints.com/\u00a0 \u00a0\nSee omnystudio.com/listener for privacy information.\n\nWhy this is Arena: Breaking Points daily spectrum show \u2014 Fed/rates + AI public-mood segment. One curated drop, not a doomscroll.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/9-17-26-trump-panics-as-fed-raises-rates-gas-stations/id1570045623?i=1000790380732",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/05/ab/5d05ab1f-e6a0-cbf2-794c-88610a29aaae/mza_7195979173793692483.jpg/600x600bb.jpg"
+    }
+  ],
+  "max_items": 80,
+  "image_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/arena-cover.jpg"
+}

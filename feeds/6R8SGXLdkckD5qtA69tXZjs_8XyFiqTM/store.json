@@ -1,0 +1,26 @@
+{
+  "feed_key": "sidequest",
+  "title": "Shiv \u2014 Side Quest",
+  "description": "Entertainment lane: true crime, Why Files\u2013style conspiracy, and comedy (Brilliant Idiots, Flagrant, Rogan when the guest is good). Not the intellectual Listen/Discover lane.",
+  "language": "en-us",
+  "author": "Shivanshu Chaudhary",
+  "explicit": "true",
+  "category": "Comedy",
+  "items": [
+    {
+      "title": "Bases in the Ocean, and a War for Earth | The Friendship Case",
+      "show": "The Why Files: Operation Podcast",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD5562948027.mp3",
+      "guid": "apple-1000789191100",
+      "pub_date": "2026-09-20T18:26:09.411288+00:00",
+      "duration": "2472",
+      "link": "https://podcasts.apple.com/us/podcast/bases-in-the-ocean-and-a-war-for-earth-the-friendship-case/id1631738803?i=1000789191100",
+      "description": "-Discover how to move your IRA or 401k into physical gold and silver \u2014 with no taxes or penalties. Get your free portfolio review and free gold & silver guide from GoldenCrest Metals: visit https://whyfileslovesgold.com  or call (888) 949-9172 now.\n\n\n\n-Upgrade your glasses with Zenni\u2014go to https://zenni.com/podcast and use code PODCAST15 for 15% off your first order plus free shipping on US orders over $65. Styles sell out, so don't wait.\n\n\n\nFor more than twenty years, a hundred people across Italy filled trucks with fruit, water, and industrial chemicals, then walked away and let the cargo disappear. They called the recipients the Friends: an alien civilization living in vast bases beneath the Adriatic Sea.\n\n\n\nThe Friends could teleport supplies, read minds, and reshape the ground itself to build their hidden world. But keeping their bases running depended on something far simpler than advanced technology.\n\n\n\nIt depended on the humans trusting each other. This is the story of a secret alliance between two worlds, the deliveries that sustained it, and the war fought to protect it.\n\n\n\nWe also examine what the evidence for the Friendship Case actually shows, and where it falls\u2026\n\nWhy this is a Side Quest: classic Why Files rabbit hole \u2014 ocean bases / Friendship Case conspiracy as entertainment, not homework.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/bases-in-the-ocean-and-a-war-for-earth-the-friendship-case/id1631738803?i=1000789191100",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d8/d5/56/d8d5569b-6431-c55a-509c-820b5bd1002b/mza_14117346978676539247.jpg/600x600bb.jpg"
+    }
+  ],
+  "max_items": 80,
+  "image_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/sidequest-cover.jpg"
+}

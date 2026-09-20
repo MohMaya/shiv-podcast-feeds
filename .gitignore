@@ -4,3 +4,10 @@ __pycache__/
 *.pyc
 .DS_Store
 .tokens.env
+# never commit Apple OPML / private feed lists
+*.opml
+apple-follows*
+private-feed*
+follow-titles.txt
+/home/box/reference/podcasts/
+.local/

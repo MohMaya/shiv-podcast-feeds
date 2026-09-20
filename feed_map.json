@@ -6,5 +6,17 @@
   "discover": {
     "token": "vFkM8dqngvJwX1CTgi8rsOa4GODY0-hw",
     "title": "Shiv \u2014 Discover"
+  },
+  "sidequest": {
+    "token": "6R8SGXLdkckD5qtA69tXZjs_8XyFiqTM",
+    "title": "Shiv \u2014 Side Quest"
+  },
+  "desi": {
+    "token": "K-tmjKSjl-Nj1O8fFSNkR5WjQU44fB25",
+    "title": "Shiv \u2014 Desi"
+  },
+  "arena": {
+    "token": "RzPjGC8O3B6q7w-YjlF_XfAYxopl_z9v",
+    "title": "Shiv \u2014 Arena"
   }
 }

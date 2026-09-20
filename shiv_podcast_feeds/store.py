@@ -55,7 +55,7 @@ def append_item(
     public_base: str,
 ) -> dict[str, Any]:
     if feed_key not in FEED_MAP:
-        raise KeyError(f"unknown feed_key={feed_key}; use listen|discover")
+        raise KeyError(f"unknown feed_key={feed_key}; use {'|'.join(FEED_MAP)}")
     if is_lex_blocked(title=title, show=show, description=description or ""):
         raise ValueError("blocked: Lex Fridman (taste rule)")
     if not enclosure_url.startswith("http"):
