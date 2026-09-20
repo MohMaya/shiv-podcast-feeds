@@ -51,6 +51,7 @@ def append_item(
     description: str | None = None,
     mime_type: str = "audio/mpeg",
     length_bytes: int = 0,
+    image_url: str | None = None,
     public_base: str,
 ) -> dict[str, Any]:
     if feed_key not in FEED_MAP:
@@ -74,6 +75,7 @@ def append_item(
         "description": description,
         "mime_type": mime_type,
         "length_bytes": length_bytes,
+        "image_url": image_url,
     }
     items.insert(0, item)
     path = save_store(feed_key, store, public_base=public_base)

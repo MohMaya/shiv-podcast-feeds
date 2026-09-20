@@ -15,9 +15,10 @@
       "pub_date": "2026-09-20T14:01:31.866208+00:00",
       "duration": "2917",
       "link": "https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-works/id1141877104?i=1000789605191",
-      "description": "why this sharpens your taste:\n1) Senra\u2019s craft: compress an operator\u2019s whole work system into transferable heuristics \u2014 Bloomberg as attention architecture, not just a product story.\n2) Trains you to study HOW someone works (calendar, information diet, decision hygiene) instead of only what they built.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-works/id1141877104?i=1000789605191",
+      "description": "What I learned from reading Bloomberg by Michael Bloomberg.\n\nwhy this sharpens your taste:\n1) Senra\u2019s craft: compress an operator\u2019s whole work system into transferable heuristics \u2014 Bloomberg as attention architecture, not just a product story.\n2) Trains you to study HOW someone works (calendar, information diet, decision hygiene) instead of only what they built.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-works/id1141877104?i=1000789605191",
       "mime_type": "audio/mpeg",
-      "length_bytes": 0
+      "length_bytes": 0,
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
     },
     {
       "title": "Smoke: Welcome to Listen",
@@ -29,8 +30,10 @@
       "link": null,
       "description": "Bootstrap episode",
       "mime_type": "audio/mpeg",
-      "length_bytes": 0
+      "length_bytes": 0,
+      "image_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/listen-cover.jpg"
     }
   ],
-  "max_items": 80
+  "max_items": 80,
+  "image_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/listen-cover.jpg"
 }

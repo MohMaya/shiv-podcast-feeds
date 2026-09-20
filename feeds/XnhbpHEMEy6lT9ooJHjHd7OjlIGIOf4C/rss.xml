@@ -11,9 +11,13 @@
 <itunes:category text="Technology"/>
 <itunes:type>episodic</itunes:type>
 <generator>shiv-podcast-feeds/0.1</generator>
+<itunes:image href="https://mohmaya.github.io/shiv-podcast-feeds/assets/listen-cover.jpg"/>
+<image><url>https://mohmaya.github.io/shiv-podcast-feeds/assets/listen-cover.jpg</url><title>Shiv — Listen</title><link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/XnhbpHEMEy6lT9ooJHjHd7OjlIGIOf4C/rss.xml</link></image>
 <item>
 <title>#433 How Michael Bloomberg Works</title>
-<description>why this sharpens your taste:
+<description>What I learned from reading Bloomberg by Michael Bloomberg.
+
+why this sharpens your taste:
 1) Senra’s craft: compress an operator’s whole work system into transferable heuristics — Bloomberg as attention architecture, not just a product story.
 2) Trains you to study HOW someone works (calendar, information diet, decision hygiene) instead of only what they built.
 
@@ -24,6 +28,7 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-
 <enclosure url="https://traffic.megaphone.fm/DSLLC7209633121.mp3" length="0" type="audio/mpeg"/>
 <itunes:author>Founders</itunes:author>
 <itunes:duration>2917</itunes:duration>
+<itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"/>
 </item>
 <item>
 <title>Smoke: Welcome to Listen</title>
@@ -34,5 +39,6 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-
 <enclosure url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" length="0" type="audio/mpeg"/>
 <itunes:author>Shiv Private Feeds</itunes:author>
 <itunes:duration>372</itunes:duration>
+<itunes:image href="https://mohmaya.github.io/shiv-podcast-feeds/assets/listen-cover.jpg"/>
 </item>
 </channel></rss>

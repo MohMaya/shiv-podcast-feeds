@@ -42,6 +42,16 @@ def render_rss(store: dict[str, Any], feed_url: str) -> str:
         f"<itunes:type>episodic</itunes:type>",
         f"<generator>shiv-podcast-feeds/0.1</generator>",
     ]
+    image_url = store.get("image_url")
+    if image_url:
+        channel_parts.append(f'<itunes:image href="{_esc(image_url)}"/>')
+        channel_parts.append(
+            "<image>"
+            f"<url>{_esc(image_url)}</url>"
+            f"<title>{_esc(store.get('title'))}</title>"
+            f"<link>{_esc(feed_url)}</link>"
+            "</image>"
+        )
     for it in items:
         enclosure_url = it["enclosure_url"]
         mime = it.get("mime_type") or "audio/mpeg"
@@ -68,6 +78,8 @@ def render_rss(store: dict[str, Any], feed_url: str) -> str:
             item_xml.append(f"<itunes:duration>{_esc(str(duration))}</itunes:duration>")
         if it.get("explicit"):
             item_xml.append(f"<itunes:explicit>{_esc(str(it['explicit']))}</itunes:explicit>")
+        if it.get("image_url"):
+            item_xml.append(f'<itunes:image href="{_esc(it["image_url"])}"/>')
         item_xml.append("</item>")
         channel_parts.extend(item_xml)
     channel_parts.append("</channel></rss>\n")

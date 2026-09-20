@@ -15,9 +15,10 @@
       "pub_date": "2026-09-20T14:01:31.931126+00:00",
       "duration": "14480",
       "link": "https://podcasts.apple.com/us/podcast/mania-for-subjugation-iv/id173001861?i=1000779313976",
-      "description": "why this sharpens your taste:\n1) Carlin\u2019s craft: long-arc narrative that treats conquest as incentive design and systems failure \u2014 not battlefield trivia.\n2) Builds patience for power dynamics across centuries; the antidote to news-cycle history.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/mania-for-subjugation-iv/id173001861?i=1000779313976",
+      "description": "The stage is set for an in-person showdown between Alexander and Persia's Great King. The resulting Battle of Issus, although often ignored by Hollywood, is one of the most important battles in all ancient history. It gets its due here.\n\nwhy this sharpens your taste:\n1) Carlin\u2019s craft: long-arc narrative that treats conquest as incentive design and systems failure \u2014 not battlefield trivia.\n2) Builds patience for power dynamics across centuries; the antidote to news-cycle history.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/mania-for-subjugation-iv/id173001861?i=1000779313976",
       "mime_type": "audio/mpeg",
-      "length_bytes": 0
+      "length_bytes": 0,
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/83/dd/06/83dd06c8-ae32-d553-8f95-04f24c35506a/mza_10498480384557276761.jpg/600x600bb.jpg"
     },
     {
       "title": "Smoke: Welcome to Discover",
@@ -29,8 +30,10 @@
       "link": null,
       "description": null,
       "mime_type": "audio/mpeg",
-      "length_bytes": 0
+      "length_bytes": 0,
+      "image_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/discover-cover.jpg"
     }
   ],
-  "max_items": 80
+  "max_items": 80,
+  "image_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/discover-cover.jpg"
 }

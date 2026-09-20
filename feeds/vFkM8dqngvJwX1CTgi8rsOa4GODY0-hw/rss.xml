@@ -11,9 +11,13 @@
 <itunes:category text="Technology"/>
 <itunes:type>episodic</itunes:type>
 <generator>shiv-podcast-feeds/0.1</generator>
+<itunes:image href="https://mohmaya.github.io/shiv-podcast-feeds/assets/discover-cover.jpg"/>
+<image><url>https://mohmaya.github.io/shiv-podcast-feeds/assets/discover-cover.jpg</url><title>Shiv — Discover</title><link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/vFkM8dqngvJwX1CTgi8rsOa4GODY0-hw/rss.xml</link></image>
 <item>
 <title>Show 74 - Mania for Subjugation IV</title>
-<description>why this sharpens your taste:
+<description>The stage is set for an in-person showdown between Alexander and Persia&apos;s Great King. The resulting Battle of Issus, although often ignored by Hollywood, is one of the most important battles in all ancient history. It gets its due here.
+
+why this sharpens your taste:
 1) Carlin’s craft: long-arc narrative that treats conquest as incentive design and systems failure — not battlefield trivia.
 2) Builds patience for power dynamics across centuries; the antidote to news-cycle history.
 
@@ -24,6 +28,7 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/mania-for-subjugation-iv/i
 <enclosure url="https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/dancarlinhh/dchha74_Mania_for_Subjugation_IV.mp3" length="0" type="audio/mpeg"/>
 <itunes:author>Hardcore History</itunes:author>
 <itunes:duration>14480</itunes:duration>
+<itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/83/dd/06/83dd06c8-ae32-d553-8f95-04f24c35506a/mza_10498480384557276761.jpg/600x600bb.jpg"/>
 </item>
 <item>
 <title>Smoke: Welcome to Discover</title>
@@ -34,5 +39,6 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/mania-for-subjugation-iv/i
 <enclosure url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" length="0" type="audio/mpeg"/>
 <itunes:author>Shiv Private Feeds</itunes:author>
 <itunes:duration>400</itunes:duration>
+<itunes:image href="https://mohmaya.github.io/shiv-podcast-feeds/assets/discover-cover.jpg"/>
 </item>
 </channel></rss>

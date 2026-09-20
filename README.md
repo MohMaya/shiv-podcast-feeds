@@ -48,11 +48,14 @@ PYTHONPATH=. python3 -m shiv_podcast_feeds append \
   --guid "stable-unique-id" \
   --duration 3600 \
   --description "optional" \
-  --link "https://optional-episode-page"
+  --link "https://optional-episode-page" \
+  --image-url "https://.../episode-art.jpg"
 
 # or JSON file drop:
 PYTHONPATH=. python3 -m shiv_podcast_feeds append-json /path/to/ep.json
 ```
+
+Optional artwork: pass `--image-url` (or `image_url` in JSON). Channel cover lives on each feed’s `store.json` as top-level `image_url` (served from `/assets/*-cover.jpg` on Pages).
 
 `enclosure_url` must be the **playable audio URL from the source podcast’s RSS enclosure**, not an Apple episode web page.
 

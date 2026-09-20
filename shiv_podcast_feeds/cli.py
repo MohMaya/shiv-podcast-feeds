@@ -42,6 +42,7 @@ def cmd_append(args: argparse.Namespace) -> int:
             description=args.description,
             mime_type=args.mime_type,
             length_bytes=args.length_bytes,
+            image_url=args.image_url,
             public_base=_public_base(args),
         )
     except Exception as e:
@@ -66,6 +67,7 @@ def cmd_append_json(args: argparse.Namespace) -> int:
             description=payload.get("description"),
             mime_type=payload.get("mime_type") or "audio/mpeg",
             length_bytes=int(payload.get("length_bytes") or 0),
+            image_url=payload.get("image_url"),
             public_base=_public_base(args),
         )
     except Exception as e:
@@ -98,6 +100,7 @@ def main(argv: list[str] | None = None) -> int:
     a.add_argument("--description", default=None)
     a.add_argument("--mime-type", default="audio/mpeg")
     a.add_argument("--length-bytes", type=int, default=0)
+    a.add_argument("--image-url", default=None)
     a.set_defaults(func=cmd_append)
 
     j = sub.add_parser("append-json")
