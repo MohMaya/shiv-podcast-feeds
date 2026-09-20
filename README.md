@@ -9,6 +9,16 @@ Two Apple Podcasts–compatible RSS feeds with unguessable URL paths.
 
 Cadence (ops): each feed gets ~1 new item / 4h (Karan / curation agents append).
 
+## Follow in Apple Podcasts (live)
+
+1. Apple Podcasts → Library → … → **Follow a Show by URL**
+2. Paste one of:
+
+- **Listen:** `https://mohmaya.github.io/shiv-podcast-feeds/feeds/XnhbpHEMEy6lT9ooJHjHd7OjlIGIOf4C/rss.xml`
+- **Discover:** `https://mohmaya.github.io/shiv-podcast-feeds/feeds/vFkM8dqngvJwX1CTgi8rsOa4GODY0-hw/rss.xml`
+
+Repo: https://github.com/MohMaya/shiv-podcast-feeds
+
 ## Follow in Apple Podcasts
 
 1. Open Apple Podcasts → Library → … → Follow a Show by URL  
