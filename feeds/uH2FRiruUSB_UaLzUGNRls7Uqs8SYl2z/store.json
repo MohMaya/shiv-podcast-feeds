@@ -1,0 +1,26 @@
+{
+  "feed_key": "venture",
+  "title": "Shiv \u2014 Venture",
+  "description": "Entrepreneurship + venture capital lane \u2014 Founders/David Senra, 20VC, operator-investor craft, company-building deep cuts. Wild finds welcome; not limited to a fixed show list. Private Legion shelf.",
+  "language": "en-us",
+  "author": "Shivanshu Chaudhary",
+  "explicit": "false",
+  "category": "Business",
+  "items": [
+    {
+      "title": "#433 How Michael Bloomberg Works",
+      "show": "Founders",
+      "enclosure_url": "https://traffic.megaphone.fm/DSLLC7209633121.mp3",
+      "guid": "apple-1000789605191",
+      "pub_date": "2026-09-21T00:40:28.578987+00:00",
+      "duration": "2932",
+      "link": "https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-works/id1141877104?i=1000789605191&uo=4",
+      "description": "What I learned from reading Bloomberg by Michael Bloomberg. \n\nMade possible by:\n\nRamp: \u2060\u2060\u2060https://ramp.com\u2060\u2060\u2060\n\nAppLovin: \u2060\u2060\u2060https://www.applovin.com\u2060\n\nVanta: \u2060\u2060\u2060https://vanta.com/founders\u2060\n\nSage: \u2060https://founderspodcast.com/sage\n\nWhy this sharpens your Venture shelf: David Senra\u2019s Founders on Bloomberg \u2014 operator biography as company-building craft, not pitch theater.\nCraft move: steal the working cadence and distribution instincts; skip the founder-myth gloss.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-works/id1141877104?i=1000789605191&uo=4",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    }
+  ],
+  "max_items": 80,
+  "image_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/venture-cover.jpg"
+}

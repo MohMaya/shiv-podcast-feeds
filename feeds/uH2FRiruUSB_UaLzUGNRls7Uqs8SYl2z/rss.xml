@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Shiv — Venture</title>
+<description>Entrepreneurship + venture capital lane — Founders/David Senra, 20VC, operator-investor craft, company-building deep cuts. Wild finds welcome; not limited to a fixed show list. Private Legion shelf.</description>
+<language>en-us</language>
+<link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/uH2FRiruUSB_UaLzUGNRls7Uqs8SYl2z/rss.xml</link>
+<itunes:author>Shivanshu Chaudhary</itunes:author>
+<itunes:summary>Entrepreneurship + venture capital lane — Founders/David Senra, 20VC, operator-investor craft, company-building deep cuts. Wild finds welcome; not limited to a fixed show list. Private Legion shelf.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:category text="Business"/>
+<itunes:type>episodic</itunes:type>
+<generator>shiv-podcast-feeds/0.1</generator>
+<itunes:image href="https://mohmaya.github.io/shiv-podcast-feeds/assets/venture-cover.jpg"/>
+<image><url>https://mohmaya.github.io/shiv-podcast-feeds/assets/venture-cover.jpg</url><title>Shiv — Venture</title><link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/uH2FRiruUSB_UaLzUGNRls7Uqs8SYl2z/rss.xml</link></image>
+<item>
+<title>#433 How Michael Bloomberg Works</title>
+<description>What I learned from reading Bloomberg by Michael Bloomberg. 
+
+Made possible by:
+
+Ramp: ⁠⁠⁠https://ramp.com⁠⁠⁠
+
+AppLovin: ⁠⁠⁠https://www.applovin.com⁠
+
+Vanta: ⁠⁠⁠https://vanta.com/founders⁠
+
+Sage: ⁠https://founderspodcast.com/sage
+
+Why this sharpens your Venture shelf: David Senra’s Founders on Bloomberg — operator biography as company-building craft, not pitch theater.
+Craft move: steal the working cadence and distribution instincts; skip the founder-myth gloss.
+
+Apple Podcasts: https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-works/id1141877104?i=1000789605191&amp;uo=4</description>
+<link>https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-works/id1141877104?i=1000789605191&amp;uo=4</link>
+<guid isPermaLink="false">apple-1000789605191</guid>
+<pubDate>Mon, 21 Sep 2026 00:40:28 +0000</pubDate>
+<enclosure url="https://traffic.megaphone.fm/DSLLC7209633121.mp3" length="0" type="audio/mpeg"/>
+<itunes:author>Founders</itunes:author>
+<itunes:duration>2932</itunes:duration>
+<itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"/>
+</item>
+</channel></rss>

@@ -9,8 +9,9 @@ Apple Podcasts–compatible RSS feeds with unguessable URL paths.
 | **Side Quest** | Entertainment — true crime, Why Files–style conspiracy, comedy (Brilliant Idiots, Flagrant, Rogan when the guest is good). Not the intellectual Listen/Discover lane |
 | **Desi** | Indian creators (Hindi / English) |
 | **Arena** | News / social commentary across the spectrum (Breaking Points, Ezra Klein, Bill Maher, Daily Show, Tucker-as-performance). Cap curation to 1–2 eps per drop — not a doomscroll |
+| **Venture** | Entrepreneurship + venture capital — Founders/David Senra, 20VC, operator-investor craft, company-building deep cuts. Wild finds welcome; private Legion shelf |
 
-Cadence (ops): Listen/Discover ~1 new item / 4h; Side Quest / Desi / Arena curated less often (Arena especially capped).
+Cadence (ops): Listen/Discover ~1 new item / 4h; Side Quest / Desi / Arena / Venture curated less often (Arena especially capped).
 
 ## Follow in Apple Podcasts
 
@@ -29,6 +30,7 @@ Live URLs (GitHub Pages):
 - Side Quest: `https://mohmaya.github.io/shiv-podcast-feeds/feeds/<SIDEQUEST_TOKEN>/rss.xml`
 - Desi: `https://mohmaya.github.io/shiv-podcast-feeds/feeds/<DESI_TOKEN>/rss.xml`
 - Arena: `https://mohmaya.github.io/shiv-podcast-feeds/feeds/<ARENA_TOKEN>/rss.xml`
+- Venture: `https://mohmaya.github.io/shiv-podcast-feeds/feeds/<VENTURE_TOKEN>/rss.xml`
 
 Exact tokens are in `feed_map.json` (obscurity = security; do not publish in Slack). Prefer the `urls` command over embedding secret URLs in docs or chat.
 
@@ -39,7 +41,7 @@ Repo: https://github.com/MohMaya/shiv-podcast-feeds
 ```bash
 cd /workspace/shiv-podcast-feeds
 PYTHONPATH=. python3 -m shiv_podcast_feeds append \
-  --feed listen|discover|sidequest|desi|arena \
+  --feed listen|discover|sidequest|desi|arena|venture \
   --title "Episode title" \
   --show "Podcast Name" \
   --enclosure-url "https://.../episode.mp3" \
