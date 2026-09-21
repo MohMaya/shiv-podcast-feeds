@@ -1,0 +1,32 @@
+{
+  "listen": {
+    "title": "Legion: Listen",
+    "playlist_id": "PLdlk59ttaon0",
+    "url": "https://www.youtube.com/playlist?list=PLdlk59ttaon0"
+  },
+  "discover": {
+    "title": "Legion: Discover",
+    "playlist_id": "PLIvD9AbdimEY",
+    "url": "https://www.youtube.com/playlist?list=PLIvD9AbdimEY"
+  },
+  "sidequest": {
+    "title": "Legion: Side Quest",
+    "playlist_id": "PLFcnkig9pxrc",
+    "url": "https://www.youtube.com/playlist?list=PLFcnkig9pxrc"
+  },
+  "desi": {
+    "title": "Legion: Desi",
+    "playlist_id": "PLLZp4-lkp0yk",
+    "url": "https://www.youtube.com/playlist?list=PLLZp4-lkp0yk"
+  },
+  "arena": {
+    "title": "Legion: Arena",
+    "playlist_id": "PLDpj8_op57Ww",
+    "url": "https://www.youtube.com/playlist?list=PLDpj8_op57Ww"
+  },
+  "venture": {
+    "title": "Legion: Venture",
+    "playlist_id": "PLBqqPf0fwuWM",
+    "url": "https://www.youtube.com/playlist?list=PLBqqPf0fwuWM"
+  }
+}

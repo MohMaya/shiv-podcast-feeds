@@ -8,6 +8,19 @@
   "category": "Business",
   "items": [
     {
+      "title": "#434 Sam Walton",
+      "show": "Founders",
+      "enclosure_url": "https://traffic.megaphone.fm/DSLLC1116428270.mp3",
+      "guid": "a9a4ff62-b556-11f1-b65b-9b42dbe957f1",
+      "pub_date": "2026-09-21T13:56:51Z",
+      "duration": "2931",
+      "link": "https://podcasts.apple.com/us/podcast/434-sam-walton/id1141877104",
+      "description": "Operator craft via Vance Trimble\u2019s Walton bio: buy cheap, sell low, every day, with a smile \u2014 density of merchandising heuristics without the pain-lore frame.",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://megaphone.imgix.net/podcasts/0fe786f2-3d92-11f0-8fb0-e778594b8bf8/image/b3123fe637dbdfa2bd55f9fbfb386aca.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
       "title": "#431 How Henry Singleton Worked",
       "show": "Founders",
       "enclosure_url": "https://traffic.megaphone.fm/DSLLC6578475076.mp3",
