@@ -8,6 +8,19 @@
   "category": "News",
   "items": [
     {
+      "title": "What \u2018Hyperpolitics\u2019 Explains About This Era",
+      "show": "The Ezra Klein Show",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/b1dcd8ec-db10-4339-85ac-4f07a678e6cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=b1dcd8ec-db10-4339-85ac-4f07a678e6cd&feed=kEKXbjuJ",
+      "guid": "4301705b-4c0f-4391-944a-f10bab64b82e",
+      "pub_date": "2026-09-21T05:05:04Z",
+      "duration": "1:08:17",
+      "link": "https://podcasts.apple.com/us/podcast/what-hyperpolitics-explains-about-this-era/id1548604447?i=1000788429329",
+      "description": "Behind the intense political movements of the last decade, from Trumpism to wokeness and back again, there\u2019s a strange and erratic rhythm. Movements saturate the culture seemingly overnight, only to evaporate or spark backlash just as rapidly. We\u2019re extremely politically engaged, yet we\u2019ve rarely felt so powerless to create lasting policy change.\nI haven\u2019t seen many very successful attempts to explain what is driving this volatility. But one concept that has taken off recently, and captures what so many of us are feeling, is \u201chyperpolitics.\u201d\nThe idea comes from Anton J\u00e4ger, a historian and contributing writer to New York Times Opinion. In his book \u201cHyperpolitics: Extreme Politicization Without Political Consequences,\u201d J\u00e4ger theorizes what it means to live in a moment marked by hyper-engage\n\nHyperpolitics names the rhythm: cultural saturation overnight, durable policy leverage almost never.\nRhetoric craft for diagnosing why we're maximally engaged and still feel powerless \u2014 better than another doom clip.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/what-hyperpolitics-explains-about-this-era/id1548604447?i=1000788429329",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/ca/35/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5/mza_16891544429738729361.jpg/600x600bb.jpg"
+    },
+    {
       "title": "Ep. #742: Jessica Tarlov, Kevin Roose, Christopher Rufo",
       "show": "Real Time with Bill Maher",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/154/traffic.megaphone.fm/WMHY8399095634.mp3",
@@ -45,19 +58,6 @@
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/05/ab/5d05ab1f-e6a0-cbf2-794c-88610a29aaae/mza_7195979173793692483.jpg/600x600bb.jpg"
-    },
-    {
-      "title": "What \u2018Hyperpolitics\u2019 Explains About This Era",
-      "show": "The Ezra Klein Show",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/b1dcd8ec-db10-4339-85ac-4f07a678e6cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=b1dcd8ec-db10-4339-85ac-4f07a678e6cd&feed=kEKXbjuJ",
-      "guid": "4301705b-4c0f-4391-944a-f10bab64b82e",
-      "pub_date": "2026-09-08T09:00:00Z",
-      "duration": "1:08:17",
-      "link": "https://podcasts.apple.com/us/podcast/what-hyperpolitics-explains-about-this-era/id1548604447?i=1000788429329",
-      "description": "Behind the intense political movements of the last decade, from Trumpism to wokeness and back again, there\u2019s a strange and erratic rhythm. Movements saturate the culture seemingly overnight, only to evaporate or spark backlash just as rapidly. We\u2019re extremely politically engaged, yet we\u2019ve rarely felt so powerless to create lasting policy change.\nI haven\u2019t seen many very successful attempts to explain what is driving this volatility. But one concept that has taken off recently, and captures what so many of us are feeling, is \u201chyperpolitics.\u201d\nThe idea comes from Anton J\u00e4ger, a historian and contributing writer to New York Times Opinion. In his book \u201cHyperpolitics: Extreme Politicization Without Political Consequences,\u201d J\u00e4ger theorizes what it means to live in a moment marked by hyper-engage\n\nHyperpolitics names the rhythm: cultural saturation overnight, durable policy leverage almost never.\nRhetoric craft for diagnosing why we're maximally engaged and still feel powerless \u2014 better than another doom clip.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/what-hyperpolitics-explains-about-this-era/id1548604447?i=1000788429329",
-      "mime_type": "audio/mpeg",
-      "length_bytes": 0,
-      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/ca/35/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5/mza_16891544429738729361.jpg/600x600bb.jpg"
     }
   ],
   "max_items": 80,

@@ -8,6 +8,19 @@
   "category": "Comedy",
   "items": [
     {
+      "title": "Toto Tartare",
+      "show": "The Brilliant Idiots",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/27/claritaspod.com/measure/traffic.megaphone.fm/APPI2732047574.mp3",
+      "guid": "5b17448a-f18a-11f0-a095-0b57a1f9a88c",
+      "pub_date": "2026-09-21T05:05:02Z",
+      "duration": "1:27:24",
+      "link": "https://podcasts.apple.com/us/podcast/toto-tartare/id862717788?i=1000789090351",
+      "description": "Charlamagne and Andrew Schulz dig into the AI researcher who quit Anthropic warning that the industry is racing toward superintelligence with no plan to stop it, and whether a \"10% chance of extinction\" should change how these companies operate \u2014 then spiral into culture-war comedy from there.\n\nSchulz and Charlamagne stress-test extinction-risk talk with street logic \u2014 comedy as rhetoric pressure test.\nWatch the gear-shift: elite panic \u2192 culture-war riffs without losing the bit. Pure Side Quest cadence.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/toto-tartare/id862717788?i=1000789090351",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0f/0e/c2/0f0ec251-14a1-b5f8-ca0e-7d063afdb3b3/mza_2943727101095172226.jpg/600x600bb.jpg"
+    },
+    {
       "title": "The Poltergeist Who Follows You Home",
       "show": "The Why Files: Operation Podcast",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD5950461191.mp3",
@@ -45,19 +58,6 @@
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d8/d5/56/d8d5569b-6431-c55a-509c-820b5bd1002b/mza_14117346978676539247.jpg/600x600bb.jpg"
-    },
-    {
-      "title": "Toto Tartare",
-      "show": "The Brilliant Idiots",
-      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/27/claritaspod.com/measure/traffic.megaphone.fm/APPI2732047574.mp3",
-      "guid": "5b17448a-f18a-11f0-a095-0b57a1f9a88c",
-      "pub_date": "2026-09-11T19:30:00Z",
-      "duration": "1:27:24",
-      "link": "https://podcasts.apple.com/us/podcast/toto-tartare/id862717788?i=1000789090351",
-      "description": "Charlamagne and Andrew Schulz dig into the AI researcher who quit Anthropic warning that the industry is racing toward superintelligence with no plan to stop it, and whether a \"10% chance of extinction\" should change how these companies operate \u2014 then spiral into culture-war comedy from there.\n\nSchulz and Charlamagne stress-test extinction-risk talk with street logic \u2014 comedy as rhetoric pressure test.\nWatch the gear-shift: elite panic \u2192 culture-war riffs without losing the bit. Pure Side Quest cadence.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/toto-tartare/id862717788?i=1000789090351",
-      "mime_type": "audio/mpeg",
-      "length_bytes": 0,
-      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0f/0e/c2/0f0ec251-14a1-b5f8-ca0e-7d063afdb3b3/mza_2943727101095172226.jpg/600x600bb.jpg"
     }
   ],
   "max_items": 80,
