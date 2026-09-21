@@ -70,7 +70,7 @@ git push
 ## Rules
 
 - Dedupe by `guid` (re-append is a no-op)
-- Keep last **80** items per feed
+- **Permanent library** — feeds keep every curated item forever (no rolling window). Dedupe by `guid` only.
 - **Never Lex Fridman** — append rejects matching title/show/description
 - No directory listing of `/feeds/` root on Pages (only token paths)
 

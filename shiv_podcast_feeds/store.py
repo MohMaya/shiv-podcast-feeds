@@ -24,10 +24,13 @@ def load_store(feed_key: str) -> dict[str, Any]:
 def save_store(feed_key: str, store: dict[str, Any], public_base: str) -> Path:
     d = feed_dir(feed_key)
     d.mkdir(parents=True, exist_ok=True)
-    max_items = int(store.get("max_items") or 80)
     items = store.get("items") or []
-    # newest first
-    items = sorted(items, key=lambda x: x.get("pub_date") or "", reverse=True)[:max_items]
+    # newest first — permanent library: never drop old items
+    # max_items: omit / null / 0 = unlimited; positive int = hard cap (legacy only)
+    raw_max = store.get("max_items")
+    items = sorted(items, key=lambda x: x.get("pub_date") or "", reverse=True)
+    if raw_max is not None and int(raw_max) > 0:
+        items = items[: int(raw_max)]
     store["items"] = items
     (d / "store.json").write_text(json.dumps(store, indent=2) + "\n")
     token = FEED_MAP[feed_key]["token"]
