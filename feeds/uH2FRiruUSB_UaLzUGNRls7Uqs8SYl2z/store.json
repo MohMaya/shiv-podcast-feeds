@@ -32,6 +32,19 @@
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "title": "#431 How Henry Singleton Worked",
+      "show": "Founders",
+      "enclosure_url": "https://traffic.megaphone.fm/DSLLC6578475076.mp3",
+      "guid": "66440888-a4dc-11f1-9ad2-4b47c594a56f",
+      "pub_date": "2026-08-31T04:05:00Z",
+      "duration": "49:04",
+      "link": "https://podcasts.apple.com/us/podcast/431-how-henry-singleton-worked/id1141877104?i=1000786905410",
+      "description": "What I learned from reading Distant Force: A Memoir of the Teledyne Corporation and The Man Who Created It by George Roberts and The Outsiders by William Thorndike \u2014 how Henry Singleton worked.\n\nSingleton's capital allocation as operating system \u2014 aggressive buybacks as strategy, not financial-engineering cosplay.\nOperator densifier: Teledyne/Outsiders playbook on how a founder-CEO compounds when the market misunderstands him.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/431-how-henry-singleton-worked/id1141877104?i=1000786905410",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
     }
   ],
   "max_items": 80,
