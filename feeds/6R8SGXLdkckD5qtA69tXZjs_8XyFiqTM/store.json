@@ -8,6 +8,19 @@
   "category": "Comedy",
   "items": [
     {
+      "title": "Case 353: Jaidyn Leskie",
+      "show": "Casefile True Crime",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/679acff465f74095106abfaa/e/6aae41eccba614939d5fb965/media.mp3",
+      "guid": "6aae41eccba614939d5fb965",
+      "pub_date": "2026-09-23T09:16:16Z",
+      "duration": "6604",
+      "link": "https://shows.acast.com/casefile-true-crime/episodes/case-353-jaidyn-leskie",
+      "description": "Casefile's cold precision on the 1997 Moe disappearance \u2014 small-town folklore colliding with forensic theater.",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://assets.pippa.io/shows/679acff465f74095106abfaa/1789806125652-77c875bb-185d-49e0-a73c-ef5e98a98bae.jpeg"
+    },
+    {
       "title": "MrBallen Explains What Dying in War Feels Like",
       "show": "Flagrant",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/27/claritaspod.com/measure/traffic.megaphone.fm/APPI9520575698.mp3",
