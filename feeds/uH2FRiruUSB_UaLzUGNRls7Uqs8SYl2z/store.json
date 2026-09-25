@@ -8,6 +8,19 @@
   "category": "Business",
   "items": [
     {
+      "title": "90 minutes of unfiltered product advice from Snap and Discord's product chief | Peter Sellis",
+      "show": "Lenny's Podcast",
+      "enclosure_url": "https://pscrb.fm/rss/p/api.substack.com/feed/podcast/213758597/e6478d1988c5d986c548343dc9c5babc.mp3",
+      "guid": "substack:post:213758597",
+      "pub_date": "2026-09-25T09:15:36Z",
+      "duration": "5813",
+      "link": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+      "description": "Post-role Sellis on Snap/Discord product judgment with no PR filter \u2014 operator craft densifier on growth, monetization tradeoffs, and when to ignore the playbook.",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 93004973,
+      "image_url": "https://substackcdn.com/feed/podcast/10845/post/213758597/d91be5c41604eb354d9d7ba5815f79f6.jpg"
+    },
+    {
       "title": "20VC: Why AI Cannot Replace Humans in Enterprise | Why Work Processes Not Models Will Be The Most Valuable Asset in AI | Why Europe Has Lost and Building in the US vs EU with Daniel Dines, UiPath",
       "show": "The Twenty Minute VC (20VC)",
       "enclosure_url": "https://traffic.libsyn.com/secure/thetwentyminutevc/Daniel_Dines__UiPath_3.mp3?dest-id=240976",
