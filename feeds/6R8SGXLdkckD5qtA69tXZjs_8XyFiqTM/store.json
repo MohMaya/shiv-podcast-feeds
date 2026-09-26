@@ -8,6 +8,19 @@
   "category": "Comedy",
   "items": [
     {
+      "title": "Private School Blues",
+      "show": "The Brilliant Idiots",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/27/claritaspod.com/measure/traffic.megaphone.fm/APPI5280398324.mp3",
+      "guid": "5b6129c4-f18a-11f0-a095-3f849078fa8f",
+      "pub_date": "2026-09-26T09:09:03Z",
+      "duration": "9076",
+      "link": "https://www.youtube.com/@BrilliantIdiots",
+      "description": "Comedy hang that stress-tests class signaling through private-school anxiety \u2014 entertainment lane craft is reading status games without turning them into a seminar. Sharpens taste for how Charlamagne/Andrew Banjo do conflict-as-banter: escalate, undercut, reset \u2014 not debate-club scoring.",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://megaphone.imgix.net/podcasts/291050fc-8012-11ef-957a-d7adfaeff93d/image/cbbbc2d91c1ce781e92d934df6a0c24f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
       "title": "179: The Courthouse - Revisited",
       "show": "Darknet Diaries",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/82aaba05-80c9-4d2e-8069-3c20f2b7dbc8/darknet-diaries-ep179-the-courthouse-revisited.mp3",
