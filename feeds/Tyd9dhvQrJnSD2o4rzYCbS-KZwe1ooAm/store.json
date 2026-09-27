@@ -9,29 +9,16 @@
   "image_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/brief-cover.jpg",
   "items": [
     {
-      "title": "The Brief \u2014 Sunday, Sep 27, 2026",
+      "title": "The Brief \u2014 Sunday, Sep 27, 2026 (Dual)",
       "show": "Sameer \u2014 The Brief",
       "enclosure_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/brief/2026-09-27.mp3",
       "guid": "brief-2026-09-27",
-      "pub_date": "Sun, 27 Sep 2026 14:05:00 +0000",
-      "duration": "464",
+      "pub_date": "Sun, 27 Sep 2026 14:20:00 +0000",
+      "duration": "491",
       "link": null,
-      "description": "Morning Brief for 2026-09-27 \u2014 Hormuz, midterms frame. Taste edition (Sarvam bulbul:v3 / shubh).",
+      "description": "Morning Brief for 2026-09-27 \u2014 Hormuz spine, dual-anchor (Sameer/Priya). Sarvam bulbul:v3 \u00b7 shubh + ritu \u00b7 en-IN.",
       "mime_type": "audio/mpeg",
-      "length_bytes": 7429292,
-      "image_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/brief-cover.jpg"
-    },
-    {
-      "title": "Welcome \u2014 Sameer The Brief",
-      "show": "Sameer \u2014 The Brief",
-      "enclosure_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/brief/welcome.mp3",
-      "guid": "brief-welcome",
-      "pub_date": "2026-09-27T14:02:15.249140+00:00",
-      "duration": "3",
-      "link": null,
-      "description": "Placeholder so Apple Podcasts can Follow this private feed. Real daily Briefs land after this.",
-      "mime_type": "audio/mpeg",
-      "length_bytes": 24493,
+      "length_bytes": 7848620,
       "image_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/brief-cover.jpg"
     }
   ],
