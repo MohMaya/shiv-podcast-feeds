@@ -9,6 +9,19 @@
   "image_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/brief-cover.jpg",
   "items": [
     {
+      "title": "The Brief \u2014 Sun 27 Sep 2026",
+      "show": "Sameer \u2014 The Brief",
+      "enclosure_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/brief/2026-09-27.mp3",
+      "guid": "brief-2026-09-27",
+      "pub_date": "Sun, 27 Sep 2026 14:05:00 +0000",
+      "duration": "516",
+      "link": null,
+      "description": "Morning Brew\u2013style audio Brief: Hormuz reject, Maharashtra drought cash defer, ECI SIR deadline Oct 12, Greer trade dump ahead. Sample episode (edge-tts); ElevenLabs voice next.",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 3097008,
+      "image_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/brief-cover.jpg"
+    },
+    {
       "title": "Welcome \u2014 Sameer The Brief",
       "show": "Sameer \u2014 The Brief",
       "enclosure_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/brief/welcome.mp3",
