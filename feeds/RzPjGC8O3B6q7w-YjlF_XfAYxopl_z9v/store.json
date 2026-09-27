@@ -1,7 +1,7 @@
 {
   "feed_key": "arena",
   "title": "Shiv \u2014 Arena",
-  "description": "News and social commentary across the spectrum (Breaking Points, Ezra Klein, Bill Maher, Daily Show, Tucker-as-performance). Cap: 1\u20132 episodes per drop \u2014 not a doomscroll.",
+  "description": "News and commentary across the spectrum \u2014 Breaking Points, Ezra Klein, Pivot, Daily Show, and adjacent voices. One or two episodes per drop; not a doomscroll.",
   "language": "en-us",
   "author": "Shivanshu Chaudhary",
   "explicit": "false",
@@ -15,7 +15,7 @@
       "pub_date": "2026-09-27T09:17:01Z",
       "duration": "4692",
       "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-      "description": "Commentary-as-performance densifier: Prince pitches micropayments + default-block crawlers as the post-ad web model while Nilay stress-tests whether bot-first incentives hollow out human publishing. Arena craft: watch how a CEO turns infrastructure power into a moral narrative \u2014 and where the interviewer refuses the tidy ending.",
+      "description": "Decoder with Nilay Patel and Cloudflare CEO Matthew Prince on micropayments, default-block crawlers, and whether bot-first incentives hollow out human publishing.\n\nWatch: https://youtu.be/4t8RhKbkb70",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://megaphone.imgix.net/podcasts/87c4228a-b388-11f1-ac82-0f252aa34536/image/fa1894b235d4e209f5361ef892f996e7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
@@ -28,7 +28,7 @@
       "pub_date": "2026-09-26T09:09:03Z",
       "duration": "5633",
       "link": "https://www.nytimes.com/2026/09/25/opinion/ezra-klein-podcast-abdul-el-sayed.html",
-      "description": "Belief-mapping interview with Abdul El-Sayed \u2014 Arena craft is forcing a politician's worldview into coherent priors, not doomscroll headlines. Non-AI-governance slot: how public-health left ideology translates into governing tradeoffs when pressed on specifics.",
+      "description": "Ezra Klein maps Abdul El-Sayed\u2019s worldview \u2014 public-health left ideology pressed into governing tradeoffs, not a doomscroll headline dump.\n\nWatch: https://youtu.be/f7MVyjL-rbk",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
@@ -41,7 +41,7 @@
       "pub_date": "2026-09-25T09:15:36Z",
       "duration": "3506",
       "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel",
-      "description": "Nilay\u00d7Gurman on Ternus's first launch as performance of succession narrative \u2014 rhetoric craft for how product theater and sourcing shape the Apple story.",
+      "description": "Decoder with Nilay Patel and Mark Gurman on John Ternus\u2019s first major Apple launch \u2014 succession narrative, product theater, and how sourcing shapes the Apple story.",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://megaphone.imgix.net/podcasts/ef42bb20-cfc6-11f0-83c5-0b3cacd889fa/image/e435bd360ea24d305ad599ad5f8582fa.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
@@ -54,7 +54,7 @@
       "pub_date": "2026-09-24T09:23:02Z",
       "duration": "6476",
       "link": "https://www.nytimes.com/2026/09/22/opinion/ezra-klein-podcast-jensen-huang.html",
-      "description": "Ezra Klein vs Nvidia's Jensen Huang on AI alarmism, chips, and influence \u2014 Arena rhetoric craft of the AI-power debate, not Pivot media/IPO horse race.",
+      "description": "Ezra Klein with Nvidia\u2019s Jensen Huang on AI alarmism, chips, and influence \u2014 the power debate from the company that sells the picks and shovels.\n\nWatch: https://youtu.be/HjurAWAr_nY",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
@@ -67,7 +67,7 @@
       "pub_date": "2026-09-23T09:16:16Z",
       "duration": "4350",
       "link": null,
-      "description": "Kara/Scott treat press bans and mega-media deals as performance \u2014 rhetoric of power, not doomscroll ticker.",
+      "description": "Pivot with Kara Swisher and Scott Galloway on Trump\u2019s press crackdown, Paramount\u2019s settlement, and Anthropic\u2019s mega-IPO talk \u2014 media power under deadline heat.\n\nWatch: https://youtu.be/pPTy2vFtiP8",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://megaphone.imgix.net/podcasts/d6280242-e5c9-11e8-a7e3-d766bb7d2d3e/image/bbb7849ef30865b87218347b3a090613.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
@@ -80,7 +80,7 @@
       "pub_date": "2026-09-22T09:07:19Z",
       "duration": "2883",
       "link": "https://www.thedailyshow.com/",
-      "description": "Arena watch: Stewart stages the press ban as theater of access \u2014 the gag (Desi-as-cherub) is the argument that power now performs exclusion as branding.\nSharpens taste: track how AI-threat rhetoric and immigrant rhetoric get rhymed for punchline density, not policy depth.",
+      "description": "The Daily Show with Jon Stewart on White House media bans, MAGA\u2019s AI embrace, and immigrant rhetoric \u2014 plus Ari Emanuel; comedy as access theater.",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://megaphone.imgix.net/podcasts/03aa1de8-52b7-11f0-86eb-d3cd1dd4eb3d/image/c1204095e98d1eb222234924fd55e675.png"
@@ -93,7 +93,7 @@
       "pub_date": "2026-09-21T21:28:57Z",
       "duration": "3561",
       "link": "https://podcasts.apple.com/us/podcast/9-21-26-ai-nearly-starts-china-war-diesel-prices-skyrocket/id1570045623?i=1000790961531",
-      "description": "News-as-performance: false AI intel nearly triggers a China intercept while diesel and apology theater compete for the day\u2019s emotional frame.\nArena watch: track which segment is analysis vs stage combat.",
+      "description": "Breaking Points: false AI intel nearly triggers a China intercept; diesel prices spike; Ed Sheeran\u2019s Palestine apology becomes the day\u2019s emotional frame.",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/image.jpg?t=1749829710&size=Large"
@@ -106,7 +106,7 @@
       "pub_date": "2026-09-21T13:56:50Z",
       "duration": "4019",
       "link": "https://podcasts.apple.com/us/podcast/pivot/id1073226513",
-      "description": "Arena as performance: Kara/Scott dissect Zuck\u2019s AI-safety rhetoric while the news cycle itself becomes the bit \u2014 media craft under deadline heat.",
+      "description": "Pivot on Zuckerberg\u2019s AI-safety pitch, Canada turning toward Europe, and Kash Patel\u2019s oddest headline \u2014 media craft while the news cycle itself is the bit.\n\nWatch: https://youtu.be/RupPxZkm1Nk",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://megaphone.imgix.net/podcasts/d6280242-e5c9-11e8-a7e3-d766bb7d2d3e/image/bbb7849ef30865b87218347b3a090613.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
@@ -119,7 +119,7 @@
       "pub_date": "2026-09-21T05:05:04Z",
       "duration": "1:08:17",
       "link": "https://podcasts.apple.com/us/podcast/what-hyperpolitics-explains-about-this-era/id1548604447?i=1000788429329",
-      "description": "Behind the intense political movements of the last decade, from Trumpism to wokeness and back again, there\u2019s a strange and erratic rhythm. Movements saturate the culture seemingly overnight, only to evaporate or spark backlash just as rapidly. We\u2019re extremely politically engaged, yet we\u2019ve rarely felt so powerless to create lasting policy change.\nI haven\u2019t seen many very successful attempts to explain what is driving this volatility. But one concept that has taken off recently, and captures what so many of us are feeling, is \u201chyperpolitics.\u201d\nThe idea comes from Anton J\u00e4ger, a historian and contributing writer to New York Times Opinion. In his book \u201cHyperpolitics: Extreme Politicization Without Political Consequences,\u201d J\u00e4ger theorizes what it means to live in a moment marked by hyper-engage\n\nHyperpolitics names the rhythm: cultural saturation overnight, durable policy leverage almost never.\nRhetoric craft for diagnosing why we're maximally engaged and still feel powerless \u2014 better than another doom clip.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/what-hyperpolitics-explains-about-this-era/id1548604447?i=1000788429329",
+      "description": "Ezra Klein on \u201chyperpolitics\u201d: movements that saturate culture overnight, then evaporate \u2014 intense engagement paired with little lasting policy change.\n\nWatch: https://youtu.be/PurFyLK-zlk",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/ca/35/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5/mza_16891544429738729361.jpg/600x600bb.jpg"
@@ -132,7 +132,7 @@
       "pub_date": "2026-09-21T01:10:33.190229+00:00",
       "duration": "3607",
       "link": "https://podcasts.apple.com/us/podcast/ep-742-jessica-tarlov-kevin-roose-christopher-rufo/id98746009?i=1000790640677",
-      "description": "Bill\u2019s guests are Jessica Tarlov, Kevin Roose, Christopher Rufo (Originally aired 9/18/26).\n\nWhy this sharpens your taste: watch panel combat as performance \u2014 Tarlov\u2019s pushback, Roose\u2019s tech-frame, Rufo\u2019s culture-war compression. Craft move: score the rhetoric (who defines the frame) instead of swallowing the headlines dump.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/ep-742-jessica-tarlov-kevin-roose-christopher-rufo/id98746009?i=1000790640677",
+      "description": "Real Time with Bill Maher: Jessica Tarlov, Kevin Roose, and Christopher Rufo \u2014 panel combat on politics, tech, and culture war (aired 9/18/26).",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/34/f5/5534f5b0-5ede-2a5f-3dca-ec893be9213d/mza_5964167055884841314.jpg/600x600bb.jpg"
@@ -145,7 +145,7 @@
       "pub_date": "2026-09-20T21:12:17.347875+00:00",
       "duration": "1877",
       "link": "https://podcasts.apple.com/us/podcast/we-cant-lose-control-of-a-i/id1548604447?i=1000790744856&uo=4",
-      "description": "Fears of out-of-control A.I. have reached a boil over the last few weeks, and several industry executives have called for a coordinated slowdown of A.I. development. But if our goal is to control A.I. \u2014 and that should be our goal \u2014 slowing down isn\u2019t enough. We need to stop the labs from doing something they\u2019re already on the cusp of doing: recursive self-improvement, or handing over the training of A.I. models to A.I. Mentioned: \u201c We\u2019re Not Losing Control of A.I. We\u2019re Giving It Away. \u201d by Ezra Klein You can find the transcript and more episodes of \u201cThe Ezra Klein Show\u201d at nytimes.com/ezra-klein-podcast. Book recommendations from all our guests are listed at https://www.nytimes.com/article/ezra-klein-show-book-recs.html This episode of \u201cThe Ezra Klein Show\u201d was produced by Marie Cascione, Emma Kehlbeck, Rollin Hu and Claire Gordon. Fact-checking by Marie Cascione, Isaac Scher and Julie\n\nWhy this sharpens your taste: Ezra Klein\u2019s \u201cWe Can\u2019t Lose Control of A.I.\u201d is an actual argument about coordination and control \u2014 not a headlines dump.\nCraft move: treat the slowdown call as a governance design problem; track the claim structure, skip the doomscroll.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/we-cant-lose-control-of-a-i/id1548604447?i=1000790744856&uo=4",
+      "description": "Ezra Klein on AI control: why slowing down isn\u2019t enough if labs are on the cusp of recursive self-improvement \u2014 and what coordinated restraint would actually require.\n\nWatch: https://youtu.be/fjZ90V_JREk",
       "mime_type": "audio/mpeg",
       "length_bytes": 30048095,
       "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/ca/35/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5/mza_16891544429738729361.jpg/600x600bb.jpg"
@@ -158,7 +158,7 @@
       "pub_date": "2026-09-20T18:26:09.541933+00:00",
       "duration": "3847",
       "link": "https://podcasts.apple.com/us/podcast/9-17-26-trump-panics-as-fed-raises-rates-gas-stations/id1570045623?i=1000790380732",
-      "description": "On today's show, Krystal and Saagar discuss the Fed hiking interest rates, Gas stations running out of diesel, Derek Thompson joins to discuss AI and polling showing 78% of Americans think it could destroy humanity, and finally a US vessel struck by Iran.\n \u00a0\n Derek Thompson:\u00a0https://www.derekthompson.org/\n \u00a0\n To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com\u00a0 \u00a0\n Merch Store: https://shop.breakingpoints.com/\u00a0 \u00a0\nSee omnystudio.com/listener for privacy information.\n\nWhy this is Arena: Breaking Points daily spectrum show \u2014 Fed/rates + AI public-mood segment. One curated drop, not a doomscroll.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/9-17-26-trump-panics-as-fed-raises-rates-gas-stations/id1570045623?i=1000790380732",
+      "description": "Breaking Points: Fed rate hike, diesel shortages, Derek Thompson on polling that shows most Americans fear AI could destroy humanity, and a US vessel struck by Iran.",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/05/ab/5d05ab1f-e6a0-cbf2-794c-88610a29aaae/mza_7195979173793692483.jpg/600x600bb.jpg"

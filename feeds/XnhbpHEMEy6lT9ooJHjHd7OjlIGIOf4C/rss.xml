@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Shiv — Listen</title>
-<description>Private taste feed: episodes only from Shiv&apos;s follow list. Curated for Apple Podcasts.</description>
+<description>Long-form episodes from Shiv’s follow list — history, science, philosophy, and writing that repay attention. Private taste feed for Apple Podcasts.</description>
 <language>en-us</language>
 <link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/XnhbpHEMEy6lT9ooJHjHd7OjlIGIOf4C/rss.xml</link>
 <itunes:author>Shivanshu Chaudhary</itunes:author>
-<itunes:summary>Private taste feed: episodes only from Shiv&apos;s follow list. Curated for Apple Podcasts.</itunes:summary>
+<itunes:summary>Long-form episodes from Shiv’s follow list — history, science, philosophy, and writing that repay attention. Private taste feed for Apple Podcasts.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Technology"/>
 <itunes:type>episodic</itunes:type>
@@ -15,7 +15,7 @@
 <image><url>https://mohmaya.github.io/shiv-podcast-feeds/assets/listen-cover.jpg</url><title>Shiv — Listen</title><link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/XnhbpHEMEy6lT9ooJHjHd7OjlIGIOf4C/rss.xml</link></image>
 <item>
 <title>Archive: Rosalind Franklin</title>
-<description>Credit-and-priority densifier: Franklin&apos;s crystallography as a case study in how scientific discovery gets attributed when labor is split across labs, genders, and publication timing. Sharpens how you read any &apos;who invented X&apos; story — separate the measurement craft from the narrative that later assigns the Nobel.</description>
+<description>Melvyn Bragg and guests on Rosalind Franklin — the X-ray crystallography behind the DNA double helix, and how credit for the discovery was divided after her death.</description>
 <link>https://www.bbc.co.uk/programmes/p0p2dn1j</link>
 <guid isPermaLink="false">urn:bbc:podcast:p0p2dn1j</guid>
 <pubDate>Sun, 27 Sep 2026 09:17:01 +0000</pubDate>
@@ -26,7 +26,9 @@
 </item>
 <item>
 <title>708. The Terror: The Reign of Robespierre (Part 2)</title>
-<description>Robespierre&apos;s Terror as a case study in how revolutionary purity logics eat their own coalition — power craft densifier on when moral absolutism becomes a selection pressure for worse operators. Maps the institutional mechanics of emergency rule: committees, denunciation incentives, and how &apos;virtue&apos; rhetoric substitutes for accountable decision rights.</description>
+<description>Tom and Dominic on Robespierre’s Reign of Terror: how revolutionary virtue hardened into emergency rule, denunciation, and the machinery that consumed its own coalition.
+
+Watch: https://youtu.be/5u2SLaHzwZA</description>
 <link>https://www.therestishistory.com/</link>
 <guid isPermaLink="false">f3fe2076-b67c-11f1-ba50-83337ba68545</guid>
 <pubDate>Sat, 26 Sep 2026 09:09:03 +0000</pubDate>
@@ -37,7 +39,7 @@
 </item>
 <item>
 <title>How to Make a Difference: Part 1</title>
-<description>Seligman on learned helplessness vs explanatory style — densifier on how the story you tell about a setback either freezes agency or reopens it.</description>
+<description>Hidden Brain with Martin Seligman on learned helplessness and explanatory style — how the story you tell about a setback can freeze agency or reopen it.</description>
 <link>https://www.hiddenbrain.org/podcast/how-to-make-a-difference-part-1/</link>
 <guid isPermaLink="false">6db8e638-e67f-448e-a75f-99f65fc41037</guid>
 <pubDate>Fri, 25 Sep 2026 09:15:36 +0000</pubDate>
@@ -48,7 +50,9 @@
 </item>
 <item>
 <title>Episode #189 ... Everything that connects us is slowly disappearing. - Byung Chul Han pt. 2</title>
-<description>Byung-Chul Han on the disappearance of rituals, truth, community, and public space — densifier on why connection thins and why being an &apos;idiot&apos; (unoptimized) still matters.</description>
+<description>Stephen West on Byung-Chul Han, part two: rituals, truth, community, and public space thinning out — and why resisting total optimization still matters.
+
+Watch: https://youtu.be/JXGvIGqZSuI</description>
 <link>https://philosophizethis.libsyn.com/episode-189-everything-that-connects-us-is-slowly-disappearing-byung-chul-han-pt-2</link>
 <guid isPermaLink="false">b095097f-3664-413c-bd3e-3761cdfbe10f</guid>
 <pubDate>Thu, 24 Sep 2026 09:23:02 +0000</pubDate>
@@ -59,7 +63,9 @@
 </item>
 <item>
 <title>368 | Elizabeth Alexander on Why Democracy Needs Imagination</title>
-<description>Poet Elizabeth Alexander on why literature and close reading build the empathy democracy needs — craft of language as civic infrastructure.</description>
+<description>Sean Carroll talks with poet Elizabeth Alexander about literature, close reading, and why imagination is civic infrastructure for democracy.
+
+Watch: https://youtu.be/u-_nDjjD7jE</description>
 <link>https://preposterousuniverse.com/podcast/2026/09/21/368-elizabeth-alexander-on-why-democracy-needs-imagination/</link>
 <guid isPermaLink="false">ebaebf4b-e2e1-4804-96a2-3194ee53ffa0</guid>
 <pubDate>Wed, 23 Sep 2026 09:16:16 +0000</pubDate>
@@ -70,8 +76,9 @@
 </item>
 <item>
 <title>The Art of True Happiness | Dr. Arthur Brooks</title>
-<description>Craft move: Brooks treats happiness as three measurable macronutrients (enjoyment, satisfaction, meaning) you can audit — not a vibe to chase.
-Sharpens taste: forces a founder-grade scoreboard on interior life instead of doomscrolling mood or productivity cosplay.</description>
+<description>Andrew Huberman with Arthur Brooks on happiness as enjoyment, satisfaction, and meaning — a practical frame for measuring a life, not chasing a mood.
+
+Watch: https://youtu.be/Gk2ArbsrZwE</description>
 <link>https://www.hubermanlab.com/episode/the-art-of-true-happiness-arthur-brooks</link>
 <guid isPermaLink="false">4b8cad26-afe8-11f1-825c-877fbad20543</guid>
 <pubDate>Tue, 22 Sep 2026 09:07:19 +0000</pubDate>
@@ -82,8 +89,7 @@ Sharpens taste: forces a founder-grade scoreboard on interior life instead of do
 </item>
 <item>
 <title>The Death of Reading (with James Marriott)</title>
-<description>Literacy as civilizational infrastructure: Marriott maps how deep reading trained patience, abstraction, and the private mind — and what thins when the feed replaces the page.
-Craft move: treat attention as a scarce production input, not a vibe.</description>
+<description>Russ Roberts with James Marriott on deep reading as civilizational infrastructure — patience, abstraction, and the private mind — and what thins when the feed replaces the page.</description>
 <link>https://podcasts.apple.com/us/podcast/the-death-of-reading-with-james-marriott/id135066958?i=1000790919027</link>
 <guid isPermaLink="false">89923c11-f90e-40e2-b48e-037f60b2da12</guid>
 <pubDate>Mon, 21 Sep 2026 21:28:53 +0000</pubDate>
@@ -93,7 +99,7 @@ Craft move: treat attention as a scarce production input, not a vibe.</descripti
 </item>
 <item>
 <title>707. The Terror: An Assassination in Paris (Part 1)</title>
-<description>Pure history reset: Marat’s murder as the spark that turns factional rhetoric into the Terror. How political storytelling manufactures bloodlust.</description>
+<description>The Rest Is History on the murder of Marat: how factional rhetoric tipped into the Terror, and political storytelling manufactured bloodlust in revolutionary Paris.</description>
 <link>https://podcasts.apple.com/us/podcast/707-the-terror-an-assassination-in-paris-part-1/id1537788786</link>
 <guid isPermaLink="false">0322655e-b118-11f1-b8eb-f79d9c6ca5d1</guid>
 <pubDate>Mon, 21 Sep 2026 13:56:46 +0000</pubDate>
@@ -104,12 +110,7 @@ Craft move: treat attention as a scarce production input, not a vibe.</descripti
 </item>
 <item>
 <title>Episode #252 ... Slaughterhouse-Five - Kurt Vonnegut</title>
-<description>Today we talk about Kurt Vonnegut&apos;s book Slaughterhouse-Five. How war stories can distort the reality of war, how trauma can fracture our experience of time and identity, and why Billy Pilgrim becomes attracted to the strange philosophy of the Tralfamadorians.
-
-Vonnegut&apos;s fractured time isn&apos;t a sci-fi gimmick — it&apos;s how trauma rewrites narrative causality.
-Craft move: philosophy through novel structure, not treatise — watch how Billy Pilgrim&apos;s Tralfamadorian &apos;unstuck&apos; becomes a thesis on war storytelling.
-
-Apple Podcasts: https://podcasts.apple.com/us/podcast/episode-252-slaughterhouse-five-kurt-vonnegut/id659155419?i=1000786665460</description>
+<description>Philosophize This! on Vonnegut’s Slaughterhouse-Five — war stories that distort war, trauma that fractures time and identity, and why Billy Pilgrim reaches for Tralfamadorian fatalism.</description>
 <link>https://podcasts.apple.com/us/podcast/episode-252-slaughterhouse-five-kurt-vonnegut/id659155419?i=1000786665460</link>
 <guid isPermaLink="false">d3072578-a3af-11f1-bac4-67a7ac3cb628</guid>
 <pubDate>Mon, 21 Sep 2026 05:05:00 +0000</pubDate>
@@ -120,11 +121,9 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/episode-252-slaughterhouse
 </item>
 <item>
 <title>366 | Jim Al-Khalili on Time, Quantum, Biology, and Cosmology</title>
-<description>Everyone lives through time, but we continue to struggle to fully understand it. We remain unsure whether time is fundamental or emergent, why it has an arrow pointing from past to future, and how that arrow connects to our experience of time&apos;s passage. Jim Al-Khalili&apos;s new book is On Time: The Physics that Makes the Universe Tick. We discuss what time is at the most basic level, and how it connects to open questions in biology, cosmology, and quantum mechanics.
+<description>Sean Carroll with physicist Jim Al-Khalili on time: whether it is fundamental or emergent, why it has an arrow, and how physics meets lived experience of its passage.
 
-Why this sharpens your taste: watch how Al-Khalili refuses to treat “time’s arrow” as one puzzle — he forces the link between thermodynamics, quantum measurement, and biological clocks. Craft move: densify by mapping one concept across disciplines instead of stacking metaphors.
-
-Apple Podcasts: https://podcasts.apple.com/us/podcast/366-jim-al-khalili-on-time-quantum-biology-and-cosmology/id1406534739?i=1000786961179</description>
+Watch: https://youtu.be/JVJP_d9U8Gs</description>
 <link>https://podcasts.apple.com/us/podcast/366-jim-al-khalili-on-time-quantum-biology-and-cosmology/id1406534739?i=1000786961179</link>
 <guid isPermaLink="false">aea50fac-dd5b-4daf-ab14-a05b8b2ce153</guid>
 <pubDate>Mon, 21 Sep 2026 01:10:32 +0000</pubDate>
@@ -135,12 +134,9 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/366-jim-al-khalili-on-time
 </item>
 <item>
 <title>The Home Depot</title>
-<description>The Home Depot&apos;s founding story is like an Avengers movie… if the Avengers got fired, went broke, and stacked empty paint cans ten feet high to look legitimate. After being unceremoniously fired from their previous hardware chain at ages 48 and 35, Bernie Marcus and Arthur Blank took the words of their New York banker Ken Langone (who had also just accidentally caused their firings) to heart: they&apos;d just been &quot;kicked in the ass with a golden horseshoe.” They proceeded to author the greatest compounding story in American retail history, helped by some legendary cameos along the way from Sol Price, Jamie Dimon, and Ross Perot (to name a few). And the ending is as good as any superhero film: from its 1981 IPO to today, The Home Depot has been the single highest-returning equity in the entire US stock market — higher than Apple, Microsoft, Berkshire Hathaway, and everything else! Sponsors: M
+<description>Acquired on Home Depot’s founding: Bernie Marcus and Arthur Blank, fired from a hardware chain, building the no-frills warehouse model that became the best-performing S&amp;P 500 stock since IPO.
 
-Why this sharpens your taste: Acquired treats the Home Depot founding like ops theater — fired execs, empty paint-can stagecraft, then density + SKU discipline as the real moat.
-Craft move: watch how Ben &amp; David reverse-engineer a category-killer from constraints, not vibes — founder ops without the TED gloss.
-
-Apple Podcasts: https://podcasts.apple.com/us/podcast/the-home-depot/id1050462261?i=1000789467893&amp;uo=4</description>
+Watch: https://youtu.be/6Kq5e49MD6U</description>
 <link>https://podcasts.apple.com/us/podcast/the-home-depot/id1050462261?i=1000789467893&amp;uo=4</link>
 <guid isPermaLink="false">68b66323-6e74-4c90-8157-ef3f1ed0d042</guid>
 <pubDate>Sun, 20 Sep 2026 21:12:17 +0000</pubDate>
@@ -151,14 +147,9 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/the-home-depot/id105046226
 </item>
 <item>
 <title>Francine Prose: This Is What a Harvard Writing Masterclass Feels Like | How I Write</title>
-<description>Francine Prose has written more than 30 books and taught at both Harvard and Bard College. If you ask her how to become a better writer, she&apos;ll tell you to start by reading like a writer. Look at words and sentences, characters and details. Study them, dissect them. Then find books that you love, ones that have stood the test of time, and ask yourself: Why has this book endured? Why has it stayed popular for so long?
+<description>David Perell with Francine Prose on reading like a writer — words, sentences, character, and detail — and how studying books that endure sharpens your own prose.
 
-But how do you actually do that? This interview provides an answer.
-
-Why this sharpens your taste: &quot;read like a writer&quot; is a craft move — treat sentences as dissectable mechanism, not mood.
-Ask the endurance question (why this book lasted) and reverse-engineer durability instead of collecting voice tips.
-
-Apple Podcasts: https://podcasts.apple.com/us/podcast/francine-prose-this-is-what-a-harvard-writing/id1700171470?i=1000790031658</description>
+Watch: https://youtu.be/OuHJ_DW9SnQ</description>
 <link>https://podcasts.apple.com/us/podcast/francine-prose-this-is-what-a-harvard-writing/id1700171470?i=1000790031658</link>
 <guid isPermaLink="false">4e6324ca-a887-11f1-b16c-27d7f954c236</guid>
 <pubDate>Sun, 20 Sep 2026 17:03:13 +0000</pubDate>
@@ -169,13 +160,9 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/francine-prose-this-is-wha
 </item>
 <item>
 <title>#433 How Michael Bloomberg Works</title>
-<description>What I learned from reading Bloomberg by Michael Bloomberg.
+<description>David Senra on Michael Bloomberg’s working system: attention architecture, information diet, and how Bloomberg built a terminal empire from operator habits.
 
-why this sharpens your taste:
-1) Senra’s craft: compress an operator’s whole work system into transferable heuristics — Bloomberg as attention architecture, not just a product story.
-2) Trains you to study HOW someone works (calendar, information diet, decision hygiene) instead of only what they built.
-
-Apple Podcasts: https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-works/id1141877104?i=1000789605191</description>
+Watch: https://youtu.be/1iH5YpzPZi8</description>
 <link>https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-works/id1141877104?i=1000789605191</link>
 <guid isPermaLink="false">founders-433-bloomberg-d0c3c534-b069-11f1-bc61-4345073b86a6</guid>
 <pubDate>Sun, 20 Sep 2026 14:01:31 +0000</pubDate>
@@ -186,7 +173,7 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-
 </item>
 <item>
 <title>Smoke: Welcome to Listen</title>
-<description>Bootstrap episode</description>
+<description>Bootstrap episode for the Listen feed.</description>
 <link>https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3</link>
 <guid isPermaLink="false">smoke-listen-001</guid>
 <pubDate>Sun, 20 Sep 2026 13:57:42 +0000</pubDate>

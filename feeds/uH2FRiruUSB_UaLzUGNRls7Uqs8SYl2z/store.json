@@ -1,7 +1,7 @@
 {
   "feed_key": "venture",
   "title": "Shiv \u2014 Venture",
-  "description": "Entrepreneurship + venture capital lane \u2014 Founders/David Senra, 20VC, operator-investor craft, company-building deep cuts. Wild finds welcome; not limited to a fixed show list. Private Legion shelf.",
+  "description": "Entrepreneurship and venture capital \u2014 Founders, 20VC, operator interviews, and company-building deep cuts. Private Legion shelf.",
   "language": "en-us",
   "author": "Shivanshu Chaudhary",
   "explicit": "false",
@@ -15,7 +15,7 @@
       "pub_date": "2026-09-27T09:17:01Z",
       "duration": "5412",
       "link": "https://davidsenra.com/episode/ronnie-fieg",
-      "description": "Founder-craft densifier: Fieg's 15-year stock-boy-to-buyer apprenticeship before Kith \u2014 taste as a compounding skill built on the floor, not a brand deck. Maps how collaboration with every house without burning bridges becomes the actual moat in lifestyle retail.",
+      "description": "David Senra with Ronnie Fieg on building Kith: a fifteen-year stock-boy-to-buyer apprenticeship, and how collaboration without burning bridges became the moat in lifestyle retail.",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://megaphone.imgix.net/podcasts/9eb76400-b9f2-11f1-be95-7768896ad95f/image/cfde8fcd86bc8decbfc5c5eb2b2cafd3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
@@ -28,7 +28,7 @@
       "pub_date": "2026-09-26T09:09:03Z",
       "duration": "4841",
       "link": "https://www.davidsenra.com/episode/peter-rahal",
-      "description": "Peter Rahal (RXBAR\u2192David Protein) on treating the organization itself as the product \u2014 company-building densifier beyond pitch-deck VC talk. Craft moves: hire ex-founders for truth-seeking culture, buy critical suppliers for control, and prefer speed over max fundraising valuation.",
+      "description": "David Senra with Peter Rahal (RXBAR \u2192 David Protein) on treating the organization as the product: hire ex-founders for truth-seeking culture, own critical suppliers, prefer speed over max valuation.",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://megaphone.imgix.net/podcasts/c4a6781c-b499-11f1-8aa9-2faed89cc513/image/9f26cd6d7669a2b3f10ada2c6de3504e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
@@ -41,7 +41,7 @@
       "pub_date": "2026-09-25T09:15:36Z",
       "duration": "5813",
       "link": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
-      "description": "Post-role Sellis on Snap/Discord product judgment with no PR filter \u2014 operator craft densifier on growth, monetization tradeoffs, and when to ignore the playbook.",
+      "description": "Lenny\u2019s Podcast with Peter Sellis \u2014 ninety minutes of unfiltered product advice from Snap and Discord\u2019s product chief on growth, monetization, and when to ignore the playbook.\n\nWatch: https://youtu.be/97LRJUUPy_w",
       "mime_type": "audio/mpeg",
       "length_bytes": 93004973,
       "image_url": "https://substackcdn.com/feed/podcast/10845/post/213758597/d91be5c41604eb354d9d7ba5815f79f6.jpg"
@@ -54,7 +54,7 @@
       "pub_date": "2026-09-24T09:23:02Z",
       "duration": "4271",
       "link": "https://thetwentyminutevc.libsyn.com/20vc-why-ai-cannot-replace-humans-in-enterprise-why-work-processes-not-models-will-be-the-most-valuable-asset-in-ai-why-europe-has-lost-and-building-in-the-us-vs-eu-with-daniel-dines-uipath",
-      "description": "UiPath's Daniel Dines with Harry Stebbings: processes > models, enterprise AI limits, US vs EU building \u2014 operator craft Venture, not another ILTB.",
+      "description": "20VC with UiPath\u2019s Daniel Dines: why work processes, not models, may be the most valuable AI asset \u2014 enterprise limits, and building in the US versus Europe.\n\nWatch: https://youtu.be/N9U-RoNXYZE",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://static.libsyn.com/p/assets/8/2/9/0/829042fc775095ffe5bbc093207a2619/WhatsApp_Image_2026-09-18_at_12.41.29.jpeg"
@@ -67,7 +67,7 @@
       "pub_date": "2026-09-23T09:16:16Z",
       "duration": "3864",
       "link": null,
-      "description": "Rogo's Gabe Stengel on reinventing the investment firm around AI \u2014 operator craft for research workflows, not vibes.",
+      "description": "Invest Like the Best with Gabe Stengel of Rogo on reinventing the investment firm around AI \u2014 research workflows as the product, not vibes.",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://megaphone.imgix.net/podcasts/ea3567a0-b511-11f1-b31a-f738f618d5f9/image/e0d60dda5b55c63765f86fb73cf76287.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
@@ -80,7 +80,7 @@
       "pub_date": "2026-09-22T09:07:19Z",
       "duration": "4348",
       "link": "https://colossus.com/episode/the-outsider/",
-      "description": "Operator OS: Moritz\u2019s decades-long habit of asking founders about childhood is a diligence heuristic \u2014 biography as predictive feature, not soft filler.\nSharpens taste: outsider refugee imprint \u2192 Sequoia pattern recognition; pride-as-trap for operators who confuse winning with feeling finished.",
+      "description": "Invest Like the Best with former Sequoia chairman Michael Moritz \u2014 forty years of investing and writing: childhood questions as diligence, outsider imprint, and pride as an operator trap.\n\nWatch: https://youtu.be/mlWX7RltfDE",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://megaphone.imgix.net/podcasts/87191ece-b17d-11f1-82f8-a3ebc660a3bc/image/734f94636b0ab21156cfdf1fe5727b55.jpg"
@@ -93,7 +93,7 @@
       "pub_date": "2026-09-21T21:28:58Z",
       "duration": "3347",
       "link": "https://podcasts.apple.com/us/podcast/432-the-mind-of-napoleon/id1141877104?i=1000788032837",
-      "description": "Founder OS from Napoleon\u2019s own maxims: speed over perfect plans, morale as a production system, and thin rule-sets that compound under pressure.\nNot hustle lore \u2014 decision heuristics that scale.",
+      "description": "Founders on Napoleon\u2019s maxims: speed over perfect plans, morale as a production system, and thin rule-sets that compound under pressure.\n\nWatch: https://youtu.be/WWQFtt6Hm10",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": null
@@ -106,7 +106,7 @@
       "pub_date": "2026-09-21T13:56:51Z",
       "duration": "2931",
       "link": "https://podcasts.apple.com/us/podcast/434-sam-walton/id1141877104",
-      "description": "Operator craft via Vance Trimble\u2019s Walton bio: buy cheap, sell low, every day, with a smile \u2014 density of merchandising heuristics without the pain-lore frame.",
+      "description": "Founders via Vance Trimble\u2019s Walton biography: buy cheap, sell low, every day, with a smile \u2014 merchandising heuristics from the Walmart operating system.",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://megaphone.imgix.net/podcasts/0fe786f2-3d92-11f0-8fb0-e778594b8bf8/image/b3123fe637dbdfa2bd55f9fbfb386aca.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
@@ -119,7 +119,7 @@
       "pub_date": "2026-09-21T05:05:05Z",
       "duration": "49:04",
       "link": "https://podcasts.apple.com/us/podcast/431-how-henry-singleton-worked/id1141877104?i=1000786905410",
-      "description": "What I learned from reading Distant Force: A Memoir of the Teledyne Corporation and The Man Who Created It by George Roberts and The Outsiders by William Thorndike \u2014 how Henry Singleton worked.\n\nSingleton's capital allocation as operating system \u2014 aggressive buybacks as strategy, not financial-engineering cosplay.\nOperator densifier: Teledyne/Outsiders playbook on how a founder-CEO compounds when the market misunderstands him.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/431-how-henry-singleton-worked/id1141877104?i=1000786905410",
+      "description": "Founders on Henry Singleton / Teledyne: capital allocation as operating system \u2014 aggressive buybacks as strategy, not financial-engineering cosplay.\n\nWatch: https://youtu.be/fC6ICHKJBXU",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
@@ -132,7 +132,7 @@
       "pub_date": "2026-09-21T01:10:33.262937+00:00",
       "duration": "3810",
       "link": "https://podcasts.apple.com/us/podcast/430-how-to-write-ads-that-sell/id1141877104?i=1000785306106",
-      "description": "Claude Hopkins was the greatest copywriter of all time. His ideas were so valuable that when he wrote them down in a book the founder of his advertising firm locked the manuscript in a safe for 20 years. When the book was finally published it sold over 8 million copies. David Ogilvy said that nobody should work in advertising until they had read the book seven times. This episode is what I learned by reading Claude Hopkins' autobiography My Life In Advertising and his legendary book Scientific Advertising.\n\nWhy this sharpens your taste: Hopkins\u2019 rule \u2014 advertising is salesmanship in print, measured by results, not cleverness. Craft move: treat every line as a testable claim; Senra extracts the operator habit behind Scientific Advertising.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/430-how-to-write-ads-that-sell/id1141877104?i=1000785306106",
+      "description": "Founders on Claude Hopkins\u2019s Scientific Advertising \u2014 the copywriting ideas Ogilvy said nobody should work in advertising until they\u2019d read seven times.\n\nWatch: https://youtu.be/9YrcSWczGdg",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
@@ -145,7 +145,7 @@
       "pub_date": "2026-09-21T00:40:28.578987+00:00",
       "duration": "2932",
       "link": "https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-works/id1141877104?i=1000789605191&uo=4",
-      "description": "What I learned from reading Bloomberg by Michael Bloomberg. \n\nMade possible by:\n\nRamp: \u2060\u2060\u2060https://ramp.com\u2060\u2060\u2060\n\nAppLovin: \u2060\u2060\u2060https://www.applovin.com\u2060\n\nVanta: \u2060\u2060\u2060https://vanta.com/founders\u2060\n\nSage: \u2060https://founderspodcast.com/sage\n\nWhy this sharpens your Venture shelf: David Senra\u2019s Founders on Bloomberg \u2014 operator biography as company-building craft, not pitch theater.\nCraft move: steal the working cadence and distribution instincts; skip the founder-myth gloss.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-works/id1141877104?i=1000789605191&uo=4",
+      "description": "Founders on Michael Bloomberg\u2019s working system: attention architecture, information diet, and how Bloomberg built a terminal empire from operator habits.\n\nWatch: https://youtu.be/1iH5YpzPZi8",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"

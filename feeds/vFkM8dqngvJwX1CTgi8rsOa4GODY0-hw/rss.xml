@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Shiv — Discover</title>
-<description>Private discovery feed: stimulating new episodes from follows + new shows. Curated for Apple Podcasts.</description>
+<description>Stimulating finds beyond the usual queue — economics, institutions, history, and ideas worth sitting with. Private discovery feed for Apple Podcasts.</description>
 <language>en-us</language>
 <link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/vFkM8dqngvJwX1CTgi8rsOa4GODY0-hw/rss.xml</link>
 <itunes:author>Shivanshu Chaudhary</itunes:author>
-<itunes:summary>Private discovery feed: stimulating new episodes from follows + new shows. Curated for Apple Podcasts.</itunes:summary>
+<itunes:summary>Stimulating finds beyond the usual queue — economics, institutions, history, and ideas worth sitting with. Private discovery feed for Apple Podcasts.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Technology"/>
 <itunes:type>episodic</itunes:type>
@@ -15,7 +15,9 @@
 <image><url>https://mohmaya.github.io/shiv-podcast-feeds/assets/discover-cover.jpg</url><title>Shiv — Discover</title><link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/vFkM8dqngvJwX1CTgi8rsOa4GODY0-hw/rss.xml</link></image>
 <item>
 <title>The Rocky Statue</title>
-<description>Public-taste densifier: a movie prop becomes a civic monument because the crowd&apos;s class claim beat the art establishment — maps how legitimacy in public space is negotiated, not conferred. Sharpens how you read any brand/city icon fight: who gets to decide what represents a place.</description>
+<description>99% Invisible on how a movie prop became a civic monument in Philadelphia — and how the crowd’s claim beat the art establishment over what represents a place.
+
+Watch: https://youtu.be/PcpttgVTlIQ</description>
 <link>https://99percentinvisible.org/episode/684-the-rocky-statue/</link>
 <guid isPermaLink="false">7b438d65-2c70-44cd-9210-2da2eaffe1b3</guid>
 <pubDate>Sun, 27 Sep 2026 09:17:01 +0000</pubDate>
@@ -26,7 +28,9 @@
 </item>
 <item>
 <title>Middlegarchs are the new Oligarchs</title>
-<description>Introduces &apos;middlegarchs&apos; — stealth millionaires who shape markets without oligarch-scale brand gravity — a framing tool for spotting soft power in capital flows. Econ craft move: rename the middle of the wealth distribution so you stop treating &apos;rich&apos; as a single actor class.</description>
+<description>Planet Money on “middlegarchs”: stealth millionaires who shape markets without oligarch-scale brand gravity — a clearer map of soft power in the middle of the wealth distribution.
+
+Watch: https://youtu.be/_y8FrkZXvXA</description>
 <link>https://www.npr.org/2026/09/25/nx-s1-5981194/stealthy-wealthy-everywhere-millionaires-pass-through</link>
 <guid isPermaLink="false">10652924-571e-4b6e-bd4f-11f819c1dc21</guid>
 <pubDate>Sat, 26 Sep 2026 09:09:03 +0000</pubDate>
@@ -37,7 +41,9 @@
 </item>
 <item>
 <title>Democratic Socialism. Hope or Hopeless?</title>
-<description>Michael Harrington&apos;s path from Catholic radical to Democratic loyalist — institutional craft on when compromise builds power and when it dissolves the movement.</description>
+<description>Throughline on Michael Harrington’s path from Catholic radical to Democratic loyalist — when compromise builds power, and when it dissolves the movement.
+
+Watch: https://youtu.be/5NbIJDnGkqQ</description>
 <link>https://www.npr.org/2026/09/24/nx-s1-5979087/democratic-socialism-hope-or-hopeless</link>
 <guid isPermaLink="false">9d23b8aa-aad2-4de0-a7cf-f0a2b76408b2</guid>
 <pubDate>Fri, 25 Sep 2026 09:15:36 +0000</pubDate>
@@ -48,7 +54,9 @@
 </item>
 <item>
 <title>Gita Gopinath on Trade, Currencies, and Economic Transformation</title>
-<description>IMF deputy MD Gita Gopinath on dollar dominance, sovereign debt plumbing, and how currencies reshape trade — institutional econ, not prediction-market casino talk.</description>
+<description>Tyler Cowen with IMF deputy MD Gita Gopinath on dollar dominance, sovereign debt plumbing, and how currencies reshape trade and economic transformation.
+
+Watch: https://youtu.be/MPXd2pa5V9Y</description>
 <link>https://cowenconvos.libsyn.com/gita-gopinath-on-trade-currencies-and-economic-transformation</link>
 <guid isPermaLink="false">c93068a8-bf8b-409f-b3a6-9b9b54a2f196</guid>
 <pubDate>Thu, 24 Sep 2026 09:23:02 +0000</pubDate>
@@ -59,7 +67,9 @@
 </item>
 <item>
 <title>Jared Diamond on Leaders, Luck, and Irreplaceability</title>
-<description>When do individuals actually move history? Diamond pressure-tests replaceability across prophets, CEOs, coaches — Guns Germs Steel&apos;s error term.</description>
+<description>Tyler Cowen with Jared Diamond on leaders, luck, and irreplaceability — when individuals actually move history across prophets, CEOs, and coaches.
+
+Watch: https://youtu.be/SwcVPrH_waU</description>
 <link>https://conversationswithtyler.com/episodes/jared-diamond/</link>
 <guid isPermaLink="false">428d1e9c-ca86-42c7-ad57-087643b29c53</guid>
 <pubDate>Wed, 23 Sep 2026 09:16:16 +0000</pubDate>
@@ -70,8 +80,9 @@
 </item>
 <item>
 <title>687. Are Prediction Markets the Best Forecasting Tool Ever — or Just Another Casino?</title>
-<description>Idea: when markets price beliefs, they expose whether institutions want truth-seeking forecasts or just sports-bet liquidity dressed as civic tech.
-Sharpens taste: watch how Kalshi/experts frame ‘information’ vs entertainment — the same power move behind every dashboard you trust.</description>
+<description>Freakonomics Radio on prediction markets: best forecasting tool ever, or sports-bet liquidity dressed as civic tech — and how Kalshi and experts frame “information” vs entertainment.
+
+Watch: https://youtu.be/UDyQLVhGiIY</description>
 <link>https://freakonomics.com/podcast/are-prediction-markets-the-best-forecasting-tool-ever-or-just-another-casino/</link>
 <guid isPermaLink="false">cac7f440-db18-4f95-aa7f-34f2823ff93b</guid>
 <pubDate>Tue, 22 Sep 2026 09:07:19 +0000</pubDate>
@@ -82,8 +93,9 @@ Sharpens taste: watch how Kalshi/experts frame ‘information’ vs entertainmen
 </item>
 <item>
 <title>The loan at the heart of a new foreclosure crisis</title>
-<description>DSCR loans let rental cash-flow underwrite the borrower — a quiet financial redesign that scales portfolios until one Baltimore stack shows how ‘innovation’ re-imports GFC risk.
-Systems craft: watch the underwriting rule, not the marketing label.</description>
+<description>Planet Money on DSCR loans: rental cash-flow underwriting that scales investor portfolios — and how one Baltimore stack shows GFC-style risk returning under a new label.
+
+Watch: https://youtu.be/JcBRR4ftTQE</description>
 <link>https://podcasts.apple.com/us/podcast/the-loan-at-the-heart-of-a-new-foreclosure-crisis/id290783428?i=1000789070345</link>
 <guid isPermaLink="false">e4a2224f-f462-445a-9401-ad628eaee491</guid>
 <pubDate>Mon, 21 Sep 2026 21:28:54 +0000</pubDate>
@@ -94,7 +106,9 @@ Systems craft: watch the underwriting rule, not the marketing label.</descriptio
 </item>
 <item>
 <title>The Domino’s Pizza Tracker Theory of Everything</title>
-<description>Economics-not-founder gem: the Domino’s tracker as labor illusion — progress UI that makes waiting feel like work being done. Institutional craft hiding in a pizza app.</description>
+<description>Planet Money on the Domino’s pizza tracker as labor illusion — progress UI that makes waiting feel like work being done, and the economics hiding in a pizza app.
+
+Watch: https://youtu.be/r2oo0u2Zpdw</description>
 <link>https://www.npr.org/2026/09/18/nx-s1-5974101/dominos-pizza-tracker-labor-illusion</link>
 <guid isPermaLink="false">f22761e6-409c-4d57-91d6-5d9a8cca840b</guid>
 <pubDate>Mon, 21 Sep 2026 13:56:47 +0000</pubDate>
@@ -105,12 +119,9 @@ Systems craft: watch the underwriting rule, not the marketing label.</descriptio
 </item>
 <item>
 <title>Talent, Time and Money: The Curse of General Magic</title>
-<description>It&apos;s 1990. A new company called General Magic is going to build its vision of the future: the smart phone. They have talent, almost unlimited cash, and a 15 year head start on the iPhone. What could go wrong? Based on David Epstein&apos;s book Inside the Box: How Constraints Make Us Better.
+<description>Cautionary Tales on General Magic: talent, nearly unlimited cash, and a fifteen-year head start on the smartphone — and why constraints, not abundance, often decide who wins.
 
-General Magic had talent, unlimited cash, and a 15-year head start on the iPhone — and still lost.
-Idea: constraints as competitive advantage, not romantic scarcity. Harford/Epstein turn a Silicon Valley cautionary into a decision-design lesson.
-
-Apple Podcasts: https://podcasts.apple.com/us/podcast/talent-time-and-money-the-curse-of-general-magic/id1484511465?i=1000788891693</description>
+Watch: https://youtu.be/JE7XMevEFTg</description>
 <link>https://podcasts.apple.com/us/podcast/talent-time-and-money-the-curse-of-general-magic/id1484511465?i=1000788891693</link>
 <guid isPermaLink="false">7921d25b-ef54-466a-8e25-5ceebdad37b1</guid>
 <pubDate>Mon, 21 Sep 2026 05:05:01 +0000</pubDate>
@@ -121,11 +132,9 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/talent-time-and-money-the-
 </item>
 <item>
 <title>Annie Lowrey on the Time Tax, Fraud, and Rationing by Paperwork</title>
-<description>Annie Lowrey&apos;s new book, The Time Tax, argues that the most regressive levy in American life is the hours each of us must spend on hold, in waiting rooms, and filling out forms a competent state would have pre-filled — roughly fifty a year on average, and far more if you&apos;re poor. Tyler spends much of this conversation pressing the opposite case, asking whether that bureaucracy is quietly serving a useful purpose by rationing knee surgeries that don&apos;t work, deterring fraud, or screening for immigration.
+<description>Tyler Cowen with Annie Lowrey on the time tax: hours spent on hold, in waiting rooms, and filling forms — and whether bureaucracy is a regressive levy or a quiet rationing tool.
 
-Why this sharpens your taste: Tyler’s steelman (bureaucracy as rationing/fraud filter) vs Lowrey’s “time is the regressive tax” — learn to argue policy as design, not vibes. Craft move: treat inconvenience as a deliberate lever, then ask who it actually screens.
-
-Apple Podcasts: https://podcasts.apple.com/us/podcast/annie-lowrey-on-the-time-tax-fraud-and-rationing/id983795625?i=1000790017400</description>
+Watch: https://youtu.be/o0ZDf0bgEXE</description>
 <link>https://podcasts.apple.com/us/podcast/annie-lowrey-on-the-time-tax-fraud-and-rationing/id983795625?i=1000790017400</link>
 <guid isPermaLink="false">3b3075d6-88eb-49e8-a362-b110a84429b5</guid>
 <pubDate>Mon, 21 Sep 2026 01:10:32 +0000</pubDate>
@@ -136,12 +145,7 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/annie-lowrey-on-the-time-t
 </item>
 <item>
 <title>706. Queen Victoria’s Revenge: Storming the Citadel (Part 2)</title>
-<description>Who was Lieutenant Napier, the man set out to rescue the European hostages held by Emperor Tewodros II? How did he plan to attack the emperor’s fortress, Magdala? And, did they manage to successfully escape Abyssinia? Join Dominic and Tom as they conclude the story of one of the most epic expeditions in the history of the British Empire. Join The Rest Is History Club: Unlock the full experience of the show – with exclusive bonus episodes, ad-free listening, early access to every series and live show tickets, a members-only newsletter, discounted books from the show, and access to our private Discord chatroom. Sign up directly at the⁠⁠restishistory.com⁠ To read our new newsletter, sign up at: ⁠therestishistory.com/newsletters⁠ Advertise with us: ⁠Partnerships@goalhanger.com _______ Twitter: @TheRestHistory @holland_tom @dcsandbrook Video Editors: Jack Meek, Harry Swan + Adam Thornton Soci
-
-Why this sharpens your taste: Rest Is History turns Magdala into a logistics problem — Napier’s rescue as imperial machinery, not costume drama.
-Craft move: power reads cleaner when you track supply lines and fortress geometry instead of personality alone.
-
-Apple Podcasts: https://podcasts.apple.com/us/podcast/queen-victorias-revenge-storming-the-citadel-part-2/id1537788786?i=1000789062489&amp;uo=4</description>
+<description>The Rest Is History concludes Queen Victoria’s Abyssinian expedition: Napier’s rescue of European hostages, the storming of Magdala, and one of the empire’s most epic campaigns.</description>
 <link>https://podcasts.apple.com/us/podcast/queen-victorias-revenge-storming-the-citadel-part-2/id1537788786?i=1000789062489&amp;uo=4</link>
 <guid isPermaLink="false">78de6472-b047-11f1-8db3-b311e9cdbee0</guid>
 <pubDate>Sun, 20 Sep 2026 21:12:17 +0000</pubDate>
@@ -152,12 +156,9 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/queen-victorias-revenge-st
 </item>
 <item>
 <title>Incentives Are for Losers (with Adam Mastroianni)</title>
-<description>Incentives matter, sure. But what should you do when following the incentives means quietly participating in something wrong? Psychologist Adam Mastroianni argues that obeying bad incentives--shading a headline for clicks, keeping the found wallet because no one&apos;s watching--is &quot;loser behavior,&quot; a surrender of the hardest and most human task: figuring out right from wrong for yourself. In this wide-ranging EconTalk conversation, he and Russ Roberts explore Le Guin&apos;s &quot;Omelas,&quot; the &quot;big fish&quot; you glimpse that could upend your whole life, and Charles Sumner&apos;s near-fatal courage. They wrestle with whether good incentives or good people matter more, why lavish academic salaries may attract exactly the wrong scholars, and the moral lessons of marriage.
+<description>EconTalk with Adam Mastroianni: when following bad incentives is “loser behavior” — and why figuring out right from wrong yourself is harder than maximizing the scoreboard.
 
-Why this sharpens your taste: &quot;loser behavior&quot; flips the incentives-as-excuse — when the scoreboard rewards the wrong thing, the hard skill is refusing the scoreboard.
-Omelas/Sumner pairing: moral clarity as operator discipline, not vibes.
-
-Apple Podcasts: https://podcasts.apple.com/us/podcast/incentives-are-for-losers-with-adam-mastroianni/id135066958?i=1000789541014</description>
+Watch: https://youtu.be/XEislRTN_F8</description>
 <link>https://podcasts.apple.com/us/podcast/incentives-are-for-losers-with-adam-mastroianni/id135066958?i=1000789541014</link>
 <guid isPermaLink="false">71bab1ff-64f1-4931-8639-f9bd34dcd033</guid>
 <pubDate>Sun, 20 Sep 2026 17:03:13 +0000</pubDate>
@@ -168,13 +169,9 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/incentives-are-for-losers-
 </item>
 <item>
 <title>Show 74 - Mania for Subjugation IV</title>
-<description>The stage is set for an in-person showdown between Alexander and Persia&apos;s Great King. The resulting Battle of Issus, although often ignored by Hollywood, is one of the most important battles in all ancient history. It gets its due here.
+<description>Dan Carlin’s Hardcore History on the Battle of Issus — Alexander versus Persia’s Great King in a showdown often skipped by Hollywood but decisive in ancient history.
 
-why this sharpens your taste:
-1) Carlin’s craft: long-arc narrative that treats conquest as incentive design and systems failure — not battlefield trivia.
-2) Builds patience for power dynamics across centuries; the antidote to news-cycle history.
-
-Apple Podcasts: https://podcasts.apple.com/us/podcast/mania-for-subjugation-iv/id173001861?i=1000779313976</description>
+Watch: https://youtu.be/Gu4syP_IzQs</description>
 <link>https://podcasts.apple.com/us/podcast/mania-for-subjugation-iv/id173001861?i=1000779313976</link>
 <guid isPermaLink="false">hardcore-history-74-mania-for-subjugation-iv</guid>
 <pubDate>Sun, 20 Sep 2026 14:01:31 +0000</pubDate>
@@ -185,7 +182,7 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/mania-for-subjugation-iv/i
 </item>
 <item>
 <title>Smoke: Welcome to Discover</title>
-<description>Shiv Private Feeds: Smoke: Welcome to Discover</description>
+<description>Bootstrap episode for the Discover feed.</description>
 <link>https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3</link>
 <guid isPermaLink="false">smoke-discover-001</guid>
 <pubDate>Sun, 20 Sep 2026 13:57:42 +0000</pubDate>

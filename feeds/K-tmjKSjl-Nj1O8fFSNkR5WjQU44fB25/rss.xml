@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Shiv — Desi</title>
-<description>Indian creators in Hindi and English — interviews, comedy, culture. Curated private feed for Apple Podcasts.</description>
+<description>Indian creators in Hindi and English — interviews, comedy, culture, and business. Private feed for Apple Podcasts.</description>
 <language>en-us</language>
 <link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/K-tmjKSjl-Nj1O8fFSNkR5WjQU44fB25/rss.xml</link>
 <itunes:author>Shivanshu Chaudhary</itunes:author>
-<itunes:summary>Indian creators in Hindi and English — interviews, comedy, culture. Curated private feed for Apple Podcasts.</itunes:summary>
+<itunes:summary>Indian creators in Hindi and English — interviews, comedy, culture, and business. Private feed for Apple Podcasts.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Society &amp; Culture"/>
 <itunes:type>episodic</itunes:type>
@@ -15,7 +15,9 @@
 <image><url>https://mohmaya.github.io/shiv-podcast-feeds/assets/desi-cover.jpg</url><title>Shiv — Desi</title><link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/K-tmjKSjl-Nj1O8fFSNkR5WjQU44fB25/rss.xml</link></image>
 <item>
 <title>Anthropic, Sequoia Investor: 55x Returns in 18 Months, Is Anthropic Worth Trillions? | Vishal Verma</title>
-<description>Desi-LP densifier: Verma on how LPs pick VCs when the AI stack is moving under everyone&apos;s feet — 55x in 18 months as a stress test of access vs. thesis. Craft move: separate fund-of-funds pattern-matching from founder-level conviction when the headline return is the bait.</description>
+<description>The Neon Show with Sequoia investor Vishal Verma on Anthropic, 55x returns in eighteen months, and who actually makes money when the AI stack is moving under everyone’s feet.
+
+Watch: https://youtu.be/YL9dLVAyfKU</description>
 <link>https://www.buzzsprout.com/1601695/episodes/19844858</link>
 <guid isPermaLink="false">Buzzsprout-19844858</guid>
 <pubDate>Sun, 27 Sep 2026 09:17:01 +0000</pubDate>
@@ -26,7 +28,7 @@
 </item>
 <item>
 <title>“Yes.” Building Claude Code for Marketing | Kashish, Hightouch</title>
-<description>Kashish on building agentic marketing tooling at Hightouch — Desi founder craft on productizing &apos;Claude Code for GTM&apos; without ANI-style talk-show politics. Idea: treat marketing ops as a code surface (workflows, evals, permissions) rather than a content treadmill.</description>
+<description>The Neon Show with Kashish of Hightouch on building agentic marketing tooling — productizing “Claude Code for GTM” as workflows, evals, and permissions, not a content treadmill.</description>
 <link>https://neon.show/</link>
 <guid isPermaLink="false">Buzzsprout-19862501</guid>
 <pubDate>Sat, 26 Sep 2026 09:09:03 +0000</pubDate>
@@ -37,7 +39,9 @@
 </item>
 <item>
 <title>Peak Pessimism in India: What Does The Data Say?</title>
-<description>Steel-man the India bear case then check it against earnings/CapEx history — operator craft for separating narrative peak-pessimism from the underlying data.</description>
+<description>Capitalmind with Deepak and Shray steel-man the India bear case, then check it against earnings and CapEx history — narrative peak-pessimism versus the underlying data.
+
+Watch: https://youtu.be/3cwhYcWtgg8</description>
 <link>https://www.capitalmind.in/podcasts/podcast-peak-pessimism-in-india-what-does-the-data-say</link>
 <guid isPermaLink="false">5b90f9a1-0531-42e3-9d69-da0993269fbd</guid>
 <pubDate>Fri, 25 Sep 2026 09:15:36 +0000</pubDate>
@@ -48,7 +52,9 @@
 </item>
 <item>
 <title>EP-452 | Biswajit Chatterjee on Kishore Kumar, Rekha, Dharmendra, Raaj Kumar &amp; Bollywood&apos;s Golden Era</title>
-<description>Seven decades in Bombay cinema: Biswajit on Kishore Kumar, Rekha, Dharmendra, and the craft of Hindi film&apos;s golden era — Desi culture lane, not historiography/poverty.</description>
+<description>ANI Podcast with Smita Prakash: Biswajit Chatterjee on seven decades in Bombay cinema — Kishore Kumar, Rekha, Dharmendra, Raaj Kumar, and Hindi film’s golden era.
+
+Watch: https://youtu.be/HP86LS6qHnw</description>
 <link>https://podcasters.spotify.com/pod/show/podcastwithsmitaprakash/episodes/EP-452--Biswajit-Chatterjee-on-Kishore-Kumar--Rekha--Dharmendra--Raaj-Kumar--Bollywoods-Golden-Era-e3p9hi4</link>
 <guid isPermaLink="false">0f4b9faa-6957-4f67-ad16-7e8f49348832</guid>
 <pubDate>Thu, 24 Sep 2026 09:23:02 +0000</pubDate>
@@ -59,7 +65,9 @@
 </item>
 <item>
 <title>EP-449 | &quot;India Looks So Poor&quot;: Manu Joseph on Broken Cities, Gen Z, Jobs, CM Vijay &amp; PM Modi</title>
-<description>Novelist-journalist Manu Joseph on why India &apos;looks&apos; poor — aesthetic diagnosis as political craft, not cheerleading.</description>
+<description>ANI Podcast with novelist-journalist Manu Joseph on why India “looks” poor — broken cities, Gen Z, jobs, CM Vijay, and PM Modi — aesthetic diagnosis as politics.
+
+Watch: https://youtu.be/oNx1M9atAE0</description>
 <link>https://podcasters.spotify.com/pod/show/podcastwithsmitaprakash/episodes/EP-449-I-India-Looks-So-Poor-Manu-Joseph-on-Broken-Cities--Gen-Z--Jobs--CM-Vijay--PM-Modi-e3opbbn</link>
 <guid isPermaLink="false">9f48bc71-125b-4c84-ae8f-17ac639e4591</guid>
 <pubDate>Wed, 23 Sep 2026 09:16:16 +0000</pubDate>
@@ -70,8 +78,9 @@
 </item>
 <item>
 <title>EP-451 | Mahatma Gandhi, India’s History, Leftist Historians, Savarkar &amp; Tipu Sultan | Vikram Sampath</title>
-<description>Idea: Sampath treats historiography as a contested operating system — who gets canonized (Gandhi/Savarkar/Tipu) is a power allocation, not a trivia quiz.
-Sharpens taste: listen for how evidence, grievance, and nation-branding argue past each other in long-form Indian public history.</description>
+<description>ANI Podcast with Vikram Sampath on Gandhi, Savarkar, Tipu Sultan, and contested Indian historiography — who gets canonized, and why that is a power fight.
+
+Watch: https://youtu.be/EevCzX_QC3k</description>
 <link>https://podcasters.spotify.com/pod/show/podcastwithsmitaprakash/episodes/EP-451-l-Mahatma-Gandhi--Indias-History--Leftist-Historians--Savarkar--Tipu-Sultan--Vikram-Sampath-e3p3plf</link>
 <guid isPermaLink="false">c471fb58-62a8-4d52-a216-f840652bb62f</guid>
 <pubDate>Tue, 22 Sep 2026 09:07:19 +0000</pubDate>
@@ -82,8 +91,7 @@ Sharpens taste: listen for how evidence, grievance, and nation-branding argue pa
 </item>
 <item>
 <title>Ep 453: Srikrishna Ayyangar Examines Populism</title>
-<description>India’s populisms as operating systems: Ayyangar maps state-level logics — who gets named ‘the people,’ which institutions bend, and how performance becomes policy.
-Desi densifier: treat populism as craft of coalition, not just speech.</description>
+<description>The Seen and the Unseen with Srikrishna Ayyangar on India’s populisms: who gets named “the people,” which institutions bend, and how performance becomes policy at the state level.</description>
 <link>https://podcasts.apple.com/us/podcast/ep-453-srikrishna-ayyangar-examines-populism/id1190896090?i=1000790882567</link>
 <guid isPermaLink="false">826d7bfe-5f2a-465c-adec-793e2f860837</guid>
 <pubDate>Mon, 21 Sep 2026 21:28:56 +0000</pubDate>
@@ -94,7 +102,9 @@ Desi densifier: treat populism as craft of coalition, not just speech.</descript
 </item>
 <item>
 <title>EP-450 | Raj Kapoor, Dawood Ibrahim &amp; Bollywood’s Secrets: Mandakini Reveals All</title>
-<description>Desi culture lane, not Rajput lore: Mandakini on Raj Kapoor’s set craft, Bollywood power, and the underworld adjacency — oral history as industry OS.</description>
+<description>ANI Podcast with Mandakini on Raj Kapoor’s set craft, Bollywood power, and underworld adjacency — oral history of the industry’s off-screen operating system.
+
+Watch: https://youtu.be/iwWKBVG8kW4</description>
 <link>https://podcasters.spotify.com/pod/show/podcastwithsmitaprakash/episodes/EP-450--Raj-Kapoor--Dawood-Ibrahim--Bollywoods-Secrets-Mandakini-Reveals-All-e3ott2d</link>
 <guid isPermaLink="false">19802401-98ad-4588-92bb-b2a49a17042c</guid>
 <pubDate>Mon, 21 Sep 2026 13:56:49 +0000</pubDate>
@@ -105,12 +115,9 @@ Desi densifier: treat populism as craft of coalition, not just speech.</descript
 </item>
 <item>
 <title>LEGENDARY RAJPUT HISTORY - Veerta, Jauhar Aur Balidaan Ki Kahani | Rajveer Sir On TRS</title>
-<description>Rajveer Sir joins The Ranveer Show हिंदी for legendary Rajput history — veerta, jauhar, and balidaan. Oral history of valor and sacrifice that shaped North Indian martial identity.
+<description>The Ranveer Show हिंदी with Rajveer Sir on legendary Rajput history — veerta, jauhar, and balidaan as living martial memory outside the textbook.
 
-Hindi long-form keeps martial memory alive outside textbooks — Rajput veerta/jauhar as identity performance, not museum fact.
-Craft: BeerBiceps oral-history mode turns legend into listen-through culture for the diaspora ear.
-
-Apple Podcasts: https://podcasts.apple.com/us/podcast/legendary-rajput-history-veerta-jauhar-aur-balidaan/id1542452346?i=1000790674235</description>
+Watch: https://youtu.be/ZMg5MbaXmcw</description>
 <link>https://podcasts.apple.com/us/podcast/legendary-rajput-history-veerta-jauhar-aur-balidaan/id1542452346?i=1000790674235</link>
 <guid isPermaLink="false">edfd9589-2468-45ec-af5d-e14dbd485d7e</guid>
 <pubDate>Mon, 21 Sep 2026 05:05:03 +0000</pubDate>
@@ -121,11 +128,9 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/legendary-rajput-history-v
 </item>
 <item>
 <title>Ep 452: Harini Nagendra is Woolgathering and Ground Truthing</title>
-<description>The city and nature do not need to be at odds with each other; and dreamers can be doers. Harini Nagendra joins Amit Varma in episode 452 of The Seen and the Unseen to discuss her work in ecology, urban sustainability, detective fiction and the art of managing multitudes.
+<description>The Seen and the Unseen with Harini Nagendra on ecology, urban sustainability, detective fiction, and ground-truthing green talk against what cities actually grow.
 
-Why this sharpens your taste: Nagendra’s move is “ground truthing” — refuse abstract green talk until you’ve counted actual canopy, birds, and street-level tradeoffs. Craft move: pair woolgathering (imagination) with measurement so Indian urban ecology isn’t vibes.
-
-Apple Podcasts: https://podcasts.apple.com/us/podcast/ep-452-harini-nagendra-is-woolgathering-and-ground/id1190896090?i=1000788228084</description>
+Watch: https://youtu.be/mAh0ohu18HU</description>
 <link>https://podcasts.apple.com/us/podcast/ep-452-harini-nagendra-is-woolgathering-and-ground/id1190896090?i=1000788228084</link>
 <guid isPermaLink="false">d68a2bda-25bd-417d-b4eb-634eca06b2d8</guid>
 <pubDate>Mon, 21 Sep 2026 01:10:33 +0000</pubDate>
@@ -136,12 +141,9 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/ep-452-harini-nagendra-is-
 </item>
 <item>
 <title>Will ChatGPT Book Your Next Holiday? | MakeMyTrip x Taj Hotels | WTF is Travel?</title>
-<description>Access the full data and references used in this episode below. Please open this alongside the episode while watching. Open Reference Document I put Rajesh Magow, the chartered accountant who co-founded MakeMyTrip on a team where almost nobody knew travel, and Puneet Chhatwal, the Delhi boy who spent twenty-eight years running hotels in Europe before coming home to pull IHCL out of a decade of losses, into one room to explain the business of Indian travel from scratch, and what came out was far bigger than a lesson, from why boutique hotels are better built by outsiders and how a fifty crore partnership between their companies became twelve hundred, to what a hotel actually pays to sit on MakeMyTrip and why booking direct still isn&apos;t cheaper, why ChatGPT can&apos;t scrape its way into the travel funnel and where voice bookings are tak
+<description>WTF is with Nikhil Kamath: MakeMyTrip’s Rajesh Magow and IHCL’s Puneet Chhatwal on travel, hotels, and whether ChatGPT books your next holiday.
 
-Why this sharpens your taste: Nikhil Kamath’s MakeMyTrip × Taj long-form sits in the Indian founder register — travel stack, AI booking, hospitality ops without US-VC cosplay.
-Craft move: listen for how Indian consumer platforms narrate distribution and trust, not just product demos.
-
-Apple Podcasts: https://podcasts.apple.com/us/podcast/will-chatgpt-book-your-next-holiday-makemytrip-x-taj/id1821810331?i=1000789001845</description>
+Watch: https://youtu.be/8RsrifYHZeI</description>
 <link>https://podcasts.apple.com/us/podcast/will-chatgpt-book-your-next-holiday-makemytrip-x-taj/id1821810331?i=1000789001845</link>
 <guid isPermaLink="false">https://hubhopper.com/episode/will-chatgpt-book-your-next-holiday-makemytrip-x-taj-hotels-wtf-is-travel</guid>
 <pubDate>Sun, 20 Sep 2026 21:12:17 +0000</pubDate>
@@ -152,11 +154,9 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/will-chatgpt-book-your-nex
 </item>
 <item>
 <title>Multiply YOUR Money With Gold - WATCH WITH PARENTS | Billionaire Prithviraj Kothari on TRS</title>
-<description>Check out BeerBiceps SkillHouse Courses Here - https://linktr.ee/bbskillhouseFor all BeerBiceps vlog content Watch Life Of BeerBiceps - https://www.youtube.com/@LifeOfBeerBicepsDownload my meditation and wellness app, Swa:aha.https://app.level.game/?c=zSbmYnShare your guest suggestions hereMail - connect@beerbiceps.comLink - https://forms.gle/aoMHY9EE3Cg3Tqdx9Follow BeerBiceps SkillHouse&apos;s Social Media Handles:YouTube: https://www.youtube.com/@BeerBicepsSkillHouseInstagram: https://www.instagram.com/beerbiceps_skillhouseWebsite : https://beerbicepsskillhouse.inFor any other queries EMAIL: support@beerbicepsskillhouse.comIn case of any payment-related issues, kindly write to support@tagmango.comFollow Prithviraj Kothari&apos;s Social Media Handles:-Instagram: https://www.instagram.com/prithviraj.kothari/Facebook: https://www.facebook.com/kothari.prithviraj/LinkedIn: https://www.linkedin.com/in/kothariprithviraj/Website: https://www.prithvirajkothari.com/In this 540th (overall 1045th) episode of TRS, we sit down with Prithviraj Kothari, widely known as the Bullion King of India, to understand the world of gold, silver, investing, and the changing global financial system. From entering…
+<description>The Ranveer Show हिंदी with billionaire Prithviraj Kothari on gold as a family wealth tool — practical allocation talk meant to watch with parents.
 
-Why this is Desi: BeerBiceps / The Ranveer Show (Hindi) — flagship Indian-creator longform; gold/markets chat with parents-in-the-room energy.
-
-Apple Podcasts: https://podcasts.apple.com/in/podcast/multiply-your-money-with-gold-watch-with/id1542452346?i=1000790349623</description>
+Watch: https://youtu.be/_5rODK60oyA</description>
 <link>https://podcasts.apple.com/in/podcast/multiply-your-money-with-gold-watch-with/id1542452346?i=1000790349623</link>
 <guid isPermaLink="false">apple-1000790349623</guid>
 <pubDate>Sun, 20 Sep 2026 18:26:09 +0000</pubDate>

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Shiv — Arena</title>
-<description>News and social commentary across the spectrum (Breaking Points, Ezra Klein, Bill Maher, Daily Show, Tucker-as-performance). Cap: 1–2 episodes per drop — not a doomscroll.</description>
+<description>News and commentary across the spectrum — Breaking Points, Ezra Klein, Pivot, Daily Show, and adjacent voices. One or two episodes per drop; not a doomscroll.</description>
 <language>en-us</language>
 <link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/RzPjGC8O3B6q7w-YjlF_XfAYxopl_z9v/rss.xml</link>
 <itunes:author>Shivanshu Chaudhary</itunes:author>
-<itunes:summary>News and social commentary across the spectrum (Breaking Points, Ezra Klein, Bill Maher, Daily Show, Tucker-as-performance). Cap: 1–2 episodes per drop — not a doomscroll.</itunes:summary>
+<itunes:summary>News and commentary across the spectrum — Breaking Points, Ezra Klein, Pivot, Daily Show, and adjacent voices. One or two episodes per drop; not a doomscroll.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="News"/>
 <itunes:type>episodic</itunes:type>
@@ -15,7 +15,9 @@
 <image><url>https://mohmaya.github.io/shiv-podcast-feeds/assets/arena-cover.jpg</url><title>Shiv — Arena</title><link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/RzPjGC8O3B6q7w-YjlF_XfAYxopl_z9v/rss.xml</link></image>
 <item>
 <title>Can Cloudflare save the web from AI?</title>
-<description>Commentary-as-performance densifier: Prince pitches micropayments + default-block crawlers as the post-ad web model while Nilay stress-tests whether bot-first incentives hollow out human publishing. Arena craft: watch how a CEO turns infrastructure power into a moral narrative — and where the interviewer refuses the tidy ending.</description>
+<description>Decoder with Nilay Patel and Cloudflare CEO Matthew Prince on micropayments, default-block crawlers, and whether bot-first incentives hollow out human publishing.
+
+Watch: https://youtu.be/4t8RhKbkb70</description>
 <link>https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising</link>
 <guid isPermaLink="false">87c4228a-b388-11f1-ac82-0f252aa34536</guid>
 <pubDate>Sun, 27 Sep 2026 09:17:01 +0000</pubDate>
@@ -26,7 +28,9 @@
 </item>
 <item>
 <title>What Does Abdul El-Sayed Believe?</title>
-<description>Belief-mapping interview with Abdul El-Sayed — Arena craft is forcing a politician&apos;s worldview into coherent priors, not doomscroll headlines. Non-AI-governance slot: how public-health left ideology translates into governing tradeoffs when pressed on specifics.</description>
+<description>Ezra Klein maps Abdul El-Sayed’s worldview — public-health left ideology pressed into governing tradeoffs, not a doomscroll headline dump.
+
+Watch: https://youtu.be/f7MVyjL-rbk</description>
 <link>https://www.nytimes.com/2026/09/25/opinion/ezra-klein-podcast-abdul-el-sayed.html</link>
 <guid isPermaLink="false">a69774f2-8209-41d2-b45d-52ad8b9e3334</guid>
 <pubDate>Sat, 26 Sep 2026 09:09:03 +0000</pubDate>
@@ -37,7 +41,7 @@
 </item>
 <item>
 <title>Can John Ternus find Apple&apos;s next big thing?</title>
-<description>Nilay×Gurman on Ternus&apos;s first launch as performance of succession narrative — rhetoric craft for how product theater and sourcing shape the Apple story.</description>
+<description>Decoder with Nilay Patel and Mark Gurman on John Ternus’s first major Apple launch — succession narrative, product theater, and how sourcing shapes the Apple story.</description>
 <link>https://www.theverge.com/decoder-podcast-with-nilay-patel</link>
 <guid isPermaLink="false">ef42bb20-cfc6-11f0-83c5-0b3cacd889fa</guid>
 <pubDate>Fri, 25 Sep 2026 09:15:36 +0000</pubDate>
@@ -48,7 +52,9 @@
 </item>
 <item>
 <title>Jensen Huang Thinks A.I. Alarmism Has Gone Too Far</title>
-<description>Ezra Klein vs Nvidia&apos;s Jensen Huang on AI alarmism, chips, and influence — Arena rhetoric craft of the AI-power debate, not Pivot media/IPO horse race.</description>
+<description>Ezra Klein with Nvidia’s Jensen Huang on AI alarmism, chips, and influence — the power debate from the company that sells the picks and shovels.
+
+Watch: https://youtu.be/HjurAWAr_nY</description>
 <link>https://www.nytimes.com/2026/09/22/opinion/ezra-klein-podcast-jensen-huang.html</link>
 <guid isPermaLink="false">7af1c8ca-2f07-4516-9563-46c510f0e790</guid>
 <pubDate>Thu, 24 Sep 2026 09:23:02 +0000</pubDate>
@@ -59,7 +65,9 @@
 </item>
 <item>
 <title>Trump&apos;s Press Crackdown, Paramount Settles, and Anthropic&apos;s $2 Trillion IPO</title>
-<description>Kara/Scott treat press bans and mega-media deals as performance — rhetoric of power, not doomscroll ticker.</description>
+<description>Pivot with Kara Swisher and Scott Galloway on Trump’s press crackdown, Paramount’s settlement, and Anthropic’s mega-IPO talk — media power under deadline heat.
+
+Watch: https://youtu.be/pPTy2vFtiP8</description>
 <link>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5396621640.mp3</link>
 <guid isPermaLink="false">1e31c45c-d47d-11f0-95d3-ab024c3d3aeb</guid>
 <pubDate>Wed, 23 Sep 2026 09:16:16 +0000</pubDate>
@@ -70,8 +78,7 @@
 </item>
 <item>
 <title>White House Bans Media Outlets &amp; MAGA Embraces AI While Demonizing Immigrants | Ari Emanuel</title>
-<description>Arena watch: Stewart stages the press ban as theater of access — the gag (Desi-as-cherub) is the argument that power now performs exclusion as branding.
-Sharpens taste: track how AI-threat rhetoric and immigrant rhetoric get rhymed for punchline density, not policy depth.</description>
+<description>The Daily Show with Jon Stewart on White House media bans, MAGA’s AI embrace, and immigrant rhetoric — plus Ari Emanuel; comedy as access theater.</description>
 <link>https://www.thedailyshow.com/</link>
 <guid isPermaLink="false">6ec85e4c-b638-11f1-9cd3-f742c76b3ff1</guid>
 <pubDate>Tue, 22 Sep 2026 09:07:19 +0000</pubDate>
@@ -82,8 +89,7 @@ Sharpens taste: track how AI-threat rhetoric and immigrant rhetoric get rhymed f
 </item>
 <item>
 <title>9/21/26: AI Nearly Starts China War, Diesel Prices Skyrocket, Ed Sheeran Mocked For Apology On Palestine</title>
-<description>News-as-performance: false AI intel nearly triggers a China intercept while diesel and apology theater compete for the day’s emotional frame.
-Arena watch: track which segment is analysis vs stage combat.</description>
+<description>Breaking Points: false AI intel nearly triggers a China intercept; diesel prices spike; Ed Sheeran’s Palestine apology becomes the day’s emotional frame.</description>
 <link>https://podcasts.apple.com/us/podcast/9-21-26-ai-nearly-starts-china-war-diesel-prices-skyrocket/id1570045623?i=1000790961531</link>
 <guid isPermaLink="false">0b5db827-c3e2-492d-80e3-b4cc00fc864f</guid>
 <pubDate>Mon, 21 Sep 2026 21:28:57 +0000</pubDate>
@@ -94,7 +100,9 @@ Arena watch: track which segment is analysis vs stage combat.</description>
 </item>
 <item>
 <title>Zuck&apos;s AI Safety Pitch, Canada Turns to Europe, and Kash Patel on Bestiality</title>
-<description>Arena as performance: Kara/Scott dissect Zuck’s AI-safety rhetoric while the news cycle itself becomes the bit — media craft under deadline heat.</description>
+<description>Pivot on Zuckerberg’s AI-safety pitch, Canada turning toward Europe, and Kash Patel’s oddest headline — media craft while the news cycle itself is the bit.
+
+Watch: https://youtu.be/RupPxZkm1Nk</description>
 <link>https://podcasts.apple.com/us/podcast/pivot/id1073226513</link>
 <guid isPermaLink="false">1e7b9b0e-d47d-11f0-95d3-d352f8a3ef54</guid>
 <pubDate>Mon, 21 Sep 2026 13:56:50 +0000</pubDate>
@@ -105,14 +113,9 @@ Arena watch: track which segment is analysis vs stage combat.</description>
 </item>
 <item>
 <title>What ‘Hyperpolitics’ Explains About This Era</title>
-<description>Behind the intense political movements of the last decade, from Trumpism to wokeness and back again, there’s a strange and erratic rhythm. Movements saturate the culture seemingly overnight, only to evaporate or spark backlash just as rapidly. We’re extremely politically engaged, yet we’ve rarely felt so powerless to create lasting policy change.
-I haven’t seen many very successful attempts to explain what is driving this volatility. But one concept that has taken off recently, and captures what so many of us are feeling, is “hyperpolitics.”
-The idea comes from Anton Jäger, a historian and contributing writer to New York Times Opinion. In his book “Hyperpolitics: Extreme Politicization Without Political Consequences,” Jäger theorizes what it means to live in a moment marked by hyper-engage
+<description>Ezra Klein on “hyperpolitics”: movements that saturate culture overnight, then evaporate — intense engagement paired with little lasting policy change.
 
-Hyperpolitics names the rhythm: cultural saturation overnight, durable policy leverage almost never.
-Rhetoric craft for diagnosing why we&apos;re maximally engaged and still feel powerless — better than another doom clip.
-
-Apple Podcasts: https://podcasts.apple.com/us/podcast/what-hyperpolitics-explains-about-this-era/id1548604447?i=1000788429329</description>
+Watch: https://youtu.be/PurFyLK-zlk</description>
 <link>https://podcasts.apple.com/us/podcast/what-hyperpolitics-explains-about-this-era/id1548604447?i=1000788429329</link>
 <guid isPermaLink="false">4301705b-4c0f-4391-944a-f10bab64b82e</guid>
 <pubDate>Mon, 21 Sep 2026 05:05:04 +0000</pubDate>
@@ -123,11 +126,7 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/what-hyperpolitics-explain
 </item>
 <item>
 <title>Ep. #742: Jessica Tarlov, Kevin Roose, Christopher Rufo</title>
-<description>Bill’s guests are Jessica Tarlov, Kevin Roose, Christopher Rufo (Originally aired 9/18/26).
-
-Why this sharpens your taste: watch panel combat as performance — Tarlov’s pushback, Roose’s tech-frame, Rufo’s culture-war compression. Craft move: score the rhetoric (who defines the frame) instead of swallowing the headlines dump.
-
-Apple Podcasts: https://podcasts.apple.com/us/podcast/ep-742-jessica-tarlov-kevin-roose-christopher-rufo/id98746009?i=1000790640677</description>
+<description>Real Time with Bill Maher: Jessica Tarlov, Kevin Roose, and Christopher Rufo — panel combat on politics, tech, and culture war (aired 9/18/26).</description>
 <link>https://podcasts.apple.com/us/podcast/ep-742-jessica-tarlov-kevin-roose-christopher-rufo/id98746009?i=1000790640677</link>
 <guid isPermaLink="false">cd85df82-b3c6-11f1-a030-534cd92dde79</guid>
 <pubDate>Mon, 21 Sep 2026 01:10:33 +0000</pubDate>
@@ -138,12 +137,9 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/ep-742-jessica-tarlov-kevi
 </item>
 <item>
 <title>We Can&apos;t Lose Control of A.I.</title>
-<description>Fears of out-of-control A.I. have reached a boil over the last few weeks, and several industry executives have called for a coordinated slowdown of A.I. development. But if our goal is to control A.I. — and that should be our goal — slowing down isn’t enough. We need to stop the labs from doing something they’re already on the cusp of doing: recursive self-improvement, or handing over the training of A.I. models to A.I. Mentioned: “ We’re Not Losing Control of A.I. We’re Giving It Away. ” by Ezra Klein You can find the transcript and more episodes of “The Ezra Klein Show” at nytimes.com/ezra-klein-podcast. Book recommendations from all our guests are listed at https://www.nytimes.com/article/ezra-klein-show-book-recs.html This episode of “The Ezra Klein Show” was produced by Marie Cascione, Emma Kehlbeck, Rollin Hu and Claire Gordon. Fact-checking by Marie Cascione, Isaac Scher and Julie
+<description>Ezra Klein on AI control: why slowing down isn’t enough if labs are on the cusp of recursive self-improvement — and what coordinated restraint would actually require.
 
-Why this sharpens your taste: Ezra Klein’s “We Can’t Lose Control of A.I.” is an actual argument about coordination and control — not a headlines dump.
-Craft move: treat the slowdown call as a governance design problem; track the claim structure, skip the doomscroll.
-
-Apple Podcasts: https://podcasts.apple.com/us/podcast/we-cant-lose-control-of-a-i/id1548604447?i=1000790744856&amp;uo=4</description>
+Watch: https://youtu.be/fjZ90V_JREk</description>
 <link>https://podcasts.apple.com/us/podcast/we-cant-lose-control-of-a-i/id1548604447?i=1000790744856&amp;uo=4</link>
 <guid isPermaLink="false">20f2efc0-e29e-41ee-b754-2b3f21becbdd</guid>
 <pubDate>Sun, 20 Sep 2026 21:12:17 +0000</pubDate>
@@ -154,17 +150,7 @@ Apple Podcasts: https://podcasts.apple.com/us/podcast/we-cant-lose-control-of-a-
 </item>
 <item>
 <title>9/17/26: Trump Panics As Fed Raises Rates, Gas Stations Out Of Diesel, Americans Say Shut Down AI</title>
-<description>On today&apos;s show, Krystal and Saagar discuss the Fed hiking interest rates, Gas stations running out of diesel, Derek Thompson joins to discuss AI and polling showing 78% of Americans think it could destroy humanity, and finally a US vessel struck by Iran.
-  
- Derek Thompson: https://www.derekthompson.org/
-  
- To become a Breaking Points Premium Member and watch/listen to the show AD FREE, uncut and 1 hour early visit: www.breakingpoints.com   
- Merch Store: https://shop.breakingpoints.com/   
-See omnystudio.com/listener for privacy information.
-
-Why this is Arena: Breaking Points daily spectrum show — Fed/rates + AI public-mood segment. One curated drop, not a doomscroll.
-
-Apple Podcasts: https://podcasts.apple.com/us/podcast/9-17-26-trump-panics-as-fed-raises-rates-gas-stations/id1570045623?i=1000790380732</description>
+<description>Breaking Points: Fed rate hike, diesel shortages, Derek Thompson on polling that shows most Americans fear AI could destroy humanity, and a US vessel struck by Iran.</description>
 <link>https://podcasts.apple.com/us/podcast/9-17-26-trump-panics-as-fed-raises-rates-gas-stations/id1570045623?i=1000790380732</link>
 <guid isPermaLink="false">apple-1000790380732</guid>
 <pubDate>Sun, 20 Sep 2026 18:26:09 +0000</pubDate>

@@ -1,7 +1,7 @@
 {
   "feed_key": "sidequest",
   "title": "Shiv \u2014 Side Quest",
-  "description": "Entertainment lane: true crime, Why Files\u2013style conspiracy, and comedy (Brilliant Idiots, Flagrant, Rogan when the guest is good). Not the intellectual Listen/Discover lane.",
+  "description": "Entertainment shelf: true crime, Why Files\u2013style mystery, and comedy hangs (Brilliant Idiots, Flagrant, Conan when the guest is good). Not the intellectual Listen/Discover lane.",
   "language": "en-us",
   "author": "Shivanshu Chaudhary",
   "explicit": "true",
@@ -15,7 +15,7 @@
       "pub_date": "2026-09-27T09:17:01Z",
       "duration": "3897",
       "link": "https://www.siriusxm.com",
-      "description": "Comedy-as-craft densifier: McHale and Conan model how veteran performers keep a long-form hang sharp \u2014 timing, callback discipline, and the willingness to make yourself the punchline so the guest can land bigger. Sharpens ear for conversational editing: when to chase a bit vs. kill it.",
+      "description": "Conan O\u2019Brien Needs a Friend with Joel McHale \u2014 a long-form comedy hang between two veterans who know how to keep a bit sharp without killing the guest.\n\nWatch: https://youtu.be/ehda7OyjnuA",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://image.simplecastcdn.com/images/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/dHoohVNH/3000x3000/conan.jpg"
@@ -28,7 +28,7 @@
       "pub_date": "2026-09-26T09:09:03Z",
       "duration": "9076",
       "link": "https://www.youtube.com/@BrilliantIdiots",
-      "description": "Comedy hang that stress-tests class signaling through private-school anxiety \u2014 entertainment lane craft is reading status games without turning them into a seminar. Sharpens taste for how Charlamagne/Andrew Banjo do conflict-as-banter: escalate, undercut, reset \u2014 not debate-club scoring.",
+      "description": "The Brilliant Idiots on private-school anxiety and class signaling \u2014 Charlamagne and Andrew Banjo escalate, undercut, and reset status games as banter, not a seminar.",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://megaphone.imgix.net/podcasts/291050fc-8012-11ef-957a-d7adfaeff93d/image/cbbbc2d91c1ce781e92d934df6a0c24f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
@@ -41,7 +41,7 @@
       "pub_date": "2026-09-25T09:15:36Z",
       "duration": "5702",
       "link": "https://darknetdiaries.com/episode/179/",
-      "description": "Authorized pentest goes sideways into arrest \u2014 craft lesson on how scope, paperwork, and institutional panic rewrite a 'legal' story after the fact.",
+      "description": "Darknet Diaries revisits an authorized pentest that ended in arrest \u2014 how scope, paperwork, and institutional panic rewrote a \u201clegal\u201d job after the fact.",
       "mime_type": "audio/mpeg",
       "length_bytes": 104809129,
       "image_url": "https://f.prxu.org/7057/82aaba05-80c9-4d2e-8069-3c20f2b7dbc8/images/29b7e54a-1b96-44f2-9a6e-cebaa8fbe789/Ep179_Square.jpg"
@@ -54,7 +54,7 @@
       "pub_date": "2026-09-24T09:23:02Z",
       "duration": "7941",
       "link": null,
-      "description": "UFC's Justin Gaethje on Flagrant \u2014 fight focus, glove drama, wild DMs, parents' impact. Pure entertainment Side Quest, not true-crime Casefile.",
+      "description": "Flagrant with UFC\u2019s Justin Gaethje: fight focus, glove drama, wild DMs, and parents\u2019 impact \u2014 pure entertainment hang, not a true-crime procedural.\n\nWatch: https://youtu.be/QHBVtakYbX0",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://megaphone.imgix.net/podcasts/ef258a6c-b776-11f1-ae09-8b0482466763/image/a6b232e55dcec7f06567d67da48f8af4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
@@ -67,7 +67,7 @@
       "pub_date": "2026-09-23T09:16:16Z",
       "duration": "6604",
       "link": "https://shows.acast.com/casefile-true-crime/episodes/case-353-jaidyn-leskie",
-      "description": "Casefile's cold precision on the 1997 Moe disappearance \u2014 small-town folklore colliding with forensic theater.",
+      "description": "Casefile on the 1997 disappearance of Jaidyn Leskie in Moe \u2014 cold precision on a case where small-town folklore collided with forensic theater.",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://assets.pippa.io/shows/679acff465f74095106abfaa/1789806125652-77c875bb-185d-49e0-a73c-ef5e98a98bae.jpeg"
@@ -80,7 +80,7 @@
       "pub_date": "2026-09-22T09:07:19Z",
       "duration": "7923",
       "link": "https://www.youtube.com/results?search_query=Flagrant+MrBallen+Dying+in+War",
-      "description": "Craft move: MrBallen weaponizes calm pacing inside a comedy hang \u2014 dread lands harder when the room keeps laughing around it.\nSharpens taste: pressure-test how war stories get packaged for YouTube-to-podcast transfer without Why Files mythos or Crime Junkie procedural.",
+      "description": "Flagrant with MrBallen on what dying in war feels like \u2014 calm pacing inside a comedy room, dread landing harder because the hang keeps laughing around it.\n\nWatch: https://youtu.be/gOvNZwm7ko0",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://megaphone.imgix.net/podcasts/4bb8ff9e-b1db-11f1-b720-d37029d056d1/image/6446989da3556e53e56c05f68a8ed119.png"
@@ -93,7 +93,7 @@
       "pub_date": "2026-09-21T21:28:55Z",
       "duration": "10790",
       "link": "https://podcasts.apple.com/us/podcast/the-basement-brian-laythe-ghosts-possession-and/id1631738803?i=1000790906676",
-      "description": "Parapsychology under pressure-test: Laythe treats haunt reports as data with selection effects, not vibes \u2014 narrative propulsion without surrendering the method.\nWeird-lane craft: keep the spook, demand the model.",
+      "description": "The Why Files with Brian Laythe on ghosts, possession, and shadow people \u2014 haunt reports treated as data with selection effects, not vibes.\n\nWatch: https://youtu.be/PWTYflbSoo4",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": null
@@ -106,7 +106,7 @@
       "pub_date": "2026-09-21T13:56:48Z",
       "duration": "2981",
       "link": "https://crimejunkiepodcast.com/",
-      "description": "Classic Crime Junkie propulsion: a murder case told as narrative pressure-test \u2014 what details survive, what gets buried, how the story keeps moving.",
+      "description": "Crime Junkie on the murder of Marina Ramos \u2014 a case told as narrative pressure: what details survive, what gets buried, how the story keeps moving.",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://image.simplecastcdn.com/images/a2c06945-9e6f-4f67-af63-6487de3bffa4/8d602204-102b-442c-9ce1-e5f22b7ab5ba/3000x3000/cropped_1789143770714.jpg?aid=rss_feed"
@@ -119,7 +119,7 @@
       "pub_date": "2026-09-21T05:05:02Z",
       "duration": "1:27:24",
       "link": "https://podcasts.apple.com/us/podcast/toto-tartare/id862717788?i=1000789090351",
-      "description": "Charlamagne and Andrew Schulz dig into the AI researcher who quit Anthropic warning that the industry is racing toward superintelligence with no plan to stop it, and whether a \"10% chance of extinction\" should change how these companies operate \u2014 then spiral into culture-war comedy from there.\n\nSchulz and Charlamagne stress-test extinction-risk talk with street logic \u2014 comedy as rhetoric pressure test.\nWatch the gear-shift: elite panic \u2192 culture-war riffs without losing the bit. Pure Side Quest cadence.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/toto-tartare/id862717788?i=1000789090351",
+      "description": "The Brilliant Idiots dig into an AI researcher who quit Anthropic warning the industry is racing toward superintelligence \u2014 then spiral into culture-war comedy from there.\n\nWatch: https://youtu.be/r-cjq6dH2QI",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0f/0e/c2/0f0ec251-14a1-b5f8-ca0e-7d063afdb3b3/mza_2943727101095172226.jpg/600x600bb.jpg"
@@ -132,7 +132,7 @@
       "pub_date": "2026-09-21T01:10:33.061156+00:00",
       "duration": "2177",
       "link": "https://podcasts.apple.com/us/podcast/the-poltergeist-who-follows-you-home/id1631738803?i=1000790588415",
-      "description": "A haunting that doesn\u2019t stay in the house \u2014 AJ and Hecklefish walk the hitchhiker-effect cases where witnesses claim the weirdness follows them home. Classic Why Files: eerie story engine, then the skeptic\u2019s cut.\n\nWhy this sharpens your taste: notice the hitchhiker-effect structure \u2014 the scare isn\u2019t the haunting, it\u2019s contagion of belief. Craft move: escalate by relocating the anomaly onto the witness, not the location.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/the-poltergeist-who-follows-you-home/id1631738803?i=1000790588415",
+      "description": "The Why Files on hitchhiker-effect cases: hauntings that witnesses say follow them home \u2014 eerie story engine, then the skeptic\u2019s cut.\n\nWatch: https://youtu.be/aKy38oc4D_I",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d8/d5/56/d8d5569b-6431-c55a-509c-820b5bd1002b/mza_14117346978676539247.jpg/600x600bb.jpg"
@@ -145,7 +145,7 @@
       "pub_date": "2026-09-20T21:12:17.220982+00:00",
       "duration": "3007",
       "link": "https://podcasts.apple.com/us/podcast/mysterious-death-of-lakesha-thompson/id1322200189?i=1000788943569&uo=4",
-      "description": "In May 2023, Lakesha Thompson\u2019s entire family was upended by a single bullet that took their mother away from them forever. From the beginning, who pulled the trigger has been the question at the forefront of her family\u2019s mind. Investigators determined pretty quickly that it was a self-inflicted wound. Except there are key pieces of evidence at the scene that just don\u2019t line up. Her family has spent years fighting for a second look at the case\u2026only to be told it\u2019s closed\u2026 but that doesn\u2019t mean the mystery is solved. If you or anyone you know is thinking about suicide, please be aware that emotional support can be reached by calling or texting the Suicide & Crisis Lifeline at 988. If you have relevant information about Lakesha Thompson or Nathan Fitten, you can text \u201cCLAYTONPD\u201d and your tip to 274637. They still classify this case as closed, so feel free to also send information to us by \n\nWhy this sharpens your taste: Crime Junkie\u2019s Lakesha Thompson ep is pure narrative engine \u2014 family rupture, one bullet, unanswered trigger.\nCraft move: guilt-free true-crime pacing; zero homework, just the hook-and-hold structure.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/mysterious-death-of-lakesha-thompson/id1322200189?i=1000788943569&uo=4",
+      "description": "Crime Junkie on Lakesha Thompson\u2019s 2023 death: investigators called it self-inflicted; the family says key evidence at the scene does not line up.\n\nWatch: https://youtu.be/ouZsDx1IydM",
       "mime_type": "audio/mpeg",
       "length_bytes": 48127625,
       "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/0a/de/3a0adea8-b6b7-8926-f82e-6bb1695a9ecf/mza_8919160390749709905.jpg/600x600bb.jpg"
@@ -158,7 +158,7 @@
       "pub_date": "2026-09-20T18:26:09.411288+00:00",
       "duration": "2472",
       "link": "https://podcasts.apple.com/us/podcast/bases-in-the-ocean-and-a-war-for-earth-the-friendship-case/id1631738803?i=1000789191100",
-      "description": "-Discover how to move your IRA or 401k into physical gold and silver \u2014 with no taxes or penalties. Get your free portfolio review and free gold & silver guide from GoldenCrest Metals: visit https://whyfileslovesgold.com  or call (888) 949-9172 now.\n\n\n\n-Upgrade your glasses with Zenni\u2014go to https://zenni.com/podcast and use code PODCAST15 for 15% off your first order plus free shipping on US orders over $65. Styles sell out, so don't wait.\n\n\n\nFor more than twenty years, a hundred people across Italy filled trucks with fruit, water, and industrial chemicals, then walked away and let the cargo disappear. They called the recipients the Friends: an alien civilization living in vast bases beneath the Adriatic Sea.\n\n\n\nThe Friends could teleport supplies, read minds, and reshape the ground itself to build their hidden world. But keeping their bases running depended on something far simpler than advanced technology.\n\n\n\nIt depended on the humans trusting each other. This is the story of a secret alliance between two worlds, the deliveries that sustained it, and the war fought to protect it.\n\n\n\nWe also examine what the evidence for the Friendship Case actually shows, and where it falls\u2026\n\nWhy this is a Side Quest: classic Why Files rabbit hole \u2014 ocean bases / Friendship Case conspiracy as entertainment, not homework.\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/bases-in-the-ocean-and-a-war-for-earth-the-friendship-case/id1631738803?i=1000789191100",
+      "description": "The Why Files on the Friendship Case \u2014 ocean bases, a war for Earth, and the usual mix of eerie source material and skeptical teardown.\n\nWatch: https://youtu.be/M5xJnND9hDs",
       "mime_type": "audio/mpeg",
       "length_bytes": 0,
       "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d8/d5/56/d8d5569b-6431-c55a-509c-820b5bd1002b/mza_14117346978676539247.jpg/600x600bb.jpg"
