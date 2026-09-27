@@ -8,6 +8,19 @@
   "category": "Technology",
   "items": [
     {
+      "title": "Archive: Rosalind Franklin",
+      "show": "In Our Time",
+      "enclosure_url": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0p2dsvk.mp3",
+      "guid": "urn:bbc:podcast:p0p2dn1j",
+      "pub_date": "2026-09-27T09:17:01Z",
+      "duration": "3099",
+      "link": "https://www.bbc.co.uk/programmes/p0p2dn1j",
+      "description": "Credit-and-priority densifier: Franklin's crystallography as a case study in how scientific discovery gets attributed when labor is split across labs, genders, and publication timing. Sharpens how you read any 'who invented X' story \u2014 separate the measurement craft from the narrative that later assigns the Nobel.",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://ichef.bbci.co.uk/images/ic/3000x3000/p05k5v5j.jpg"
+    },
+    {
       "title": "708. The Terror: The Reign of Robespierre (Part 2)",
       "show": "The Rest Is History",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2099451333.mp3",
