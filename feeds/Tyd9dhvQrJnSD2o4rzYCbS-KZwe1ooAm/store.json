@@ -1,27 +1,27 @@
 {
   "feed_key": "brief",
   "title": "Sameer \u2014 The Brief",
-  "description": "Daily Morning Brew\u2013style audio Brief from Sameer, Paper. Private Legion feed for Apple Podcasts / Overcast.",
+  "description": "A daily morning news Brief for people who want the world clear before the day starts. India first, then the week\u2019s decisive stories abroad \u2014 markets, politics, tech, and the forces that move them. Two anchors, eight to twelve minutes, no hot takes.",
   "language": "en-us",
-  "author": "Sameer, Paper",
+  "author": "Sameer \u2014 The Brief",
   "explicit": "false",
   "category": "News",
   "image_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/brief-cover.jpg",
   "items": [
     {
-      "title": "The Brief \u2014 Sunday, Sep 27, 2026 (Dual)",
+      "title": "Sunday, September 27, 2026",
       "show": "Sameer \u2014 The Brief",
       "enclosure_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/brief/2026-09-27.mp3",
       "guid": "brief-2026-09-27",
       "pub_date": "Sun, 27 Sep 2026 14:20:00 +0000",
       "duration": "491",
       "link": null,
-      "description": "Morning Brief for 2026-09-27 \u2014 Hormuz spine, dual-anchor (Sameer/Priya). Sarvam bulbul:v3 \u00b7 shubh + ritu \u00b7 en-IN.",
+      "description": "Hormuz stays shut after Washington rejects Tehran\u2019s seven-day reopen plan; Maharashtra\u2019s drought declaration postpones cash relief; the Election Commission eases SIR notices and moves the claims clock; Greer\u2019s product-level trade dump is due Monday. The midterms frame everything else.",
       "mime_type": "audio/mpeg",
       "length_bytes": 7848620,
       "image_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/brief-cover.jpg"
     }
   ],
-  "owner_name": "Sameer, Paper",
+  "owner_name": "Sameer \u2014 The Brief",
   "owner_email": "podcasts@mohmaya.local"
 }

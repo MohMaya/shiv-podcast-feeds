@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Sameer — The Brief</title>
-<description>Daily Morning Brew–style audio Brief from Sameer, Paper. Private Legion feed for Apple Podcasts / Overcast.</description>
+<description>A daily morning news Brief for people who want the world clear before the day starts. India first, then the week’s decisive stories abroad — markets, politics, tech, and the forces that move them. Two anchors, eight to twelve minutes, no hot takes.</description>
 <language>en-us</language>
 <link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/Tyd9dhvQrJnSD2o4rzYCbS-KZwe1ooAm/rss.xml</link>
-<itunes:author>Sameer, Paper</itunes:author>
-<itunes:summary>Daily Morning Brew–style audio Brief from Sameer, Paper. Private Legion feed for Apple Podcasts / Overcast.</itunes:summary>
+<itunes:author>Sameer — The Brief</itunes:author>
+<itunes:summary>A daily morning news Brief for people who want the world clear before the day starts. India first, then the week’s decisive stories abroad — markets, politics, tech, and the forces that move them. Two anchors, eight to twelve minutes, no hot takes.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="News"/>
 <itunes:type>episodic</itunes:type>
 <generator>shiv-podcast-feeds/0.1</generator>
-<itunes:owner><itunes:name>Sameer, Paper</itunes:name><itunes:email>podcasts@mohmaya.local</itunes:email></itunes:owner>
+<itunes:owner><itunes:name>Sameer — The Brief</itunes:name><itunes:email>podcasts@mohmaya.local</itunes:email></itunes:owner>
 <itunes:image href="https://mohmaya.github.io/shiv-podcast-feeds/assets/brief-cover.jpg"/>
 <image><url>https://mohmaya.github.io/shiv-podcast-feeds/assets/brief-cover.jpg</url><title>Sameer — The Brief</title><link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/Tyd9dhvQrJnSD2o4rzYCbS-KZwe1ooAm/rss.xml</link></image>
 <item>
-<title>The Brief — Sunday, Sep 27, 2026 (Dual)</title>
-<description>Morning Brief for 2026-09-27 — Hormuz spine, dual-anchor (Sameer/Priya). Sarvam bulbul:v3 · shubh + ritu · en-IN.</description>
+<title>Sunday, September 27, 2026</title>
+<description>Hormuz stays shut after Washington rejects Tehran’s seven-day reopen plan; Maharashtra’s drought declaration postpones cash relief; the Election Commission eases SIR notices and moves the claims clock; Greer’s product-level trade dump is due Monday. The midterms frame everything else.</description>
 <link>https://mohmaya.github.io/shiv-podcast-feeds/assets/brief/2026-09-27.mp3</link>
 <guid isPermaLink="false">brief-2026-09-27</guid>
 <pubDate>Sun, 27 Sep 2026 14:20:00 +0000</pubDate>
