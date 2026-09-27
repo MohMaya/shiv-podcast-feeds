@@ -8,6 +8,19 @@
   "category": "Business",
   "items": [
     {
+      "title": "Luca Ferrari on Building Bending Spoons: Extreme Ownership, Talent Science & Relentless Simplification",
+      "show": "David Senra",
+      "enclosure_url": "https://traffic.megaphone.fm/SCIM7238357563.mp3",
+      "guid": "2fca5144-af14-11f1-a7e2-dfa14381c3c1",
+      "pub_date": "2026-09-27T23:38:34Z",
+      "duration": "7288",
+      "link": "https://davidsenra.com/episode/luca-ferrari",
+      "description": "David Senra with Bending Spoons co-founder Luca Ferrari on hiring for raw talent, extreme ownership, and simplifying how a software company buys and runs products.\n\nWatch: https://youtu.be/MCbHnlpwZf0\n\nEpisode: https://davidsenra.com/episode/luca-ferrari",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://megaphone.imgix.net/podcasts/2fca5144-af14-11f1-a7e2-dfa14381c3c1/image/446f12ad4690d76d56291257308c0039.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
       "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham (Lenny's Podcast)",
       "show": "Lenny's Podcast",
       "enclosure_url": "https://pscrb.fm/rss/p/api.substack.com/feed/podcast/214070196/06231503de9b46eb77f3540e8404afcf.mp3",

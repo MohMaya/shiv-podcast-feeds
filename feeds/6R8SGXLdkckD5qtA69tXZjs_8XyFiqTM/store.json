@@ -8,6 +8,19 @@
   "category": "Comedy",
   "items": [
     {
+      "title": "What Happened to the Godard Family?",
+      "show": "Bedtime Stories",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD3626691729.mp3",
+      "guid": "44d3fd1e-b550-11f1-9a02-a7237985c882",
+      "pub_date": "2026-09-27T23:38:34Z",
+      "duration": "1870",
+      "link": null,
+      "description": "A French doctor and his two children vanish on a 1999 sailing trip \u2014 then investigators find signs the story may have begun before the boat ever left shore.",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://megaphone.imgix.net/podcasts/44d3fd1e-b550-11f1-9a02-a7237985c882/image/3dec42b311877755b7bcafecc011db0c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
       "title": "Burned by a UFO: The Cash-Landrum Incident (The Why Files: Operation Podcast)",
       "show": "The Why Files: Operation Podcast",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD3504861483.mp3",
