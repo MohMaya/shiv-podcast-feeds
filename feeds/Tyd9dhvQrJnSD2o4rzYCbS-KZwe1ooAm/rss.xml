@@ -11,6 +11,18 @@
 <itunes:category text="News"/>
 <itunes:type>episodic</itunes:type>
 <generator>shiv-podcast-feeds/0.1</generator>
+<itunes:owner><itunes:name>Sameer, Paper</itunes:name><itunes:email>podcasts@mohmaya.local</itunes:email></itunes:owner>
 <itunes:image href="https://mohmaya.github.io/shiv-podcast-feeds/assets/brief-cover.jpg"/>
 <image><url>https://mohmaya.github.io/shiv-podcast-feeds/assets/brief-cover.jpg</url><title>Sameer — The Brief</title><link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/Tyd9dhvQrJnSD2o4rzYCbS-KZwe1ooAm/rss.xml</link></image>
+<item>
+<title>Welcome — Sameer The Brief</title>
+<description>Placeholder so Apple Podcasts can Follow this private feed. Real daily Briefs land after this.</description>
+<link>https://mohmaya.github.io/shiv-podcast-feeds/assets/brief/welcome.mp3</link>
+<guid isPermaLink="false">brief-welcome</guid>
+<pubDate>Sun, 27 Sep 2026 14:02:15 +0000</pubDate>
+<enclosure url="https://mohmaya.github.io/shiv-podcast-feeds/assets/brief/welcome.mp3" length="24493" type="audio/mpeg"/>
+<itunes:author>Sameer — The Brief</itunes:author>
+<itunes:duration>3</itunes:duration>
+<itunes:image href="https://mohmaya.github.io/shiv-podcast-feeds/assets/brief-cover.jpg"/>
+</item>
 </channel></rss>

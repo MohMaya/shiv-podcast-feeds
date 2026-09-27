@@ -42,6 +42,15 @@ def render_rss(store: dict[str, Any], feed_url: str) -> str:
         f"<itunes:type>episodic</itunes:type>",
         f"<generator>shiv-podcast-feeds/0.1</generator>",
     ]
+    owner_email = store.get("owner_email")
+    owner_name = store.get("owner_name") or store.get("author")
+    if owner_email:
+        channel_parts.append(
+            "<itunes:owner>"
+            f"<itunes:name>{_esc(owner_name)}</itunes:name>"
+            f"<itunes:email>{_esc(owner_email)}</itunes:email>"
+            "</itunes:owner>"
+        )
     image_url = store.get("image_url")
     if image_url:
         channel_parts.append(f'<itunes:image href="{_esc(image_url)}"/>')

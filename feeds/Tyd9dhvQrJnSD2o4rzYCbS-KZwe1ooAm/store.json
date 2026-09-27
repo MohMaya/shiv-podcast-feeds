@@ -7,5 +7,21 @@
   "explicit": "false",
   "category": "News",
   "image_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/brief-cover.jpg",
-  "items": []
+  "items": [
+    {
+      "title": "Welcome \u2014 Sameer The Brief",
+      "show": "Sameer \u2014 The Brief",
+      "enclosure_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/brief/welcome.mp3",
+      "guid": "brief-welcome",
+      "pub_date": "2026-09-27T14:02:15.249140+00:00",
+      "duration": "3",
+      "link": null,
+      "description": "Placeholder so Apple Podcasts can Follow this private feed. Real daily Briefs land after this.",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 24493,
+      "image_url": "https://mohmaya.github.io/shiv-podcast-feeds/assets/brief-cover.jpg"
+    }
+  ],
+  "owner_name": "Sameer, Paper",
+  "owner_email": "podcasts@mohmaya.local"
 }
