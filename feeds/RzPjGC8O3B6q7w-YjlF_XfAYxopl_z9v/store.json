@@ -8,6 +8,19 @@
   "category": "News",
   "items": [
     {
+      "title": "A More United Nations with PM Pedro S\u00e1nchez of Spain (The Weekly Show with Jon Stewart)",
+      "show": "The Weekly Show with Jon Stewart",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/arttrk.com/p/DL4HT/traffic.megaphone.fm/QCD9998176868.mp3",
+      "guid": "140549f0-b6ee-11f1-a39b-073cba8d27c5",
+      "pub_date": "2026-09-27T17:40:22Z",
+      "duration": "4049",
+      "link": null,
+      "description": "Jon Stewart talks with Spain\u2019s Prime Minister Pedro S\u00e1nchez during UN General Assembly week about multilateralism, governing from the left, and what middle powers can still do in a fractured order.\n\nWatch: https://youtu.be/p6XvTconhwQ",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://megaphone.imgix.net/podcasts/7ead1b94-1938-11ef-8fb8-c377abd83739/image/e02a906c269a651a42d3d01518995631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
       "title": "Can Cloudflare save the web from AI? (Decoder with Nilay Patel)",
       "show": "Decoder with Nilay Patel",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6188580290.mp3",
