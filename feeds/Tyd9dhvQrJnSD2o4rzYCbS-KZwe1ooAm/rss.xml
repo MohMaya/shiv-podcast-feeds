@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Sameer — The Brief</title>
+<description>Daily Morning Brew–style audio Brief from Sameer, Paper. Private Legion feed for Apple Podcasts / Overcast.</description>
+<language>en-us</language>
+<link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/Tyd9dhvQrJnSD2o4rzYCbS-KZwe1ooAm/rss.xml</link>
+<itunes:author>Sameer, Paper</itunes:author>
+<itunes:summary>Daily Morning Brew–style audio Brief from Sameer, Paper. Private Legion feed for Apple Podcasts / Overcast.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:category text="News"/>
+<itunes:type>episodic</itunes:type>
+<generator>shiv-podcast-feeds/0.1</generator>
+<itunes:image href="https://mohmaya.github.io/shiv-podcast-feeds/assets/brief-cover.jpg"/>
+<image><url>https://mohmaya.github.io/shiv-podcast-feeds/assets/brief-cover.jpg</url><title>Sameer — The Brief</title><link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/Tyd9dhvQrJnSD2o4rzYCbS-KZwe1ooAm/rss.xml</link></image>
+</channel></rss>

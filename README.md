@@ -10,6 +10,7 @@ Apple Podcasts–compatible RSS feeds with unguessable URL paths.
 | **Desi** | Indian creators (Hindi / English) |
 | **Arena** | News / social commentary across the spectrum (Breaking Points, Ezra Klein, Bill Maher, Daily Show, Tucker-as-performance). Cap curation to 1–2 eps per drop — not a doomscroll |
 | **Venture** | Entrepreneurship + venture capital — Founders/David Senra, 20VC, operator-investor craft, company-building deep cuts. Wild finds welcome; private Legion shelf |
+| **Brief** (`brief`) | Sameer — The Brief: daily Morning Brew–style audio Brief (TTS). Separate from Listen/Discover/Arena |
 
 Cadence (ops): Listen/Discover ~1 new item / 4h; Side Quest / Desi / Arena / Venture curated less often (Arena especially capped).
 
@@ -31,6 +32,7 @@ Live URLs (GitHub Pages):
 - Desi: `https://mohmaya.github.io/shiv-podcast-feeds/feeds/<DESI_TOKEN>/rss.xml`
 - Arena: `https://mohmaya.github.io/shiv-podcast-feeds/feeds/<ARENA_TOKEN>/rss.xml`
 - Venture: `https://mohmaya.github.io/shiv-podcast-feeds/feeds/<VENTURE_TOKEN>/rss.xml`
+- Brief: `https://mohmaya.github.io/shiv-podcast-feeds/feeds/<BRIEF_TOKEN>/rss.xml`
 
 Exact tokens are in `feed_map.json` (obscurity = security; do not publish in Slack). Prefer the `urls` command over embedding secret URLs in docs or chat.
 
@@ -41,7 +43,7 @@ Repo: https://github.com/MohMaya/shiv-podcast-feeds
 ```bash
 cd /workspace/shiv-podcast-feeds
 PYTHONPATH=. python3 -m shiv_podcast_feeds append \
-  --feed listen|discover|sidequest|desi|arena|venture \
+  --feed listen|discover|sidequest|desi|arena|venture|brief \
   --title "Episode title" \
   --show "Podcast Name" \
   --enclosure-url "https://.../episode.mp3" \
@@ -66,6 +68,34 @@ git add feeds feed_map.json assets
 git commit -m "podcast: append episode"
 git push
 ```
+
+## Brief media hosting (Sameer)
+
+Stable HTTPS for MP3 enclosures: commit files under `assets/brief/` and use the Pages URL.
+
+```bash
+# after TTS writes /tmp/brief-2026-09-27.mp3
+DATE=2026-09-27
+cp /tmp/brief-$DATE.mp3 assets/brief/$DATE.mp3
+BYTES=$(stat -c%s assets/brief/$DATE.mp3)
+ENCLOSURE="https://mohmaya.github.io/shiv-podcast-feeds/assets/brief/$DATE.mp3"
+
+PYTHONPATH=. python3 -m shiv_podcast_feeds append \
+  --feed brief \
+  --title "The Brief — $DATE" \
+  --show "Sameer — The Brief" \
+  --enclosure-url "$ENCLOSURE" \
+  --guid "brief-$DATE" \
+  --duration 480 \
+  --length-bytes "$BYTES" \
+  --description "Morning Brief for $DATE"
+
+git add assets/brief feeds feed_map.json
+git commit -m "brief: $DATE"
+git push
+```
+
+Prefer Pages `assets/brief/` over R2 until volume needs CDN. Do not paste the subscribe token into Slack; give Shiv the URL out of band / in-app.
 
 ## Rules
 
