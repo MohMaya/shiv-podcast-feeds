@@ -8,6 +8,19 @@
   "category": "News",
   "items": [
     {
+      "title": "What the 'Godfather of AI' Thinks Humanity Should Do (Radio Atlantic)",
+      "show": "Radio Atlantic",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/ATL9273762010.mp3",
+      "guid": "c99fb13e-b68e-11f1-87c0-efcb464b5580",
+      "pub_date": "2026-09-28T05:44:33Z",
+      "duration": "1888",
+      "link": "https://podcasts.apple.com/us/podcast/what-the-godfather-of-ai-thinks-humanity-should-do/id1258635512?i=1000791442422",
+      "description": "Geoffrey Hinton on Radio Atlantic: what alarmed him about recent agent behavior, extinction-risk odds he still stands behind, and why he wants regulation that looks more like drug approval than vibes.\n\nEpisode: https://podcasts.apple.com/us/podcast/what-the-godfather-of-ai-thinks-humanity-should-do/id1258635512?i=1000791442422",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://megaphone.imgix.net/podcasts/c99fb13e-b68e-11f1-87c0-efcb464b5580/image/a6462bd32aad4da46508d714813293c7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
       "title": "Fareed Zakaria on America's Retreat from the World (The Prof G Pod with Scott Galloway)",
       "show": "The Prof G Pod with Scott Galloway",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5869063419.mp3",

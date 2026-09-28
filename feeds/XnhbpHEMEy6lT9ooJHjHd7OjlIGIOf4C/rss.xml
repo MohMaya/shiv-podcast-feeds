@@ -14,6 +14,21 @@
 <itunes:image href="https://mohmaya.github.io/shiv-podcast-feeds/assets/listen-cover.jpg"/>
 <image><url>https://mohmaya.github.io/shiv-podcast-feeds/assets/listen-cover.jpg</url><title>Shiv — Listen</title><link>https://mohmaya.github.io/shiv-podcast-feeds/feeds/XnhbpHEMEy6lT9ooJHjHd7OjlIGIOf4C/rss.xml</link></image>
 <item>
+<title>Noam Brown – Agent swarms, alignment, &amp; recursive self-improvement (Dwarkesh Podcast)</title>
+<description>Dwarkesh Patel with OpenAI’s Noam Brown on multi-agent systems, what math progress implies for recursive self-improvement, and how to tell if models are actually aligned before RSI.
+
+Watch: https://youtu.be/6AgOfiZOWiY
+
+Episode: https://www.dwarkesh.com/p/noam-brown</description>
+<link>https://www.dwarkesh.com/p/noam-brown</link>
+<guid isPermaLink="false">substack:post:216149332</guid>
+<pubDate>Mon, 28 Sep 2026 05:44:33 +0000</pubDate>
+<enclosure url="https://api.substack.com/feed/podcast/216149332/7d69c76fc9ac6716e7931d0de12ec324.mp3" length="0" type="audio/mpeg"/>
+<itunes:author>Dwarkesh Podcast</itunes:author>
+<itunes:duration>4810</itunes:duration>
+<itunes:image href="https://apple.dwarkesh-podcast.workers.dev/art/v1/c3Vic3RhY2s6cG9zdDoyMTYxNDkzMzI.jpg"/>
+</item>
+<item>
 <title>Michael Arndt: Oscar-Winning Writer Teaches Storytelling (How I Write)</title>
 <description>David Perell with screenwriter Michael Arndt on Pixar’s story craft, what separates a weak script from a strong one, and how to diagnose structure when a story stalls.
 

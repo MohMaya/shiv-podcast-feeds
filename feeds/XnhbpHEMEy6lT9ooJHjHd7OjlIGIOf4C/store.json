@@ -8,6 +8,19 @@
   "category": "Technology",
   "items": [
     {
+      "title": "Noam Brown \u2013 Agent swarms, alignment, & recursive self-improvement (Dwarkesh Podcast)",
+      "show": "Dwarkesh Podcast",
+      "enclosure_url": "https://api.substack.com/feed/podcast/216149332/7d69c76fc9ac6716e7931d0de12ec324.mp3",
+      "guid": "substack:post:216149332",
+      "pub_date": "2026-09-28T05:44:33Z",
+      "duration": "4810",
+      "link": "https://www.dwarkesh.com/p/noam-brown",
+      "description": "Dwarkesh Patel with OpenAI\u2019s Noam Brown on multi-agent systems, what math progress implies for recursive self-improvement, and how to tell if models are actually aligned before RSI.\n\nWatch: https://youtu.be/6AgOfiZOWiY\n\nEpisode: https://www.dwarkesh.com/p/noam-brown",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://apple.dwarkesh-podcast.workers.dev/art/v1/c3Vic3RhY2s6cG9zdDoyMTYxNDkzMzI.jpg"
+    },
+    {
       "title": "Michael Arndt: Oscar-Winning Writer Teaches Storytelling (How I Write)",
       "show": "How I Write",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9GA767/p.podderapp.com/1653792298/traffic.megaphone.fm/TFTEE4393532867.mp3",
