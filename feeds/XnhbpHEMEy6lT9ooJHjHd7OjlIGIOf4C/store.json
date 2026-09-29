@@ -8,6 +8,19 @@
   "category": "Technology",
   "items": [
     {
+      "title": "AI researchers debate how close we are to recursive self-improvement (Dwarkesh Podcast)",
+      "show": "Dwarkesh Podcast",
+      "enclosure_url": "https://api.substack.com/feed/podcast/215199144/a0f47ff12d3d6420b3180f18adb9bfa3.mp3",
+      "guid": "substack:post:215199144",
+      "pub_date": "2026-09-29T11:34:42Z",
+      "duration": "5821",
+      "link": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "description": "Dwarkesh Patel with John Schulman, Beren Millidge, and Charlie O\u2019Neill on how close frontier labs are to AI systems that can improve themselves \u2014 and what that would change.\n\nWatch: https://youtu.be/PrSf7IOYu-I\n\nEpisode: https://www.dwarkesh.com/p/john-beren-charlie",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://apple.dwarkesh-podcast.workers.dev/art/v1/c3Vic3RhY2s6cG9zdDoyMTUxOTkxNDQ.jpg"
+    },
+    {
       "title": "709. The Terror: The Execution of Marie Antoinette (Part 3) (The Rest Is History)",
       "show": "The Rest Is History",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT8774364224.mp3",
