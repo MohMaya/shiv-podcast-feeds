@@ -8,6 +8,19 @@
   "category": "Technology",
   "items": [
     {
+      "title": "How to Make a Difference: Part 2 (Hidden Brain)",
+      "show": "Hidden Brain",
+      "enclosure_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/dbecc07e-ea9f-457c-b179-1a237add7f7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=dbecc07e-ea9f-457c-b179-1a237add7f7f&feed=kwWc0lhf",
+      "guid": "b27f54c6-92cc-42ff-8fb3-a330e579e8bb",
+      "pub_date": "2026-09-29T17:46:44Z",
+      "duration": "2949",
+      "link": "https://www.hiddenbrain.org/podcast/how-to-make-a-difference-part-2/",
+      "description": "Shankar Vedantam continues with psychologist Martin Seligman on how to strengthen agency after setbacks \u2014 seeing new possibilities and trusting that your actions can still change what comes next.\n\nEpisode: https://www.hiddenbrain.org/podcast/how-to-make-a-difference-part-2/",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://image.simplecastcdn.com/images/5982e1b7-239c-4b89-81f9-49df1f33fdae/dd71b17c-82bb-441d-a979-e16975aebc1c/3000x3000/hbtilewshankarfinal_rgbsimplecast.jpg?aid=rss_feed"
+    },
+    {
       "title": "AI researchers debate how close we are to recursive self-improvement (Dwarkesh Podcast)",
       "show": "Dwarkesh Podcast",
       "enclosure_url": "https://api.substack.com/feed/podcast/215199144/a0f47ff12d3d6420b3180f18adb9bfa3.mp3",

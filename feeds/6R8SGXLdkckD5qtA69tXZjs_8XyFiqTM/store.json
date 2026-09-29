@@ -8,6 +8,19 @@
   "category": "Comedy",
   "items": [
     {
+      "title": "#2559 - Sam Morril (The Joe Rogan Experience)",
+      "show": "The Joe Rogan Experience",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1481505854.mp3",
+      "guid": "15242aa8-bb9a-11f1-b421-f7d46b049862",
+      "pub_date": "2026-09-29T17:46:44Z",
+      "duration": "10394",
+      "link": null,
+      "description": "Joe Rogan talks with comedian Sam Morril about stand-up, writing, and his new Netflix special Incorrect.\n\nWatch: https://youtu.be/FaGp61HQnBw",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://megaphone.imgix.net/podcasts/15242aa8-bb9a-11f1-b421-f7d46b049862/image/0ad06ff360f06a9c778a15d0c07c1ad6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
       "title": "On Patrol (PODCAST EXCLUSIVE EPISODE) (MrBallen Podcast: Strange, Dark & Mysterious Stories)",
       "show": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
       "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/a52861d0-193e-4703-8223-5540771769a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=a52861d0-193e-4703-8223-5540771769a5&feed=dloY8UYJ",
