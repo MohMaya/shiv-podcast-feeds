@@ -4,16 +4,6 @@
     "title": "Legion: Listen",
     "tracks": [
       {
-        "videoId": "1WX2hpu_-N8",
-        "title": "Andy Weir Shares His Best Writing Advice | David Perell",
-        "artists": [
-          {
-            "name": "2026-09-30",
-            "id": null
-          }
-        ]
-      },
-      {
         "videoId": "JVJP_d9U8Gs",
         "title": "Jim Al-Khalili on Time, Quantum, Biology, and Cosmology | Mindscape 366",
         "artists": [
@@ -138,7 +128,7 @@
         "title": "How to Make Your Writing More Funny (Mark Normand Interview)",
         "artists": [
           {
-            "name": "David Perell",
+            "name": "Sep 28, 2026",
             "id": null
           }
         ]
@@ -152,24 +142,54 @@
             "id": null
           }
         ]
+      },
+      {
+        "videoId": "oAwH5v_u9cw",
+        "title": "Intergenerational Space Travel | This American Life | Episode 897",
+        "artists": [
+          {
+            "name": "Sep 20, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "JAEjUiEzXUY",
+        "title": "Public Choice and Politics Without Romance Featuring Mike Munger",
+        "artists": [
+          {
+            "name": "Sep 28, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "mW45xe6NdHE",
+        "title": "Jared Diamond on the Course of History and the Role of Leaders | Mindscape 367",
+        "artists": [
+          {
+            "name": "Sep 7, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "1WX2hpu_-N8",
+        "title": "Andy Weir Shares His Best Writing Advice",
+        "artists": [
+          {
+            "name": "David Perell",
+            "id": null
+          }
+        ]
       }
     ],
-    "refreshed_at": "2026-09-29T11:43:44Z"
+    "refreshed_at": "2026-09-30T23:43:06Z"
   },
   "discover": {
     "playlistId": "PLIvD9AbdimEY",
     "title": "Legion: Discover",
     "tracks": [
-      {
-        "videoId": "m667oHAa1m4",
-        "title": "Who's gonna pay for your Social Security? | NPR's Planet Money",
-        "artists": [
-          {
-            "name": "2026-09-30",
-            "id": null
-          }
-        ]
-      },
       {
         "videoId": "o0ZDf0bgEXE",
         "title": "Annie Lowrey on the Time Tax, Fraud, and Rationing by Paperwork",
@@ -349,20 +369,190 @@
             "id": null
           }
         ]
+      },
+      {
+        "videoId": "-41SEEhK5SI",
+        "title": "Forty years of what if | Throughline",
+        "artists": [
+          {
+            "name": "Sep 29, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "c628dF5qLzA",
+        "title": "688. When Is a Bet Not a Bet? | Freakonomics Radio",
+        "artists": [
+          {
+            "name": "Sep 25, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "TTJzsOJ-X60",
+        "title": "Is it time for a Luddite Renaissance? | Throughline",
+        "artists": [
+          {
+            "name": "Sep 8, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "HleIYu5uwkk",
+        "title": "How two swing states changed American voting | Throughline",
+        "artists": [
+          {
+            "name": "Sep 17, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "m667oHAa1m4",
+        "title": "Who\u2019s gonna pay for your Social Security?",
+        "artists": [
+          {
+            "name": "Sep 30, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "mGJRk43YlAw",
+        "title": "Is our national debt finally too much? (update) | Planet Money",
+        "artists": [
+          {
+            "name": "Sep 23, 2026",
+            "id": null
+          }
+        ]
       }
     ],
-    "refreshed_at": "2026-09-29T11:43:44Z"
+    "refreshed_at": "2026-09-30T23:43:06Z"
   },
   "sidequest": {
     "playlistId": "PLFcnkig9pxrc",
     "title": "Legion: Side Quest",
     "tracks": [
       {
-        "videoId": "Uqbv9bzzdZM",
-        "title": "Paul Rosolie on Surviving Tribal Warriors & Amazon Cartels | FLAGRANT",
+        "videoId": "aKy38oc4D_I",
+        "title": "The Poltergeist Who Follows You Home",
         "artists": [
           {
-            "name": "2026-09-30",
+            "name": "Sep 18, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "ouZsDx1IydM",
+        "title": "Does the Evidence Explain What Happened to Lakesha Thompson?",
+        "artists": [
+          {
+            "name": "Sep 14, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "M5xJnND9hDs",
+        "title": "Aliens in the Ocean, and a War for Earth | The Friendship Case",
+        "artists": [
+          {
+            "name": "Sep 12, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "r-cjq6dH2QI",
+        "title": "AI Will Wipe Us OUT, Sydney Sweeney's New Ad & Fat Joe N-Word Controversy",
+        "artists": [
+          {
+            "name": "Sep 12, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "PWTYflbSoo4",
+        "title": "The Basement: Brian Laythe | Ghosts, Possession, and Shadow People",
+        "artists": [
+          {
+            "name": "Sep 21, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "gOvNZwm7ko0",
+        "title": "MrBallen Explains What Dying in War Feels Like",
+        "artists": [
+          {
+            "name": "Sep 16, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "HwpY1oDT2_o",
+        "title": "A Prank That Became a Murder Investigation",
+        "artists": [
+          {
+            "name": "Sep 19, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "QHBVtakYbX0",
+        "title": "Justin Gaethje on Cheating Allegations, Craziest DMs & Kicking Schulz",
+        "artists": [
+          {
+            "name": "Sep 23, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "ehda7OyjnuA",
+        "title": "Joel McHale (Full Episode) | Conan O'Brien Needs A Friend",
+        "artists": [
+          {
+            "name": "Sep 21, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "Rnldw4hUGoI",
+        "title": "Burned by a UFO: The Cash-Landrum Incident",
+        "artists": [
+          {
+            "name": "Sep 27, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "KMfli-Zm4Q4",
+        "title": "The New Formula (Abbott Laboratories / ByHeart) | Audio Podcast",
+        "artists": [
+          {
+            "name": "Sep 9, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "wlHgJlAuYL8",
+        "title": "Legends: Mother Dearest",
+        "artists": [
+          {
+            "name": "Sep 27, 2026",
             "id": null
           }
         ]
@@ -372,98 +562,58 @@
         "title": "Matthew McConaughey & Woody Harrelson (Full Episode) | Conan O'Brien Needs A Friend",
         "artists": [
           {
-            "name": "Team Coco"
+            "name": "Sep 28, 2026",
+            "id": null
           }
         ]
       },
       {
-        "videoId": "wlHgJlAuYL8",
-        "title": "Legends: Mother Dearest",
+        "videoId": "FaGp61HQnBw",
+        "title": "Joe Rogan Experience #2559 - Sam Morril",
         "artists": [
           {
-            "name": "Lore Podcast"
+            "name": "Sep 29, 2026",
+            "id": null
           }
         ]
       },
       {
-        "videoId": "aKy38oc4D_I",
-        "title": "The Poltergeist Who Follows You Home",
+        "videoId": "8kpqjWCEk78",
+        "title": "Lore: All Shook Up",
         "artists": [
-          "Sep 18, 2026"
+          {
+            "name": "Sep 20, 2026",
+            "id": null
+          }
         ]
       },
       {
-        "videoId": "ouZsDx1IydM",
-        "title": "Does the Evidence Explain What Happened to Lakesha Thompson?",
+        "videoId": "Uqbv9bzzdZM",
+        "title": "Paul Rosolie on Surviving Tribal Warriors & Amazon Cartels",
         "artists": [
-          "Sep 14, 2026"
+          {
+            "name": "Sep 30, 2026",
+            "id": null
+          }
         ]
       },
       {
-        "videoId": "M5xJnND9hDs",
-        "title": "Aliens in the Ocean, and a War for Earth | The Friendship Case",
+        "videoId": "dYPXINFcvmI",
+        "title": "Joe Rogan Experience #2560 - David Grusch",
         "artists": [
-          "Sep 12, 2026"
-        ]
-      },
-      {
-        "videoId": "r-cjq6dH2QI",
-        "title": "AI Will Wipe Us OUT, Sydney Sweeney's New Ad & Fat Joe N-Word Controversy",
-        "artists": [
-          "Sep 12, 2026"
-        ]
-      },
-      {
-        "videoId": "PWTYflbSoo4",
-        "title": "The Basement: Brian Laythe | Ghosts, Possession, and Shadow People",
-        "artists": [
-          "Sep 21, 2026"
-        ]
-      },
-      {
-        "videoId": "gOvNZwm7ko0",
-        "title": "MrBallen Explains What Dying in War Feels Like",
-        "artists": [
-          "Sep 16, 2026"
-        ]
-      },
-      {
-        "videoId": "HwpY1oDT2_o",
-        "title": "A Prank That Became a Murder Investigation",
-        "artists": [
-          "Sep 19, 2026"
-        ]
-      },
-      {
-        "videoId": "QHBVtakYbX0",
-        "title": "Justin Gaethje on Cheating Allegations, Craziest DMs & Kicking Schulz",
-        "artists": [
-          "Sep 23, 2026"
-        ]
-      },
-      {
-        "videoId": "ehda7OyjnuA",
-        "title": "Joel McHale (Full Episode) | Conan O'Brien Needs A Friend",
-        "artists": [
-          "Sep 21, 2026"
+          {
+            "name": "Sep 30, 2026",
+            "id": null
+          }
         ]
       }
-    ]
+    ],
+    "refreshed_at": "2026-09-30T23:43:06Z"
   },
   "desi": {
     "playlistId": "PLLZp4-lkp0yk",
     "title": "Legion: Desi",
     "tracks": [
-      {
-        "videoId": "l3778Zf4uWE",
-        "title": "Nimrat Kaur on Losing Her Father to Terrorism... | EP-454",
-        "artists": [
-          {
-            "name": "2026-09-30",
-            "id": null
-          }
-        ]
-      },
       {
         "videoId": "mAh0ohu18HU",
         "title": "Ep 452: Harini Nagendra is Woolgathering and Ground Truthing",
@@ -633,20 +783,160 @@
             "id": null
           }
         ]
+      },
+      {
+        "videoId": "JLE8BxnCRts",
+        "title": "The Big Problem with GPUs and How To Solve It | Randolph and Kandan, MantisGrid AI",
+        "artists": [
+          {
+            "name": "Sep 15, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "Ndk4nOxNIew",
+        "title": "Why Mumbai Has The World's 2nd Largest Art Deco District | A Century of Stories: India #podcast",
+        "artists": [
+          {
+            "name": "Jun 30, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "eErcrQQHzg4",
+        "title": "Start a Business With No Money | Eric Ries\u2019 Guide for First-Time Founders",
+        "artists": [
+          {
+            "name": "Sep 12, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "l3778Zf4uWE",
+        "title": "Nimrat Kaur on Losing Her Father to Terrorism, Military Life, Dhurandhar & Bollywood | EP-454",
+        "artists": [
+          {
+            "name": "Sep 30, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "T8jG6tIVB0I",
+        "title": "Gyanesh Kumar vs Election Commission, Delhi \u0915\u093e \u0917\u094b\u0932\u091a\u0915\u094d\u0915\u0930 & Bihar Culture Debate | Teen Taal S2 Ep 175",
+        "artists": [
+          {
+            "name": "Sep 25, 2026",
+            "id": null
+          }
+        ]
       }
     ],
-    "refreshed_at": "2026-09-29T11:43:45Z"
+    "refreshed_at": "2026-09-30T23:43:06Z"
   },
   "arena": {
     "playlistId": "PLDpj8_op57Ww",
     "title": "Legion: Arena",
     "tracks": [
       {
-        "videoId": "_IYjrwG4r1I",
-        "title": "Exclusive: Egypt Warned Israel Before October 7 | The Atlantic",
+        "videoId": "fjZ90V_JREk",
+        "title": "Why Are We Sprinting Off the A.I. Cliff? | The Ezra Klein Show",
         "artists": [
           {
-            "name": "2026-09-30",
+            "name": "Sep 20, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "PurFyLK-zlk",
+        "title": "The Rise of \u2018Hyperpolitics\u2019 | The Ezra Klein Show",
+        "artists": [
+          {
+            "name": "Sep 8, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "RupPxZkm1Nk",
+        "title": "Kara Swisher on Zuckerberg's New AI Manifesto: \"He's in Desperate Need of an Editor\" | Pivot",
+        "artists": [
+          {
+            "name": "Aug 11, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "pPTy2vFtiP8",
+        "title": "Trump's Latest Crackdown on the Press Is Straight Out of \"The Autocrat's Handbook\"",
+        "artists": [
+          {
+            "name": "Sep 22, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "HjurAWAr_nY",
+        "title": "Jensen Huang Thinks A.I. Alarmism Has Gone Too Far | The Ezra Klein Show",
+        "artists": [
+          {
+            "name": "Sep 23, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "f7MVyjL-rbk",
+        "title": "What Would Abdul El-Sayed Have America Do? | The Ezra Klein Show",
+        "artists": [
+          {
+            "name": "The Ezra Klein Show",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "4t8RhKbkb70",
+        "title": "Can Cloudflare save the web from AI? | Decoder",
+        "artists": [
+          {
+            "name": "Sep 26, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "p6XvTconhwQ",
+        "title": "A More United Nations w/ Spain\u2019s PM Pedro S\u00e1nchez | The Weekly Show with Jon Stewart",
+        "artists": [
+          {
+            "name": "Sep 23, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "BkPZBVuxhsU",
+        "title": "The SaaSpocalypse that wasn't, with Atlassian CEO Mike Cannon-Brookes | Decoder",
+        "artists": [
+          {
+            "name": "Sep 28, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "GfXIxpD_1vY",
+        "title": "Why Trump Isn\u2019t Reading the Room",
+        "artists": [
+          {
+            "name": "Sep 28, 2026",
             "id": null
           }
         ]
@@ -656,80 +946,144 @@
         "title": "I have some questions for Mark Zuckerberg | Decoder",
         "artists": [
           {
-            "name": "Decoder with Nilay Patel and The Verge"
+            "name": "Sep 24, 2026",
+            "id": null
           }
         ]
       },
       {
-        "videoId": "GfXIxpD_1vY",
-        "title": "Republicans Are Running From Trump. Will It Work?",
+        "videoId": "HgbFUwcjZEE",
+        "title": "Are Prediction Markets Gambling? A Lot Rides on the Answer.",
         "artists": [
           {
-            "name": "The Atlantic"
+            "name": "Sep 29, 2026",
+            "id": null
           }
         ]
       },
       {
-        "videoId": "fjZ90V_JREk",
-        "title": "Why Are We Sprinting Off the A.I. Cliff? | The Ezra Klein Show",
+        "videoId": "6oo0ZrojX-I",
+        "title": "Does AI need an antitrust exemption so it doesn't kill everyone???? | Decoder",
         "artists": [
-          "Sep 20, 2026"
+          {
+            "name": "Sep 19, 2026",
+            "id": null
+          }
         ]
       },
       {
-        "videoId": "PurFyLK-zlk",
-        "title": "The Rise of \u2018Hyperpolitics\u2019 | The Ezra Klein Show",
+        "videoId": "_IYjrwG4r1I",
+        "title": "Exclusive: Egypt Warned Israel Before October 7",
         "artists": [
-          "Sep 8, 2026"
-        ]
-      },
-      {
-        "videoId": "RupPxZkm1Nk",
-        "title": "Kara Swisher on Zuckerberg's New AI Manifesto: \"He's in Desperate Need of an Editor\" | Pivot",
-        "artists": [
-          "Aug 11, 2026"
-        ]
-      },
-      {
-        "videoId": "pPTy2vFtiP8",
-        "title": "Trump's Latest Crackdown on the Press Is Straight Out of \"The Autocrat's Handbook\"",
-        "artists": [
-          "Sep 22, 2026"
-        ]
-      },
-      {
-        "videoId": "HjurAWAr_nY",
-        "title": "Jensen Huang Thinks A.I. Alarmism Has Gone Too Far | The Ezra Klein Show",
-        "artists": [
-          "Sep 23, 2026"
-        ]
-      },
-      {
-        "videoId": "f7MVyjL-rbk",
-        "title": "What Does Abdul El-Sayed Believe? | The Ezra Klein Show",
-        "artists": [
-          "The Ezra Klein Show"
-        ]
-      },
-      {
-        "videoId": "4t8RhKbkb70",
-        "title": "Can Cloudflare save the web from AI? | Decoder",
-        "artists": [
-          "Sep 26, 2026"
+          {
+            "name": "Sep 25, 2026",
+            "id": null
+          }
         ]
       }
-    ]
+    ],
+    "refreshed_at": "2026-09-30T23:43:06Z"
   },
   "venture": {
     "playlistId": "PLBqqPf0fwuWM",
     "title": "Legion: Venture",
     "tracks": [
       {
-        "videoId": "lr3hNhA0IfQ",
-        "title": "AI, Infrastructure, and the Next Investment Cycle | a16z",
+        "videoId": "1iH5YpzPZi8",
+        "title": "How Michael Bloomberg Works",
         "artists": [
           {
-            "name": "2026-09-30",
+            "name": "Sep 14, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "9YrcSWczGdg",
+        "title": "How to Make Ads That Sell: Scientific Advertising by Claude Hopkins",
+        "artists": [
+          {
+            "name": "Aug 23, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "fC6ICHKJBXU",
+        "title": "How Henry Singleton Worked",
+        "artists": [
+          {
+            "name": "Aug 31, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "WWQFtt6Hm10",
+        "title": "The Mind of Napoleon",
+        "artists": [
+          {
+            "name": "Sep 5, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "mlWX7RltfDE",
+        "title": "Former Sequoia Chairman Michael Moritz on Steve Jobs, Elon Musk, and the Price of Greatness",
+        "artists": [
+          {
+            "name": "Sep 16, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "N9U-RoNXYZE",
+        "title": "Daniel Dines on Why AI Can't Replace Humans in Enterprise & Why Europe is Falling Behind",
+        "artists": [
+          {
+            "name": "Sep 21, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "97LRJUUPy_w",
+        "title": "90 minutes of unfiltered product advice from Snap and Discord\u2019s product chief | Peter Sellis",
+        "artists": [
+          {
+            "name": "Sep 20, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "5-96FyJFiCA",
+        "title": "Molly Graham: The grief, burnout, and opportunity hiding inside the AI transition",
+        "artists": [
+          {
+            "name": "Sep 27, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "MCbHnlpwZf0",
+        "title": "Inside Bending Spoons: Finding Talent, Leveraging AI & Driving Operational Excellence | Luca Ferrari",
+        "artists": [
+          {
+            "name": "Sep 13, 2026",
+            "id": null
+          }
+        ]
+      },
+      {
+        "videoId": "Am7IWP8IpEc",
+        "title": "Inside the Personal AI Assistant Growing 10% a Day | Instinct Founder",
+        "artists": [
+          {
+            "name": "Sep 28, 2026",
             "id": null
           }
         ]
@@ -739,68 +1093,62 @@
         "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
         "artists": [
           {
-            "name": "All-In Podcast"
+            "name": "Sep 28, 2026",
+            "id": null
           }
         ]
       },
       {
-        "videoId": "Am7IWP8IpEc",
-        "title": "Inside the Personal AI Assistant Growing 10% a Day | Instinct Founder",
+        "videoId": "Cpq8y5HpcF4",
+        "title": "Bill Ackman: People are Going to Lose a Lot of Money",
         "artists": [
           {
-            "name": "Invest Like The Best"
+            "name": "Sep 29, 2026",
+            "id": null
           }
         ]
       },
       {
-        "videoId": "1iH5YpzPZi8",
-        "title": "How Michael Bloomberg Works",
+        "videoId": "k7wPdCNfljQ",
+        "title": "Databricks\u2019 Ali Ghodsi Never Wanted to Be CEO. Now He\u2019s Among the Best",
         "artists": [
-          "Sep 14, 2026"
+          {
+            "name": "Sep 17, 2026",
+            "id": null
+          }
         ]
       },
       {
-        "videoId": "9YrcSWczGdg",
-        "title": "How to Make Ads That Sell: Scientific Advertising by Claude Hopkins",
+        "videoId": "G9P9D9hptq8",
+        "title": "Tobi L\u00fctke: The Skills AI Makes More Valuable",
         "artists": [
-          "Aug 23, 2026"
+          {
+            "name": "Sep 15, 2026",
+            "id": null
+          }
         ]
       },
       {
-        "videoId": "fC6ICHKJBXU",
-        "title": "How Henry Singleton Worked",
+        "videoId": "lr3hNhA0IfQ",
+        "title": "AI, Infrastructure, and the Next Investment Cycle",
         "artists": [
-          "Aug 31, 2026"
+          {
+            "name": "Sep 30, 2026",
+            "id": null
+          }
         ]
       },
       {
-        "videoId": "WWQFtt6Hm10",
-        "title": "The Mind of Napoleon",
+        "videoId": "HFOhG1jH2tk",
+        "title": "Andrew Feldman on Building Cerebras and the Future of Chips | Ep. 57",
         "artists": [
-          "Sep 5, 2026"
-        ]
-      },
-      {
-        "videoId": "mlWX7RltfDE",
-        "title": "Former Sequoia Chairman Michael Moritz on Steve Jobs, Elon Musk, and the Price of Greatness",
-        "artists": [
-          "Sep 16, 2026"
-        ]
-      },
-      {
-        "videoId": "N9U-RoNXYZE",
-        "title": "Daniel Dines on Why Work Processes Not Models Will Be The Most Valuable Asset in AI",
-        "artists": [
-          "Sep 21, 2026"
-        ]
-      },
-      {
-        "videoId": "97LRJUUPy_w",
-        "title": "90 minutes of unfiltered product advice from Snap and Discord\u2019s product chief | Peter Sellis",
-        "artists": [
-          "Sep 20, 2026"
+          {
+            "name": "Sep 15, 2026",
+            "id": null
+          }
         ]
       }
-    ]
+    ],
+    "refreshed_at": "2026-09-30T23:43:06Z"
   }
 }
