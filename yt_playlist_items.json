@@ -182,9 +182,18 @@
             "id": null
           }
         ]
+      },
+      {
+        "videoId": "QpMXu2DwGs4",
+        "title": "How to Write a Novel (For Beginners) \u2014 Harlan Coben Interview",
+        "artists": [
+          {
+            "name": "Sep 9, 2026",
+            "id": null
+          }
+        ]
       }
-    ],
-    "refreshed_at": "2026-10-01T05:36:47Z"
+    ]
   },
   "discover": {
     "playlistId": "PLIvD9AbdimEY",
@@ -430,8 +439,7 @@
           }
         ]
       }
-    ],
-    "refreshed_at": "2026-10-01T05:36:47Z"
+    ]
   },
   "sidequest": {
     "playlistId": "PLFcnkig9pxrc",
@@ -616,9 +624,18 @@
             "id": null
           }
         ]
+      },
+      {
+        "videoId": "1F0hz8mEHIY",
+        "title": "Joe Rogan Experience #2556 - Siddharth Kara",
+        "artists": [
+          {
+            "name": "Sep 22, 2026",
+            "id": null
+          }
+        ]
       }
-    ],
-    "refreshed_at": "2026-10-01T05:36:47Z"
+    ]
   },
   "desi": {
     "playlistId": "PLLZp4-lkp0yk",
@@ -853,9 +870,18 @@
             "id": null
           }
         ]
+      },
+      {
+        "videoId": "aDbUCWnWRHY",
+        "title": "Why The Next $100B AI Opportunity Is Context Engine| Prukalpa Sankar, Atlan",
+        "artists": [
+          {
+            "name": "Sep 10, 2026",
+            "id": null
+          }
+        ]
       }
-    ],
-    "refreshed_at": "2026-10-01T05:36:47Z"
+    ]
   },
   "arena": {
     "playlistId": "PLDpj8_op57Ww",
@@ -1001,8 +1027,7 @@
           }
         ]
       }
-    ],
-    "refreshed_at": "2026-10-01T05:36:47Z"
+    ]
   },
   "venture": {
     "playlistId": "PLBqqPf0fwuWM",
@@ -1168,7 +1193,6 @@
           }
         ]
       }
-    ],
-    "refreshed_at": "2026-10-01T05:36:47Z"
+    ]
   }
 }
