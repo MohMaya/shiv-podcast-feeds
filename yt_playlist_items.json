@@ -11,7 +11,9 @@
             "name": "Aug 31, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:16:42",
+        "duration_seconds": 4602
       },
       {
         "videoId": "6Kq5e49MD6U",
@@ -21,7 +23,9 @@
             "name": "Sep 13, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "3:35:04",
+        "duration_seconds": 12904
       },
       {
         "videoId": "OuHJ_DW9SnQ",
@@ -31,7 +35,9 @@
             "name": "Sep 16, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "57:37",
+        "duration_seconds": 3457
       },
       {
         "videoId": "1iH5YpzPZi8",
@@ -41,7 +47,9 @@
             "name": "Sep 14, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "48:38",
+        "duration_seconds": 2918
       },
       {
         "videoId": "Gk2ArbsrZwE",
@@ -51,7 +59,9 @@
             "name": "Sep 14, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "2:49:59",
+        "duration_seconds": 10199
       },
       {
         "videoId": "u-_nDjjD7jE",
@@ -61,7 +71,9 @@
             "name": "Sep 21, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:11:43",
+        "duration_seconds": 4303
       },
       {
         "videoId": "JXGvIGqZSuI",
@@ -71,7 +83,9 @@
             "name": "Oct 3, 2023",
             "id": null
           }
-        ]
+        ],
+        "duration": "30:45",
+        "duration_seconds": 1845
       },
       {
         "videoId": "5u2SLaHzwZA",
@@ -81,7 +95,9 @@
             "name": "Sep 24, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:16:36",
+        "duration_seconds": 4596
       },
       {
         "videoId": "gi3xYwX7PN4",
@@ -91,7 +107,9 @@
             "name": "Sep 23, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:16:35",
+        "duration_seconds": 4595
       },
       {
         "videoId": "6AgOfiZOWiY",
@@ -101,7 +119,9 @@
             "name": "Sep 17, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:20:10",
+        "duration_seconds": 4810
       },
       {
         "videoId": "mQBnjImNOm0",
@@ -111,7 +131,9 @@
             "name": "Sep 28, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:23:31",
+        "duration_seconds": 5011
       },
       {
         "videoId": "nk15CT41MFc",
@@ -121,7 +143,9 @@
             "name": "Sep 28, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "2:02:19",
+        "duration_seconds": 7339
       },
       {
         "videoId": "oXxwMLPZOZE",
@@ -131,7 +155,9 @@
             "name": "Sep 28, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "47:08",
+        "duration_seconds": 2828
       },
       {
         "videoId": "PrSf7IOYu-I",
@@ -141,7 +167,9 @@
             "name": "Sep 11, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:37:01",
+        "duration_seconds": 5821
       },
       {
         "videoId": "oAwH5v_u9cw",
@@ -151,7 +179,9 @@
             "name": "Sep 20, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:05:41",
+        "duration_seconds": 3941
       },
       {
         "videoId": "JAEjUiEzXUY",
@@ -161,7 +191,9 @@
             "name": "Sep 28, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:18:38",
+        "duration_seconds": 4718
       },
       {
         "videoId": "mW45xe6NdHE",
@@ -171,7 +203,9 @@
             "name": "Sep 7, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:21:20",
+        "duration_seconds": 4880
       },
       {
         "videoId": "1WX2hpu_-N8",
@@ -181,7 +215,9 @@
             "name": "David Perell",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:10:06",
+        "duration_seconds": 4206
       },
       {
         "videoId": "QpMXu2DwGs4",
@@ -191,7 +227,21 @@
             "name": "Sep 9, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:14:26",
+        "duration_seconds": 4466
+      },
+      {
+        "videoId": "LwQQ7nBCGSs",
+        "title": "How did a few hundred Spanish soldiers topple two empires? \u2013 Si Sheppard",
+        "artists": [
+          {
+            "name": "Oct 1, 2026",
+            "id": null
+          }
+        ],
+        "duration": "1:37:24",
+        "duration_seconds": 5844
       }
     ]
   },
@@ -207,7 +257,9 @@
             "name": "Sep 16, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "57:38",
+        "duration_seconds": 3458
       },
       {
         "videoId": "XEislRTN_F8",
@@ -217,7 +269,9 @@
             "name": "Sep 14, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:03:51",
+        "duration_seconds": 3831
       },
       {
         "videoId": "Gu4syP_IzQs",
@@ -227,7 +281,9 @@
             "name": "Jul 31, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "4:01:22",
+        "duration_seconds": 14482
       },
       {
         "videoId": "JE7XMevEFTg",
@@ -237,7 +293,9 @@
             "name": "Sep 14, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "38:34",
+        "duration_seconds": 2314
       },
       {
         "videoId": "r2oo0u2Zpdw",
@@ -247,7 +305,9 @@
             "name": "Sep 18, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "35:54",
+        "duration_seconds": 2154
       },
       {
         "videoId": "JcBRR4ftTQE",
@@ -257,7 +317,9 @@
             "name": "Sep 11, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "32:47",
+        "duration_seconds": 1967
       },
       {
         "videoId": "UDyQLVhGiIY",
@@ -267,7 +329,9 @@
             "name": "Sep 18, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "48:40",
+        "duration_seconds": 2920
       },
       {
         "videoId": "SwcVPrH_waU",
@@ -277,7 +341,9 @@
             "name": "Sep 9, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:03:10",
+        "duration_seconds": 3790
       },
       {
         "videoId": "MPXd2pa5V9Y",
@@ -287,7 +353,9 @@
             "name": "Sep 23, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:04:03",
+        "duration_seconds": 3843
       },
       {
         "videoId": "5NbIJDnGkqQ",
@@ -297,7 +365,9 @@
             "name": "Sep 24, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "55:07",
+        "duration_seconds": 3307
       },
       {
         "videoId": "_y8FrkZXvXA",
@@ -307,7 +377,9 @@
             "name": "Sep 25, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "34:19",
+        "duration_seconds": 2059
       },
       {
         "videoId": "PcpttgVTlIQ",
@@ -317,7 +389,9 @@
             "name": "Sep 22, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "32:35",
+        "duration_seconds": 1955
       },
       {
         "videoId": "jU9P9CR2OsY",
@@ -327,7 +401,9 @@
             "name": "Sep 25, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "38:51",
+        "duration_seconds": 2331
       },
       {
         "videoId": "dpewTgPmyAQ",
@@ -337,7 +413,9 @@
             "name": "Sep 21, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "32:07",
+        "duration_seconds": 1927
       },
       {
         "videoId": "znmX0wG9K2A",
@@ -347,7 +425,9 @@
             "name": "Sep 18, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "35:05",
+        "duration_seconds": 2105
       },
       {
         "videoId": "Ai5HQZ2Fy4U",
@@ -357,7 +437,9 @@
             "name": "Sep 10, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "36:01",
+        "duration_seconds": 2161
       },
       {
         "videoId": "ANMExOEG00A",
@@ -367,7 +449,9 @@
             "name": "Sep 15, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "37:18",
+        "duration_seconds": 2238
       },
       {
         "videoId": "Fly-_t49vGc",
@@ -377,7 +461,9 @@
             "name": "Sep 29, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "32:20",
+        "duration_seconds": 1940
       },
       {
         "videoId": "-41SEEhK5SI",
@@ -387,7 +473,9 @@
             "name": "Sep 29, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "23:47",
+        "duration_seconds": 1427
       },
       {
         "videoId": "c628dF5qLzA",
@@ -397,7 +485,9 @@
             "name": "Sep 25, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "50:34",
+        "duration_seconds": 3034
       },
       {
         "videoId": "TTJzsOJ-X60",
@@ -407,7 +497,9 @@
             "name": "Sep 8, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "19:26",
+        "duration_seconds": 1166
       },
       {
         "videoId": "HleIYu5uwkk",
@@ -417,17 +509,21 @@
             "name": "Sep 17, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "55:33",
+        "duration_seconds": 3333
       },
       {
         "videoId": "m667oHAa1m4",
-        "title": "Who\u2019s gonna pay for your Social Security?",
+        "title": "Who\u2019s gonna pay for your Social Security? | Planet Money",
         "artists": [
           {
             "name": "Sep 30, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "32:49",
+        "duration_seconds": 1969
       },
       {
         "videoId": "mGJRk43YlAw",
@@ -437,7 +533,9 @@
             "name": "Sep 23, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "33:35",
+        "duration_seconds": 2015
       }
     ]
   },
@@ -453,7 +551,9 @@
             "name": "Sep 18, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "34:15",
+        "duration_seconds": 2055
       },
       {
         "videoId": "ouZsDx1IydM",
@@ -463,7 +563,9 @@
             "name": "Sep 14, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "51:46",
+        "duration_seconds": 3106
       },
       {
         "videoId": "M5xJnND9hDs",
@@ -473,7 +575,9 @@
             "name": "Sep 12, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "38:06",
+        "duration_seconds": 2286
       },
       {
         "videoId": "r-cjq6dH2QI",
@@ -483,7 +587,9 @@
             "name": "Sep 12, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:29:50",
+        "duration_seconds": 5390
       },
       {
         "videoId": "PWTYflbSoo4",
@@ -493,7 +599,9 @@
             "name": "Sep 21, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "3:00:36",
+        "duration_seconds": 10836
       },
       {
         "videoId": "gOvNZwm7ko0",
@@ -503,7 +611,9 @@
             "name": "Sep 16, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "2:08:19",
+        "duration_seconds": 7699
       },
       {
         "videoId": "HwpY1oDT2_o",
@@ -513,7 +623,9 @@
             "name": "Sep 19, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:49:19",
+        "duration_seconds": 6559
       },
       {
         "videoId": "QHBVtakYbX0",
@@ -523,7 +635,9 @@
             "name": "Sep 23, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "2:10:06",
+        "duration_seconds": 7806
       },
       {
         "videoId": "ehda7OyjnuA",
@@ -533,7 +647,9 @@
             "name": "Sep 21, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:08:57",
+        "duration_seconds": 4137
       },
       {
         "videoId": "Rnldw4hUGoI",
@@ -543,7 +659,9 @@
             "name": "Sep 27, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "45:29",
+        "duration_seconds": 2729
       },
       {
         "videoId": "KMfli-Zm4Q4",
@@ -553,7 +671,9 @@
             "name": "Sep 9, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:08:15",
+        "duration_seconds": 4095
       },
       {
         "videoId": "wlHgJlAuYL8",
@@ -563,7 +683,9 @@
             "name": "Sep 27, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "23:31",
+        "duration_seconds": 1411
       },
       {
         "videoId": "2JakQDisOlE",
@@ -573,7 +695,9 @@
             "name": "Sep 28, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:08:07",
+        "duration_seconds": 4087
       },
       {
         "videoId": "FaGp61HQnBw",
@@ -583,7 +707,9 @@
             "name": "Sep 29, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "2:47:15",
+        "duration_seconds": 10035
       },
       {
         "videoId": "8kpqjWCEk78",
@@ -593,7 +719,9 @@
             "name": "Sep 20, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "26:13",
+        "duration_seconds": 1573
       },
       {
         "videoId": "Uqbv9bzzdZM",
@@ -603,7 +731,9 @@
             "name": "Sep 30, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "2:54:27",
+        "duration_seconds": 10467
       },
       {
         "videoId": "dYPXINFcvmI",
@@ -613,7 +743,9 @@
             "name": "Sep 30, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "2:30:26",
+        "duration_seconds": 9026
       },
       {
         "videoId": "Qkv9xQv605o",
@@ -623,7 +755,9 @@
             "name": "Sep 28, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "59:32",
+        "duration_seconds": 3572
       },
       {
         "videoId": "1F0hz8mEHIY",
@@ -633,7 +767,21 @@
             "name": "Sep 22, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "2:21:51",
+        "duration_seconds": 8511
+      },
+      {
+        "videoId": "1myav1sliQw",
+        "title": "The Basement: Alex Petkas | Julius Caesar's Final 24 Hours",
+        "artists": [
+          {
+            "name": "Sep 28, 2026",
+            "id": null
+          }
+        ],
+        "duration": "2:51:36",
+        "duration_seconds": 10296
       }
     ]
   },
@@ -649,7 +797,9 @@
             "name": "Sep 6, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "3:59:50",
+        "duration_seconds": 14390
       },
       {
         "videoId": "8RsrifYHZeI",
@@ -659,7 +809,9 @@
             "name": "Sep 9, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "3:21:51",
+        "duration_seconds": 12111
       },
       {
         "videoId": "_5rODK60oyA",
@@ -669,7 +821,9 @@
             "name": "Ranveer Allahbadia",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:34:45",
+        "duration_seconds": 5685
       },
       {
         "videoId": "ZMg5MbaXmcw",
@@ -679,7 +833,9 @@
             "name": "Sep 19, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "2:26:53",
+        "duration_seconds": 8813
       },
       {
         "videoId": "iwWKBVG8kW4",
@@ -689,7 +845,9 @@
             "name": "Sep 16, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "40:43",
+        "duration_seconds": 2443
       },
       {
         "videoId": "EevCzX_QC3k",
@@ -699,7 +857,9 @@
             "name": "Sep 19, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:34:54",
+        "duration_seconds": 5694
       },
       {
         "videoId": "oNx1M9atAE0",
@@ -709,7 +869,9 @@
             "name": "Sep 12, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "2:21:05",
+        "duration_seconds": 8465
       },
       {
         "videoId": "HP86LS6qHnw",
@@ -719,7 +881,9 @@
             "name": "Sep 23, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:16:28",
+        "duration_seconds": 4588
       },
       {
         "videoId": "3cwhYcWtgg8",
@@ -729,7 +893,9 @@
             "name": "Capitalmind",
             "id": null
           }
-        ]
+        ],
+        "duration": "56:10",
+        "duration_seconds": 3370
       },
       {
         "videoId": "YL9dLVAyfKU",
@@ -739,7 +905,9 @@
             "name": "Sep 22, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:05:41",
+        "duration_seconds": 3941
       },
       {
         "videoId": "CMOWEA4nmwo",
@@ -749,7 +917,9 @@
             "name": "Sep 22, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:00:42",
+        "duration_seconds": 3642
       },
       {
         "videoId": "hxbm_arTxjY",
@@ -759,7 +929,9 @@
             "name": "Sep 26, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:11:30",
+        "duration_seconds": 4290
       },
       {
         "videoId": "sWYFWP0FAWc",
@@ -769,7 +941,9 @@
             "name": "Sep 19, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "51:10",
+        "duration_seconds": 3070
       },
       {
         "videoId": "svO-g3NA6GM",
@@ -779,7 +953,9 @@
             "name": "Sep 25, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:04:23",
+        "duration_seconds": 3863
       },
       {
         "videoId": "OtHnMmLkpYQ",
@@ -789,7 +965,9 @@
             "name": "Sep 18, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:05:36",
+        "duration_seconds": 3936
       },
       {
         "videoId": "CKvuc0NEAaQ",
@@ -799,7 +977,9 @@
             "name": "Sep 28, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "25:56",
+        "duration_seconds": 1556
       },
       {
         "videoId": "flsfyWrjVVw",
@@ -809,7 +989,9 @@
             "name": "Sep 24, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "22:43",
+        "duration_seconds": 1363
       },
       {
         "videoId": "JLE8BxnCRts",
@@ -819,7 +1001,9 @@
             "name": "Sep 15, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "42:46",
+        "duration_seconds": 2566
       },
       {
         "videoId": "Ndk4nOxNIew",
@@ -829,7 +1013,9 @@
             "name": "Jun 30, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "42:30",
+        "duration_seconds": 2550
       },
       {
         "videoId": "eErcrQQHzg4",
@@ -839,7 +1025,9 @@
             "name": "Sep 12, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:06:07",
+        "duration_seconds": 3967
       },
       {
         "videoId": "l3778Zf4uWE",
@@ -849,7 +1037,9 @@
             "name": "Sep 30, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:16:59",
+        "duration_seconds": 4619
       },
       {
         "videoId": "T8jG6tIVB0I",
@@ -859,7 +1049,9 @@
             "name": "Sep 25, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "3:26:31",
+        "duration_seconds": 12391
       },
       {
         "videoId": "52ek1F8kKSQ",
@@ -869,7 +1061,9 @@
             "name": "Sep 30, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "25:31",
+        "duration_seconds": 1531
       },
       {
         "videoId": "aDbUCWnWRHY",
@@ -879,7 +1073,21 @@
             "name": "Sep 10, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:09:03",
+        "duration_seconds": 4143
+      },
+      {
+        "videoId": "77ksWtuTIDo",
+        "title": "The Future of Legacy SaaS | Tim Guleri, Sierra Ventures",
+        "artists": [
+          {
+            "name": "The Neon Show",
+            "id": null
+          }
+        ],
+        "duration": "0:35",
+        "duration_seconds": 35
       }
     ]
   },
@@ -895,7 +1103,9 @@
             "name": "Sep 20, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "29:38",
+        "duration_seconds": 1778
       },
       {
         "videoId": "PurFyLK-zlk",
@@ -905,7 +1115,9 @@
             "name": "Sep 8, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:07:49",
+        "duration_seconds": 4069
       },
       {
         "videoId": "RupPxZkm1Nk",
@@ -915,7 +1127,9 @@
             "name": "Aug 11, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "56:28",
+        "duration_seconds": 3388
       },
       {
         "videoId": "pPTy2vFtiP8",
@@ -925,7 +1139,9 @@
             "name": "Sep 22, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:13:15",
+        "duration_seconds": 4395
       },
       {
         "videoId": "HjurAWAr_nY",
@@ -935,7 +1151,9 @@
             "name": "Sep 23, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:47:21",
+        "duration_seconds": 6441
       },
       {
         "videoId": "f7MVyjL-rbk",
@@ -945,7 +1163,9 @@
             "name": "The Ezra Klein Show",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:33:27",
+        "duration_seconds": 5607
       },
       {
         "videoId": "4t8RhKbkb70",
@@ -955,7 +1175,9 @@
             "name": "Sep 26, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:16:47",
+        "duration_seconds": 4607
       },
       {
         "videoId": "p6XvTconhwQ",
@@ -965,7 +1187,9 @@
             "name": "Sep 23, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:06:57",
+        "duration_seconds": 4017
       },
       {
         "videoId": "BkPZBVuxhsU",
@@ -975,7 +1199,9 @@
             "name": "Sep 28, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:11:29",
+        "duration_seconds": 4289
       },
       {
         "videoId": "GfXIxpD_1vY",
@@ -985,7 +1211,9 @@
             "name": "Sep 28, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "26:55",
+        "duration_seconds": 1615
       },
       {
         "videoId": "8hwcDaX3ISg",
@@ -995,7 +1223,9 @@
             "name": "Sep 24, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "18:31",
+        "duration_seconds": 1111
       },
       {
         "videoId": "HgbFUwcjZEE",
@@ -1005,7 +1235,9 @@
             "name": "Sep 29, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "26:57",
+        "duration_seconds": 1617
       },
       {
         "videoId": "6oo0ZrojX-I",
@@ -1015,7 +1247,9 @@
             "name": "Sep 19, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "43:35",
+        "duration_seconds": 2615
       },
       {
         "videoId": "_IYjrwG4r1I",
@@ -1025,7 +1259,21 @@
             "name": "Sep 25, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "10:10",
+        "duration_seconds": 610
+      },
+      {
+        "videoId": "71b5o21xH6g",
+        "title": "How Utah locals fought Kevin O'Leary's AI data center | Decoder",
+        "artists": [
+          {
+            "name": "Oct 1, 2026",
+            "id": null
+          }
+        ],
+        "duration": "40:36",
+        "duration_seconds": 2436
       }
     ]
   },
@@ -1041,7 +1289,9 @@
             "name": "Sep 14, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "48:38",
+        "duration_seconds": 2918
       },
       {
         "videoId": "9YrcSWczGdg",
@@ -1051,7 +1301,9 @@
             "name": "Aug 23, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:03:16",
+        "duration_seconds": 3796
       },
       {
         "videoId": "fC6ICHKJBXU",
@@ -1061,7 +1313,9 @@
             "name": "Aug 31, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "48:50",
+        "duration_seconds": 2930
       },
       {
         "videoId": "WWQFtt6Hm10",
@@ -1071,7 +1325,9 @@
             "name": "Sep 5, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "55:33",
+        "duration_seconds": 3333
       },
       {
         "videoId": "mlWX7RltfDE",
@@ -1081,7 +1337,9 @@
             "name": "Sep 16, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:34:09",
+        "duration_seconds": 5649
       },
       {
         "videoId": "N9U-RoNXYZE",
@@ -1091,7 +1349,9 @@
             "name": "Sep 21, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:19:04",
+        "duration_seconds": 4744
       },
       {
         "videoId": "97LRJUUPy_w",
@@ -1101,7 +1361,9 @@
             "name": "Sep 20, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:36:53",
+        "duration_seconds": 5813
       },
       {
         "videoId": "5-96FyJFiCA",
@@ -1111,7 +1373,9 @@
             "name": "Sep 27, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:34:15",
+        "duration_seconds": 5655
       },
       {
         "videoId": "MCbHnlpwZf0",
@@ -1121,7 +1385,9 @@
             "name": "Sep 13, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "2:01:29",
+        "duration_seconds": 7289
       },
       {
         "videoId": "Am7IWP8IpEc",
@@ -1131,7 +1397,9 @@
             "name": "Sep 28, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:25:27",
+        "duration_seconds": 5127
       },
       {
         "videoId": "JEUboZzZGM4",
@@ -1141,7 +1409,9 @@
             "name": "Sep 28, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "51:16",
+        "duration_seconds": 3076
       },
       {
         "videoId": "Cpq8y5HpcF4",
@@ -1151,7 +1421,9 @@
             "name": "Sep 29, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:17:27",
+        "duration_seconds": 4647
       },
       {
         "videoId": "k7wPdCNfljQ",
@@ -1161,7 +1433,9 @@
             "name": "Sep 17, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:14:30",
+        "duration_seconds": 4470
       },
       {
         "videoId": "G9P9D9hptq8",
@@ -1171,7 +1445,9 @@
             "name": "Sep 15, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:04:49",
+        "duration_seconds": 3889
       },
       {
         "videoId": "lr3hNhA0IfQ",
@@ -1181,7 +1457,9 @@
             "name": "Sep 30, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "52:21",
+        "duration_seconds": 3141
       },
       {
         "videoId": "HFOhG1jH2tk",
@@ -1191,7 +1469,21 @@
             "name": "Sep 15, 2026",
             "id": null
           }
-        ]
+        ],
+        "duration": "1:02:46",
+        "duration_seconds": 3766
+      },
+      {
+        "videoId": "bmDrbHOh7Bo",
+        "title": "Why One Internet Pioneer Thinks the Original Model Broke",
+        "artists": [
+          {
+            "name": "Oct 1, 2026",
+            "id": null
+          }
+        ],
+        "duration": "45:06",
+        "duration_seconds": 2706
       }
     ]
   }
