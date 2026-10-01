@@ -184,7 +184,7 @@
         ]
       }
     ],
-    "refreshed_at": "2026-09-30T23:43:06Z"
+    "refreshed_at": "2026-10-01T05:36:47Z"
   },
   "discover": {
     "playlistId": "PLIvD9AbdimEY",
@@ -431,7 +431,7 @@
         ]
       }
     ],
-    "refreshed_at": "2026-09-30T23:43:06Z"
+    "refreshed_at": "2026-10-01T05:36:47Z"
   },
   "sidequest": {
     "playlistId": "PLFcnkig9pxrc",
@@ -606,9 +606,19 @@
             "id": null
           }
         ]
+      },
+      {
+        "videoId": "Qkv9xQv605o",
+        "title": "Seth Meyers | SmartLess",
+        "artists": [
+          {
+            "name": "Sep 28, 2026",
+            "id": null
+          }
+        ]
       }
     ],
-    "refreshed_at": "2026-09-30T23:43:06Z"
+    "refreshed_at": "2026-10-01T05:36:47Z"
   },
   "desi": {
     "playlistId": "PLLZp4-lkp0yk",
@@ -833,9 +843,19 @@
             "id": null
           }
         ]
+      },
+      {
+        "videoId": "52ek1F8kKSQ",
+        "title": "Inox Clean Energy \u20b910,000 crore IPO | Why are tankers taking Russia\u2019s flag? | The Daily Brief #562",
+        "artists": [
+          {
+            "name": "Sep 30, 2026",
+            "id": null
+          }
+        ]
       }
     ],
-    "refreshed_at": "2026-09-30T23:43:06Z"
+    "refreshed_at": "2026-10-01T05:36:47Z"
   },
   "arena": {
     "playlistId": "PLDpj8_op57Ww",
@@ -982,7 +1002,7 @@
         ]
       }
     ],
-    "refreshed_at": "2026-09-30T23:43:06Z"
+    "refreshed_at": "2026-10-01T05:36:47Z"
   },
   "venture": {
     "playlistId": "PLBqqPf0fwuWM",
@@ -1149,6 +1169,6 @@
         ]
       }
     ],
-    "refreshed_at": "2026-09-30T23:43:06Z"
+    "refreshed_at": "2026-10-01T05:36:47Z"
   }
 }
