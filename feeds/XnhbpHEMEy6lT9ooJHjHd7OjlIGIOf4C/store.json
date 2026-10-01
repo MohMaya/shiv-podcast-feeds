@@ -8,6 +8,19 @@
   "category": "Technology",
   "items": [
     {
+      "title": "Luis Garicano on Spain, Europe, and the Future of Work (Conversations with Tyler)",
+      "show": "Conversations with Tyler",
+      "enclosure_url": "https://traffic.libsyn.com/secure/cowenconvos/CWT-296-LuisGaricano-podcast-v1.mp3?dest-id=850607",
+      "guid": "cwt-luis-garicano-2026-09-30",
+      "pub_date": "2026-10-01T23:42:43Z",
+      "duration": "3051",
+      "link": "https://conversationswithtyler.com/episodes/luis-garicano/",
+      "description": "Tyler Cowen with economist Luis Garicano on Spain\u2019s housing and productivity traps, EU decision-making, and why AI may make work messier rather than erase jobs.\n\nWatch: https://youtu.be/D_A74v2HCC8\n\nEpisode: https://conversationswithtyler.com/episodes/luis-garicano/",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://static.libsyn.com/p/assets/7/2/9/0/72902c671817ed5de5bbc093207a2619/LuisGaricano-libsyn.png"
+    },
+    {
       "title": "Si Sheppard \u2013 How did a few hundred Spanish soldiers topple two empires? (Dwarkesh Podcast)",
       "show": "Dwarkesh Podcast",
       "enclosure_url": "https://api.substack.com/feed/podcast/218345956/4b5f7bc6865a6ab2f2eeea047dff6d8b.mp3",
