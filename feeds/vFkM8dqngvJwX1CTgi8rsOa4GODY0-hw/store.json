@@ -8,6 +8,19 @@
   "category": "Technology",
   "items": [
     {
+      "title": "A 4-Track Mind (Radiolab)",
+      "show": "Radiolab",
+      "enclosure_url": "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/15034057-b747-4c9d-81c0-0552ae0027d4/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=15034057-b747-4c9d-81c0-0552ae0027d4&feed=EmVW7VGp",
+      "guid": "cff66c28-8fef-4f50-814b-8bbe9cfa92ee",
+      "pub_date": "2026-10-02T17:42:30Z",
+      "duration": 1265,
+      "link": "https://radiolab.org/podcast/4-track-mind-2312",
+      "description": "A classic Radiolab short: a neurologist puts a ragtime pianist and a conductor in an fMRI to test a talent that should be impossible \u2014 holding multiple complex musical 'tracks' in mind at once.\n\nWatch: https://youtu.be/cEuosugLCVk\n\nEpisode: https://radiolab.org/podcast/4-track-mind-2312",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 20273685,
+      "image_url": null
+    },
+    {
       "title": "100 Objects #20: AA Sobriety Chip (99% Invisible)",
       "show": "99% Invisible",
       "enclosure_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d677bccf-4326-457a-b391-5d153679c150/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=d677bccf-4326-457a-b391-5d153679c150&feed=BqbsxVfO",

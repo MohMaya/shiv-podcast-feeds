@@ -8,6 +8,19 @@
   "category": "Comedy",
   "items": [
     {
+      "title": "Armchair Anonymous: Dinner Party (Armchair Expert with Dax Shepard)",
+      "show": "Armchair Expert with Dax Shepard",
+      "enclosure_url": "https://rss.art19.com/episodes/6cdf6c0c-870e-41a7-b04b-44927cea5d77.mp3",
+      "guid": "gid://art19-episode-locator/V0/9ZmbfsJxwyQa9vhWulpZ90uivPiD9kfBwCEnOo8wnQU",
+      "pub_date": "2026-10-02T17:42:30Z",
+      "duration": 3220,
+      "link": null,
+      "description": "Dax and Monica take calls from Armcherries about dinners that went sideways \u2014 pure Side Quest entertainment, no thesis required.",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 51526844,
+      "image_url": null
+    },
+    {
       "title": "\"Benny Blanco\" (SmartLess)",
       "show": "SmartLess",
       "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/5bf5c7a2-3b81-46af-b222-7b2b9b056358/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=5bf5c7a2-3b81-46af-b222-7b2b9b056358&feed=hNaFxXpO",
