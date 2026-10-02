@@ -8,6 +8,19 @@
   "category": "News",
   "items": [
     {
+      "title": "Is the World Getting Uglier? (The Ezra Klein Show)",
+      "show": "The Ezra Klein Show",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/2c489246-e0e7-49db-8523-764636c011bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=2c489246-e0e7-49db-8523-764636c011bc&feed=kEKXbjuJ",
+      "guid": "46ac1887-69b7-4ca6-aaa1-74768ea42da9",
+      "pub_date": "2026-10-02T11:47:15Z",
+      "duration": "4049",
+      "link": "https://www.nytimes.com/2026/10/02/opinion/ezra-klein-podcast-debbie-millman.html",
+      "description": "Ezra Klein and Debbie Millman ask whether the modern world is getting uglier \u2014 or just more vulgar \u2014 and what design has to do with how we live together.\n\nEpisode: https://www.nytimes.com/2026/10/02/opinion/ezra-klein-podcast-debbie-millman.html",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": null
+    },
+    {
       "title": "What happened at Cornell (Today, Explained)",
       "show": "Today, Explained",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7548492978.mp3",
