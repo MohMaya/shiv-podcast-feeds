@@ -2,177 +2,271 @@
   "listen": {
     "playlist_id": "PLdlk59ttaon0",
     "title": "Legion: Listen",
-    "count": 28,
+    "count": 29,
     "items": [
       {
         "videoId": "JVJP_d9U8Gs",
         "title": "Jim Al-Khalili on Time, Quantum, Biology, and Cosmology | Mindscape 366",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Aug 31, 2026"
+        ],
+        "duration": "1:16:42",
+        "duration_seconds": 4602
       },
       {
         "videoId": "6Kq5e49MD6U",
         "title": "The Home Depot: The best-performing stock in the S&P 500 since IPO (Audio)",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 13, 2026"
+        ],
+        "duration": "3:35:04",
+        "duration_seconds": 12904
       },
       {
         "videoId": "OuHJ_DW9SnQ",
         "title": "This Is What a Harvard Writing Masterclass Feels Like (Francine Prose Interview)",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 16, 2026"
+        ],
+        "duration": "57:37",
+        "duration_seconds": 3457
       },
       {
         "videoId": "1iH5YpzPZi8",
         "title": "How Michael Bloomberg Works",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 14, 2026"
+        ],
+        "duration": "48:38",
+        "duration_seconds": 2918
       },
       {
         "videoId": "Gk2ArbsrZwE",
         "title": "The Art of True Happiness | Dr. Arthur Brooks",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 14, 2026"
+        ],
+        "duration": "2:49:59",
+        "duration_seconds": 10199
       },
       {
         "videoId": "u-_nDjjD7jE",
         "title": "Elizabeth Alexander on Why Democracy Needs Imagination | Mindscape 368",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 21, 2026"
+        ],
+        "duration": "1:11:43",
+        "duration_seconds": 4303
       },
       {
         "videoId": "JXGvIGqZSuI",
         "title": "Episode #189 ... Everything that connects us is slowly disappearing. - Byung Chul Han pt. 2",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Oct 3, 2023"
+        ],
+        "duration": "30:45",
+        "duration_seconds": 1845
       },
       {
         "videoId": "5u2SLaHzwZA",
         "title": "How Robespierre's High Ideals Led to the Reign of Terror (Part 2)",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 24, 2026"
+        ],
+        "duration": "1:16:36",
+        "duration_seconds": 4596
       },
       {
         "videoId": "gi3xYwX7PN4",
         "title": "Oscar-Winning Writer Teaches Storytelling (Michael Arndt Interview)",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 23, 2026"
+        ],
+        "duration": "1:16:35",
+        "duration_seconds": 4595
       },
       {
         "videoId": "6AgOfiZOWiY",
         "title": "OpenAI researcher on agent swarms & recursive self-improvement",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 17, 2026"
+        ],
+        "duration": "1:20:10",
+        "duration_seconds": 4810
       },
       {
         "videoId": "mQBnjImNOm0",
         "title": "Gregg Caruso on Living Well Without Free Will | Mindscape 369",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 28, 2026"
+        ],
+        "duration": "1:23:31",
+        "duration_seconds": 5011
       },
       {
         "videoId": "nk15CT41MFc",
         "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 28, 2026"
+        ],
+        "duration": "2:02:19",
+        "duration_seconds": 7339
       },
       {
         "videoId": "oXxwMLPZOZE",
         "title": "How to Make Your Writing More Funny (Mark Normand Interview)",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 28, 2026"
+        ],
+        "duration": "47:08",
+        "duration_seconds": 2828
       },
       {
         "videoId": "PrSf7IOYu-I",
         "title": "AI researchers debate how close we are to recursive self-improvement",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 11, 2026"
+        ],
+        "duration": "1:37:01",
+        "duration_seconds": 5821
       },
       {
         "videoId": "oAwH5v_u9cw",
         "title": "Intergenerational Space Travel | This American Life | Episode 897",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 20, 2026"
+        ],
+        "duration": "1:05:41",
+        "duration_seconds": 3941
       },
       {
         "videoId": "JAEjUiEzXUY",
         "title": "Public Choice and Politics Without Romance Featuring Mike Munger",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 28, 2026"
+        ],
+        "duration": "1:18:38",
+        "duration_seconds": 4718
       },
       {
         "videoId": "mW45xe6NdHE",
         "title": "Jared Diamond on the Course of History and the Role of Leaders | Mindscape 367",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 7, 2026"
+        ],
+        "duration": "1:21:20",
+        "duration_seconds": 4880
       },
       {
         "videoId": "1WX2hpu_-N8",
         "title": "Andy Weir Shares His Best Writing Advice",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 30, 2026"
+        ],
+        "duration": "1:10:06",
+        "duration_seconds": 4206
       },
       {
         "videoId": "QpMXu2DwGs4",
         "title": "How to Write a Novel (For Beginners) — Harlan Coben Interview",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 9, 2026"
+        ],
+        "duration": "1:14:26",
+        "duration_seconds": 4466
       },
       {
         "videoId": "LwQQ7nBCGSs",
         "title": "How did a few hundred Spanish soldiers topple two empires? – Si Sheppard",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Oct 1, 2026"
+        ],
+        "duration": "1:37:24",
+        "duration_seconds": 5844
       },
       {
         "videoId": "E-CIyxSaBVw",
         "title": "In Our Time | Copyright | BBC Radio 4",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Nov 29, 2025"
+        ],
+        "duration": "1:02:11",
+        "duration_seconds": 3731
       },
       {
         "videoId": "D_A74v2HCC8",
         "title": "Luis Garicano on Spain, Europe, and the Future of Work",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 30, 2026"
+        ],
+        "duration": "59:13",
+        "duration_seconds": 3553
       },
       {
         "videoId": "OCc94oQ81U8",
         "title": "Meet The Writer Who Sold Millions of Books Before 30 (R.F. Kuang Interview)",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 2, 2026"
+        ],
+        "duration": "1:06:57",
+        "duration_seconds": 4017
       },
       {
         "videoId": "ecjEM3NJ0lU",
         "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 21, 2026"
+        ],
+        "duration": "2:27:54",
+        "duration_seconds": 8874
       },
       {
         "videoId": "01QR2tmxSD4",
         "title": "Disney: The Renaissance and the Empire (Audio)",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Aug 10, 2026"
+        ],
+        "duration": "4:32:57",
+        "duration_seconds": 16377
       },
       {
         "videoId": "-VvLkXV35hQ",
         "title": "Meritocracy, Exams, and the Knowledge that Matters",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 7, 2026"
+        ],
+        "duration": "1:05:28",
+        "duration_seconds": 3928
       },
       {
         "videoId": "8e3RC1L5V_Y",
         "title": "Tools to Improve Your Focus & Concentration | Huberman Lab Essentials",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Oct 1, 2026"
+        ],
+        "duration": "37:22",
+        "duration_seconds": 2242
       },
       {
         "videoId": "ipiKIgdynZE",
         "title": "Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "May 18, 2026"
+        ],
+        "duration": "3:48:06",
+        "duration_seconds": 13686
+      },
+      {
+        "videoId": "oJLoVcA6l7U",
+        "title": "Ask Matt Anything: Don’t Let Your Communication Fizzle at the Finish",
+        "artists": [
+          "Oct 1, 2026"
+        ],
+        "duration": "18:52",
+        "duration_seconds": 1132
       }
-    ]
+    ],
+    "refreshed_at": "2026-10-03T17:40:56Z"
   },
   "discover": {
     "playlist_id": "PLIvD9AbdimEY",
@@ -346,346 +440,531 @@
   "sidequest": {
     "playlist_id": "PLFcnkig9pxrc",
     "title": "Legion: Side Quest",
-    "count": 24,
+    "count": 25,
     "items": [
       {
         "videoId": "aKy38oc4D_I",
         "title": "The Poltergeist Who Follows You Home",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 18, 2026"
+        ],
+        "duration": "34:15",
+        "duration_seconds": 2055
       },
       {
         "videoId": "ouZsDx1IydM",
         "title": "Does the Evidence Explain What Happened to Lakesha Thompson?",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 14, 2026"
+        ],
+        "duration": "51:46",
+        "duration_seconds": 3106
       },
       {
         "videoId": "M5xJnND9hDs",
         "title": "Aliens in the Ocean, and a War for Earth | The Friendship Case",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 12, 2026"
+        ],
+        "duration": "38:06",
+        "duration_seconds": 2286
       },
       {
         "videoId": "r-cjq6dH2QI",
         "title": "AI Will Wipe Us OUT, Sydney Sweeney's New Ad & Fat Joe N-Word Controversy",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 12, 2026"
+        ],
+        "duration": "1:29:50",
+        "duration_seconds": 5390
       },
       {
         "videoId": "PWTYflbSoo4",
         "title": "The Basement: Brian Laythe | Ghosts, Possession, and Shadow People",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 21, 2026"
+        ],
+        "duration": "3:00:36",
+        "duration_seconds": 10836
       },
       {
         "videoId": "gOvNZwm7ko0",
         "title": "MrBallen Explains What Dying in War Feels Like",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 16, 2026"
+        ],
+        "duration": "2:08:19",
+        "duration_seconds": 7699
       },
       {
         "videoId": "HwpY1oDT2_o",
         "title": "A Prank That Became a Murder Investigation",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 19, 2026"
+        ],
+        "duration": "1:49:19",
+        "duration_seconds": 6559
       },
       {
         "videoId": "QHBVtakYbX0",
         "title": "Justin Gaethje on Cheating Allegations, Craziest DMs & Kicking Schulz",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 23, 2026"
+        ],
+        "duration": "2:10:06",
+        "duration_seconds": 7806
       },
       {
         "videoId": "ehda7OyjnuA",
         "title": "Joel McHale (Full Episode) | Conan O'Brien Needs A Friend",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 21, 2026"
+        ],
+        "duration": "1:08:57",
+        "duration_seconds": 4137
       },
       {
         "videoId": "Rnldw4hUGoI",
         "title": "Burned by a UFO: The Cash-Landrum Incident",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 27, 2026"
+        ],
+        "duration": "45:29",
+        "duration_seconds": 2729
       },
       {
         "videoId": "KMfli-Zm4Q4",
         "title": "The New Formula (Abbott Laboratories / ByHeart) | Audio Podcast",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 9, 2026"
+        ],
+        "duration": "1:08:15",
+        "duration_seconds": 4095
       },
       {
         "videoId": "wlHgJlAuYL8",
         "title": "Legends: Mother Dearest",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 27, 2026"
+        ],
+        "duration": "23:31",
+        "duration_seconds": 1411
       },
       {
         "videoId": "2JakQDisOlE",
         "title": "Matthew McConaughey & Woody Harrelson (Full Episode) | Conan O'Brien Needs A Friend",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 28, 2026"
+        ],
+        "duration": "1:08:07",
+        "duration_seconds": 4087
       },
       {
         "videoId": "FaGp61HQnBw",
         "title": "Joe Rogan Experience #2559 - Sam Morril",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 29, 2026"
+        ],
+        "duration": "2:47:15",
+        "duration_seconds": 10035
       },
       {
         "videoId": "8kpqjWCEk78",
         "title": "Lore: All Shook Up",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 20, 2026"
+        ],
+        "duration": "26:13",
+        "duration_seconds": 1573
       },
       {
         "videoId": "Uqbv9bzzdZM",
         "title": "Paul Rosolie on Surviving Tribal Warriors & Amazon Cartels",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 30, 2026"
+        ],
+        "duration": "2:54:27",
+        "duration_seconds": 10467
       },
       {
         "videoId": "dYPXINFcvmI",
         "title": "Joe Rogan Experience #2560 - David Grusch",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 30, 2026"
+        ],
+        "duration": "2:30:26",
+        "duration_seconds": 9026
       },
       {
         "videoId": "Qkv9xQv605o",
         "title": "Seth Meyers | SmartLess",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 28, 2026"
+        ],
+        "duration": "59:32",
+        "duration_seconds": 3572
       },
       {
         "videoId": "1F0hz8mEHIY",
         "title": "Joe Rogan Experience #2556 - Siddharth Kara",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 22, 2026"
+        ],
+        "duration": "2:21:51",
+        "duration_seconds": 8511
       },
       {
         "videoId": "1myav1sliQw",
         "title": "The Basement: Alex Petkas | Julius Caesar's Final 24 Hours",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 28, 2026"
+        ],
+        "duration": "2:51:36",
+        "duration_seconds": 10296
       },
       {
         "videoId": "JMaVTHUOMmA",
         "title": "He Wanted to Teach His Company a Lesson. It Backfired Spectacularly ❌ Darknet Diaries 178: Ubiquiti",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Aug 4, 2026"
+        ],
+        "duration": "36:13",
+        "duration_seconds": 2173
       },
       {
         "videoId": "BtBeqQl3cyQ",
         "title": "Benny Blanco | SmartLess",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 21, 2026"
+        ],
+        "duration": "1:05:43",
+        "duration_seconds": 3943
       },
       {
         "videoId": "vMmyY79dVgw",
         "title": "The CIA, the Soviet Union, and a Missing UFO Blueprint",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Oct 2, 2026"
+        ],
+        "duration": "44:58",
+        "duration_seconds": 2698
       },
       {
         "videoId": "KB_psTZth8k",
         "title": "Leanne Morgan | Armchair Expert with Dax Shepard",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 28, 2026"
+        ],
+        "duration": "1:32:04",
+        "duration_seconds": 5524
+      },
+      {
+        "videoId": "JZKYOeE0x-o",
+        "title": "Jared Diamond Returns (on the science of leadership) | Armchair Expert with Dax Shepard",
+        "artists": [
+          "Sep 30, 2026"
+        ],
+        "duration": "1:04:32",
+        "duration_seconds": 3872
       }
-    ]
+    ],
+    "refreshed_at": "2026-10-03T17:40:56Z"
   },
   "desi": {
     "playlist_id": "PLLZp4-lkp0yk",
     "title": "Legion: Desi",
-    "count": 31,
+    "count": 32,
     "items": [
       {
         "videoId": "mAh0ohu18HU",
         "title": "Ep 452: Harini Nagendra is Woolgathering and Ground Truthing",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 6, 2026"
+        ],
+        "duration": "3:59:50",
+        "duration_seconds": 14390
       },
       {
         "videoId": "8RsrifYHZeI",
         "title": "Why A 25-Year-Old Should Build A Hotel, Not An App | MakeMyTrip x Taj | WTF is Travel?",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 9, 2026"
+        ],
+        "duration": "3:21:51",
+        "duration_seconds": 12111
       },
       {
         "videoId": "_5rODK60oyA",
         "title": "MULTIPLY Money With Gold IN 2026 | Hacks to Be Rich | Billionaire Prithviraj Kothari on TRS",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Ranveer Allahbadia"
+        ],
+        "duration": "1:34:45",
+        "duration_seconds": 5685
       },
       {
         "videoId": "ZMg5MbaXmcw",
         "title": "Rajasthan Ki Jai! 🚩| Rajveer Sir Returns On TRS | Jauhar, Art, Jains & Ancient History",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 19, 2026"
+        ],
+        "duration": "2:26:53",
+        "duration_seconds": 8813
       },
       {
         "videoId": "iwWKBVG8kW4",
         "title": "Raj Kapoor, Dawood Ibrahim & Bollywood’s Secrets: Mandakini Reveals All | EP450 | ANI Podcast",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 16, 2026"
+        ],
+        "duration": "40:43",
+        "duration_seconds": 2443
       },
       {
         "videoId": "EevCzX_QC3k",
         "title": "Mahatma Gandhi, India’s History, Leftist Historians, Savarkar & Tipu Sultan | Vikram Sampath | EP451",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 19, 2026"
+        ],
+        "duration": "1:34:54",
+        "duration_seconds": 5694
       },
       {
         "videoId": "oNx1M9atAE0",
         "title": "“India Looks So Poor”: Manu Joseph on Broken Cities, Gen Z, Jobs, CM Vijay & PM Modi | EP-449",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 12, 2026"
+        ],
+        "duration": "2:21:05",
+        "duration_seconds": 8465
       },
       {
         "videoId": "HP86LS6qHnw",
         "title": "Biswajit Chatterjee on Kishore Kumar, Rekha, Dharmendra, Raaj Kumar & Bollywood’s Golden Era | EP452",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 23, 2026"
+        ],
+        "duration": "1:16:28",
+        "duration_seconds": 4588
       },
       {
         "videoId": "3cwhYcWtgg8",
         "title": "Peak Pessimism in India: What Does The Data Say?",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Capitalmind"
+        ],
+        "duration": "56:10",
+        "duration_seconds": 3370
       },
       {
         "videoId": "YL9dLVAyfKU",
         "title": "Anthropic, Sequoia Investor: Who Makes Money in Silicon Valley | Vishal Verma",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 22, 2026"
+        ],
+        "duration": "1:05:41",
+        "duration_seconds": 3941
       },
       {
         "videoId": "CMOWEA4nmwo",
         "title": "संवाद # 342: Why India’s GOAT Fighter pilot left the Air Force",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 22, 2026"
+        ],
+        "duration": "1:00:42",
+        "duration_seconds": 3642
       },
       {
         "videoId": "hxbm_arTxjY",
         "title": "Untold Secrets of Dawood, Chhota Rajan, Haji Mastan & D-Company | Vivek Agrawal | EP-453",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 26, 2026"
+        ],
+        "duration": "1:11:30",
+        "duration_seconds": 4290
       },
       {
         "videoId": "sWYFWP0FAWc",
         "title": "संवाद # 340: Why Indian Army downplayed incredible Kargil victory of Pt 5770",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 19, 2026"
+        ],
+        "duration": "51:10",
+        "duration_seconds": 3070
       },
       {
         "videoId": "svO-g3NA6GM",
         "title": "संवाद # 343: \"Saudi Arabia Will Not Survive\": War Veteran Col. Rajesh Pawar Warns of Total Collapse",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 25, 2026"
+        ],
+        "duration": "1:04:23",
+        "duration_seconds": 3863
       },
       {
         "videoId": "OtHnMmLkpYQ",
         "title": "Why OpenAI Has No Moat & LLM Prices Will Collapse | Avinash Lakshman, Weilliptic",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 18, 2026"
+        ],
+        "duration": "1:05:36",
+        "duration_seconds": 3936
       },
       {
         "videoId": "CKvuc0NEAaQ",
         "title": "The Indian states solar is forgetting | Why power plants run short on coal | The Daily Brief #560",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 28, 2026"
+        ],
+        "duration": "25:56",
+        "duration_seconds": 1556
       },
       {
         "videoId": "flsfyWrjVVw",
         "title": "IRDAI wants to cut insurance commissions | Is India’s Credit Rating Fair? | The Daily Brief #558",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 24, 2026"
+        ],
+        "duration": "22:43",
+        "duration_seconds": 1363
       },
       {
         "videoId": "JLE8BxnCRts",
         "title": "The Big Problem with GPUs and How To Solve It | Randolph and Kandan, MantisGrid AI",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 15, 2026"
+        ],
+        "duration": "42:46",
+        "duration_seconds": 2566
       },
       {
         "videoId": "Ndk4nOxNIew",
         "title": "Why Mumbai Has The World's 2nd Largest Art Deco District | A Century of Stories: India #podcast",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Jun 30, 2026"
+        ],
+        "duration": "42:30",
+        "duration_seconds": 2550
       },
       {
         "videoId": "eErcrQQHzg4",
         "title": "Start a Business With No Money | Eric Ries’ Guide for First-Time Founders",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 12, 2026"
+        ],
+        "duration": "1:06:07",
+        "duration_seconds": 3967
       },
       {
         "videoId": "l3778Zf4uWE",
         "title": "Nimrat Kaur on Losing Her Father to Terrorism, Military Life, Dhurandhar & Bollywood | EP-454",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 30, 2026"
+        ],
+        "duration": "1:16:59",
+        "duration_seconds": 4619
       },
       {
         "videoId": "T8jG6tIVB0I",
         "title": "Gyanesh Kumar vs Election Commission, Delhi का गोलचक्कर & Bihar Culture Debate | Teen Taal S2 Ep 175",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 25, 2026"
+        ],
+        "duration": "3:26:31",
+        "duration_seconds": 12391
       },
       {
         "videoId": "52ek1F8kKSQ",
         "title": "Inox Clean Energy ₹10,000 crore IPO | Why are tankers taking Russia’s flag? | The Daily Brief #562",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 30, 2026"
+        ],
+        "duration": "25:31",
+        "duration_seconds": 1531
       },
       {
         "videoId": "aDbUCWnWRHY",
         "title": "Why The Next $100B AI Opportunity Is Context Engine| Prukalpa Sankar, Atlan",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 10, 2026"
+        ],
+        "duration": "1:09:03",
+        "duration_seconds": 4143
       },
       {
         "videoId": "77ksWtuTIDo",
         "title": "The Future of Legacy SaaS | Tim Guleri, Sierra Ventures",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "The Neon Show"
+        ],
+        "duration": "0:35",
+        "duration_seconds": 35
       },
       {
         "videoId": "cAnH_ZHa2_4",
         "title": "संवाद # 344: Why Pakistan deported this Indian Sikh | Harpreet Walia",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Oct 1, 2026"
+        ],
+        "duration": "1:27:17",
+        "duration_seconds": 5237
       },
       {
         "videoId": "MfbNiiPJiI4",
         "title": "India's textile waste problem | India's telecom hardware problem | The Daily Brief #555",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 21, 2026"
+        ],
+        "duration": "24:35",
+        "duration_seconds": 1475
       },
       {
         "videoId": "4IdZsHEfjJA",
         "title": "BRICS Veg Menu, UPI MDR का कांटा, Houthi, Vyomesh Shukla, Death & Banaras | Teen Taal S2 Ep 174",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 18, 2026"
+        ],
+        "duration": "3:31:05",
+        "duration_seconds": 12665
       },
       {
         "videoId": "yiBYrC3ssHY",
         "title": "Naraz Fufa, iPhone 18 duo, Viral 80s trend, BAPS & Garba पर बतकुच्चन: Teen Taal S2 173 | Podcast",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 11, 2026"
+        ],
+        "duration": "3:19:45",
+        "duration_seconds": 11985
       },
       {
         "videoId": "mG01dNq3Q4Q",
         "title": "India's hotels have a Monday problem | An unbundling in Indian telecom | The Daily Brief #557",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 23, 2026"
+        ],
+        "duration": "22:23",
+        "duration_seconds": 1343
       },
       {
         "videoId": "2R-yN16rYJk",
         "title": "Flydubai Hijack, LPU Chaos, Gen Z, Gyanesh Kumar, Ustaad & Indra Dev पर बतरस | Teen Taal S2 Ep 176",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Oct 2, 2026"
+        ],
+        "duration": "3:22:53",
+        "duration_seconds": 12173
+      },
+      {
+        "videoId": "M2OYgUoQwyk",
+        "title": "HOW TO SELL ANY SERVICE TO ANYONE |  The System Saad Used to Build a ₹50 Crore Service Business",
+        "artists": [
+          "Oct 3, 2026"
+        ],
+        "duration": "1:26:31",
+        "duration_seconds": 5191
       }
-    ]
+    ],
+    "refreshed_at": "2026-10-03T17:40:57Z"
   },
   "arena": {
     "playlist_id": "PLDpj8_op57Ww",
@@ -799,134 +1078,207 @@
   "venture": {
     "playlist_id": "PLBqqPf0fwuWM",
     "title": "Legion: Venture",
-    "count": 21,
+    "count": 22,
     "items": [
       {
         "videoId": "1iH5YpzPZi8",
         "title": "How Michael Bloomberg Works",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 14, 2026"
+        ],
+        "duration": "48:38",
+        "duration_seconds": 2918
       },
       {
         "videoId": "9YrcSWczGdg",
         "title": "How to Make Ads That Sell: Scientific Advertising by Claude Hopkins",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Aug 23, 2026"
+        ],
+        "duration": "1:03:16",
+        "duration_seconds": 3796
       },
       {
         "videoId": "fC6ICHKJBXU",
         "title": "How Henry Singleton Worked",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Aug 31, 2026"
+        ],
+        "duration": "48:50",
+        "duration_seconds": 2930
       },
       {
         "videoId": "WWQFtt6Hm10",
         "title": "The Mind of Napoleon",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 5, 2026"
+        ],
+        "duration": "55:33",
+        "duration_seconds": 3333
       },
       {
         "videoId": "mlWX7RltfDE",
         "title": "Former Sequoia Chairman Michael Moritz on Steve Jobs, Elon Musk, and the Price of Greatness",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 16, 2026"
+        ],
+        "duration": "1:34:09",
+        "duration_seconds": 5649
       },
       {
         "videoId": "N9U-RoNXYZE",
         "title": "Daniel Dines on Why AI Can't Replace Humans in Enterprise & Why Europe is Falling Behind",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 21, 2026"
+        ],
+        "duration": "1:19:04",
+        "duration_seconds": 4744
       },
       {
         "videoId": "97LRJUUPy_w",
         "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 20, 2026"
+        ],
+        "duration": "1:36:53",
+        "duration_seconds": 5813
       },
       {
         "videoId": "5-96FyJFiCA",
         "title": "Molly Graham: The grief, burnout, and opportunity hiding inside the AI transition",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 27, 2026"
+        ],
+        "duration": "1:34:15",
+        "duration_seconds": 5655
       },
       {
         "videoId": "MCbHnlpwZf0",
         "title": "Inside Bending Spoons: Finding Talent, Leveraging AI & Driving Operational Excellence | Luca Ferrari",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 13, 2026"
+        ],
+        "duration": "2:01:29",
+        "duration_seconds": 7289
       },
       {
         "videoId": "Am7IWP8IpEc",
         "title": "The $10B AI Assistant Challenging Meta's Muse, Grok's Bots, and OpenAI's Dots",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 28, 2026"
+        ],
+        "duration": "1:25:27",
+        "duration_seconds": 5127
       },
       {
         "videoId": "JEUboZzZGM4",
         "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 28, 2026"
+        ],
+        "duration": "51:16",
+        "duration_seconds": 3076
       },
       {
         "videoId": "Cpq8y5HpcF4",
         "title": "Bill Ackman: People are Going to Lose a Lot of Money",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 29, 2026"
+        ],
+        "duration": "1:17:27",
+        "duration_seconds": 4647
       },
       {
         "videoId": "k7wPdCNfljQ",
         "title": "Databricks’ Ali Ghodsi Never Wanted to Be CEO. Now He’s Among the Best",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 17, 2026"
+        ],
+        "duration": "1:14:30",
+        "duration_seconds": 4470
       },
       {
         "videoId": "G9P9D9hptq8",
         "title": "Tobi Lütke: The Skills AI Makes More Valuable",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 15, 2026"
+        ],
+        "duration": "1:04:49",
+        "duration_seconds": 3889
       },
       {
         "videoId": "lr3hNhA0IfQ",
         "title": "AI, Infrastructure, and the Next Investment Cycle",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 30, 2026"
+        ],
+        "duration": "52:21",
+        "duration_seconds": 3141
       },
       {
         "videoId": "HFOhG1jH2tk",
         "title": "Andrew Feldman on Building Cerebras and the Future of Chips | Ep. 57",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 15, 2026"
+        ],
+        "duration": "1:02:46",
+        "duration_seconds": 3766
       },
       {
         "videoId": "bmDrbHOh7Bo",
         "title": "Why One Internet Pioneer Thinks the Original Model Broke",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Oct 1, 2026"
+        ],
+        "duration": "45:06",
+        "duration_seconds": 2706
       },
       {
         "videoId": "3T5sij3spWw",
         "title": "We Tested the New Wave of Personal AI Agents",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 29, 2026"
+        ],
+        "duration": "50:15",
+        "duration_seconds": 3015
       },
       {
         "videoId": "RFccAuyPPOg",
         "title": "Building One of AI’s Fastest-Growing Companies | Mati Staniszewski, ElevenLabs",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 9, 2026"
+        ],
+        "duration": "1:11:08",
+        "duration_seconds": 4268
       },
       {
         "videoId": "Pfr6qwPZlhE",
         "title": "We tested Instinct, Muse and Grokbot. They’re ridiculous.",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 30, 2026"
+        ],
+        "duration": "1:12:43",
+        "duration_seconds": 4363
       },
       {
         "videoId": "TAHAlGH_DK0",
         "title": "People are doing $100M+ in sales on this app (ft. Whatnot founder)",
-        "artists": [],
-        "duration": null
+        "artists": [
+          "Sep 21, 2026"
+        ],
+        "duration": "1:00:20",
+        "duration_seconds": 3620
+      },
+      {
+        "videoId": "ekK8urKHPMQ",
+        "title": "Why Specialized AI Could Beat The God Model",
+        "artists": [
+          "Oct 3, 2026"
+        ],
+        "duration": "48:20",
+        "duration_seconds": 2900
       }
-    ]
+    ],
+    "refreshed_at": "2026-10-03T17:40:57Z"
   }
 }
