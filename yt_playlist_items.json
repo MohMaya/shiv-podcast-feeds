@@ -2,8 +2,16 @@
   "listen": {
     "playlist_id": "PLdlk59ttaon0",
     "title": "Legion: Listen",
-    "count": 24,
+    "count": 25,
     "items": [
+      {
+        "videoId": "8e3RC1L5V_Y",
+        "title": "Tools to Improve Your Focus & Concentration | Huberman Lab Essentials",
+        "artists": [
+          "Andrew Huberman"
+        ],
+        "duration": null
+      },
       {
         "videoId": "JVJP_d9U8Gs",
         "title": "Jim Al-Khalili on Time, Quantum, Biology, and Cosmology | Mindscape 366",
@@ -197,7 +205,7 @@
         "duration": "2:27:54"
       }
     ],
-    "refreshed_at": "2026-10-02T11:49:16Z"
+    "refreshed_at": "2026-10-03T05:44:54Z"
   },
   "discover": {
     "playlist_id": "PLIvD9AbdimEY",
@@ -594,8 +602,16 @@
   "desi": {
     "playlist_id": "PLLZp4-lkp0yk",
     "title": "Legion: Desi",
-    "count": 28,
+    "count": 29,
     "items": [
+      {
+        "videoId": "2R-yN16rYJk",
+        "title": "Flydubai Hijack, LPU Chaos, Gen Z, Gyanesh Kumar, Ustaad & Indra Dev पर बतरस | Teen Taal S2 Ep 176",
+        "artists": [
+          "Aaj Tak Radio"
+        ],
+        "duration": null
+      },
       {
         "videoId": "mAh0ohu18HU",
         "title": "Ep 452: Harini Nagendra is Woolgathering and Ground Truthing",
@@ -821,7 +837,7 @@
         "duration": "3:31:05"
       }
     ],
-    "refreshed_at": "2026-10-02T11:49:17Z"
+    "refreshed_at": "2026-10-03T05:44:54Z"
   },
   "arena": {
     "playlist_id": "PLDpj8_op57Ww",
@@ -962,8 +978,16 @@
   "venture": {
     "playlist_id": "PLBqqPf0fwuWM",
     "title": "Legion: Venture",
-    "count": 19,
+    "count": 20,
     "items": [
+      {
+        "videoId": "TAHAlGH_DK0",
+        "title": "People are doing $100M+ in sales on this app (ft. Whatnot founder)",
+        "artists": [
+          "My First Million"
+        ],
+        "duration": null
+      },
       {
         "videoId": "1iH5YpzPZi8",
         "title": "How Michael Bloomberg Works",
@@ -1117,6 +1141,6 @@
         "duration": "1:11:08"
       }
     ],
-    "refreshed_at": "2026-10-02T11:49:18Z"
+    "refreshed_at": "2026-10-03T05:44:54Z"
   }
 }
