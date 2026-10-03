@@ -440,7 +440,7 @@
   "sidequest": {
     "playlist_id": "PLFcnkig9pxrc",
     "title": "Legion: Side Quest",
-    "count": 25,
+    "count": 26,
     "items": [
       {
         "videoId": "aKy38oc4D_I",
@@ -666,14 +666,22 @@
         ],
         "duration": "1:04:32",
         "duration_seconds": 3872
+      },
+      {
+        "videoId": "n6xpr8SapVk",
+        "title": "Sharon Horgan | SmartLess",
+        "artists": [
+          "Sep 14, 2026"
+        ],
+        "duration": "1:00:17",
+        "duration_seconds": 3617
       }
-    ],
-    "refreshed_at": "2026-10-03T17:40:56Z"
+    ]
   },
   "desi": {
     "playlist_id": "PLLZp4-lkp0yk",
     "title": "Legion: Desi",
-    "count": 32,
+    "count": 33,
     "items": [
       {
         "videoId": "mAh0ohu18HU",
@@ -962,9 +970,17 @@
         ],
         "duration": "1:26:31",
         "duration_seconds": 5191
+      },
+      {
+        "videoId": "RYONu_yNiyA",
+        "title": "How private is India’s private nuclear push? | India’s tea industry crisis | The Daily Brief #554",
+        "artists": [
+          "Sep 20, 2026"
+        ],
+        "duration": "22:03",
+        "duration_seconds": 1323
       }
-    ],
-    "refreshed_at": "2026-10-03T17:40:57Z"
+    ]
   },
   "arena": {
     "playlist_id": "PLDpj8_op57Ww",
@@ -1078,7 +1094,7 @@
   "venture": {
     "playlist_id": "PLBqqPf0fwuWM",
     "title": "Legion: Venture",
-    "count": 22,
+    "count": 23,
     "items": [
       {
         "videoId": "1iH5YpzPZi8",
@@ -1277,8 +1293,16 @@
         ],
         "duration": "48:20",
         "duration_seconds": 2900
+      },
+      {
+        "videoId": "KLYVEKu3HvM",
+        "title": "I’ve never done DMT, but this conversation broke my brain",
+        "artists": [
+          "Sep 28, 2026"
+        ],
+        "duration": "59:41",
+        "duration_seconds": 3581
       }
-    ],
-    "refreshed_at": "2026-10-03T17:40:57Z"
+    ]
   }
 }
