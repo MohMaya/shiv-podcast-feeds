@@ -8,6 +8,19 @@
   "category": "Technology",
   "items": [
     {
+      "title": "Vanguard (Acquired)",
+      "show": "Acquired",
+      "enclosure_url": "https://pscrb.fm/rss/p/media.transistor.fm/ee9d0817/c12627bd.mp3",
+      "guid": "465f9bb3-6d71-49ed-a233-de82bc41b034",
+      "pub_date": "2026-10-03T11:39:55Z",
+      "duration": "13685",
+      "link": "https://www.acquired.fm/episodes/vanguard",
+      "description": "Ben and David on Vanguard: how Jack Bogle built the first index fund for ordinary investors, why the firm\u2019s mutual ownership still shapes markets, and what it means that Vanguard now speaks for tens of millions of shareholders.\n\nWatch: https://youtu.be/ipiKIgdynZE\n\nEpisode: https://www.acquired.fm/episodes/vanguard",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": "https://img.transistorcdn.com/G48S8ousdgdlTFU686aTV1C24y-DL5ua-Ih2SyRvqb0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83Nzk4/Y2M5MDcyN2EzZTM3/NjQzYjI1YTBhOTIz/ZjM0NS5qcGc.jpg"
+    },
+    {
       "title": "Essentials: Tools to Improve Your Focus & Concentration (Huberman Lab)",
       "show": "Huberman Lab",
       "enclosure_url": "https://traffic.megaphone.fm/SCIM2328129388.mp3",
