@@ -8,6 +8,19 @@
   "category": "Business",
   "items": [
     {
+      "title": "Beyond the God Model | Alex Atallah & Amjad Masad (The a16z Show)",
+      "show": "The a16z Show",
+      "enclosure_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/cc5d9775-0204-484c-97b5-e29f4efc2c9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=cc5d9775-0204-484c-97b5-e29f4efc2c9e&feed=JGE3yC0V",
+      "guid": "29e0b258-c055-4a45-87d7-271d5e50ea29",
+      "pub_date": "2026-10-03T17:40:14Z",
+      "duration": "2898",
+      "link": "https://a16z.simplecast.com/episodes/beyond-the-god-model-alex-atallah-amjad-masad-OPhKxfHE",
+      "description": "Erik Torenberg with OpenRouter\u2019s Alex Atallah and Replit\u2019s Amjad Masad on why AI may look less like one all-purpose model and more like specialized models routed and combined for the job.\n\nWatch: https://youtu.be/ekK8urKHPMQ\n\nEpisode: https://a16z.simplecast.com/episodes/beyond-the-god-model-alex-atallah-amjad-masad-OPhKxfHE",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": null
+    },
+    {
       "title": "20VC: The Future of Datacentres: What You Need to Know | Why Everyone Gets GPU Depreciation and AI's Energy Costs Wrong | Who Really Makes Money From AI & Why Most Moats Don't Exist with Chase Lochmiller (The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch)",
       "show": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
       "enclosure_url": "https://traffic.libsyn.com/secure/thetwentyminutevc/20Growth__Chase_Lochmiller__Crusoe.mp3?dest-id=240976",
