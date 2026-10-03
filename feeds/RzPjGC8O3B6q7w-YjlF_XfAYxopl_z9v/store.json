@@ -8,6 +8,19 @@
   "category": "News",
   "items": [
     {
+      "title": "The AI warnings are getting louder (Decoder with Nilay Patel)",
+      "show": "Decoder with Nilay Patel",
+      "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4247808239.mp3",
+      "guid": "b16706f8-b922-11f1-a2fc-9ff5258a6316",
+      "pub_date": "2026-10-03T23:44:37Z",
+      "duration": "2167",
+      "link": null,
+      "description": "Nilay Patel on AI safety for Apple News In Conversation \u2014 why the warning volume is rising, what he thinks the industry is underpricing, and how the press should cover it.",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 0,
+      "image_url": null
+    },
+    {
       "title": "The GOP strategy: Ignore Trump (Today, Explained)",
       "show": "Today, Explained",
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5602282096.mp3",
