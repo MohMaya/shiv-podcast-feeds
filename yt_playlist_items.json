@@ -311,8 +311,13 @@
   "sidequest": {
     "playlist_id": "PLFcnkig9pxrc",
     "title": "Legion: Side Quest",
-    "count": 29,
+    "count": 30,
     "items": [
+      {
+        "videoId": "4Oho6UujrCQ",
+        "title": "Nimesh Patel | Thursday Afternoon Monday Morning Podcast 10-1-26 | Bill Burr",
+        "artists": null
+      },
       {
         "videoId": "aKy38oc4D_I",
         "title": "The Poltergeist Who Follows You Home",
@@ -463,8 +468,13 @@
   "desi": {
     "playlist_id": "PLLZp4-lkp0yk",
     "title": "Legion: Desi",
-    "count": 36,
+    "count": 37,
     "items": [
+      {
+        "videoId": "91w1nyWHm2A",
+        "title": "How Social Norms Change? The Hugging Face Incident (Puliyabaazi)",
+        "artists": null
+      },
       {
         "videoId": "mAh0ohu18HU",
         "title": "Ep 452: Harini Nagendra is Woolgathering and Ground Truthing",
@@ -650,8 +660,13 @@
   "arena": {
     "playlist_id": "PLDpj8_op57Ww",
     "title": "Legion: Arena",
-    "count": 18,
+    "count": 19,
     "items": [
+      {
+        "videoId": "l8SjNu7WdnY",
+        "title": "Why the Midterms Suddenly Look So Bad for Republicans | Plain English",
+        "artists": null
+      },
       {
         "videoId": "fjZ90V_JREk",
         "title": "Why Are We Sprinting Off the A.I. Cliff? | The Ezra Klein Show",
@@ -747,8 +762,13 @@
   "venture": {
     "playlist_id": "PLBqqPf0fwuWM",
     "title": "Legion: Venture",
-    "count": 26,
+    "count": 27,
     "items": [
+      {
+        "videoId": "cvmgnpxr-Lk",
+        "title": "Inside the Minds of Mark Zuckerberg, Palmer Luckey, Josh Kushner & Scott Wu | Jeremy Stern",
+        "artists": null
+      },
       {
         "videoId": "1iH5YpzPZi8",
         "title": "How Michael Bloomberg Works",
