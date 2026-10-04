@@ -2,7 +2,7 @@
   "listen": {
     "playlist_id": "PLdlk59ttaon0",
     "title": "Legion: Listen",
-    "count": 30,
+    "count": 31,
     "items": [
       {
         "videoId": "JVJP_d9U8Gs",
@@ -153,13 +153,18 @@
         "videoId": "58-k4F7-AoA",
         "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
         "artists": null
+      },
+      {
+        "videoId": "2bCW7b9kTpE",
+        "title": "Message Market Fit: Turning Great Ideas Into Communication That Lands",
+        "artists": null
       }
     ]
   },
   "discover": {
     "playlist_id": "PLIvD9AbdimEY",
     "title": "Legion: Discover",
-    "count": 27,
+    "count": 28,
     "items": [
       {
         "videoId": "o0ZDf0bgEXE",
@@ -295,13 +300,18 @@
         "videoId": "XKSVNRRorLQ",
         "title": "689. Here’s Why Your Hamburger Just Got So Pricey | Freakonomics Radio",
         "artists": null
+      },
+      {
+        "videoId": "2VQQQ_uzukk",
+        "title": "Kobuk the Destroyer",
+        "artists": null
       }
     ]
   },
   "sidequest": {
     "playlist_id": "PLFcnkig9pxrc",
     "title": "Legion: Side Quest",
-    "count": 28,
+    "count": 29,
     "items": [
       {
         "videoId": "aKy38oc4D_I",
@@ -442,13 +452,18 @@
         "videoId": "kqbPcd1-3ck",
         "title": "Andrew Garfield | SmartLess",
         "artists": null
+      },
+      {
+        "videoId": "XPi-rEnfW5Q",
+        "title": "Armchair Anonymous: Bad Customer | Armchair Expert with Dax Shepard",
+        "artists": null
       }
     ]
   },
   "desi": {
     "playlist_id": "PLLZp4-lkp0yk",
     "title": "Legion: Desi",
-    "count": 35,
+    "count": 36,
     "items": [
       {
         "videoId": "mAh0ohu18HU",
@@ -624,6 +639,11 @@
         "videoId": "BZv_N4I_THQ",
         "title": "How to SELL ANYTHING to ANYONE? | The Cold Calling Masterclass | Saad Khaja",
         "artists": null
+      },
+      {
+        "videoId": "vfbCbk54XeE",
+        "title": "How to WIN Any Argument & Spot a Liar: FBI Negotiation Secrets | Chris Voss",
+        "artists": null
       }
     ]
   },
@@ -727,7 +747,7 @@
   "venture": {
     "playlist_id": "PLBqqPf0fwuWM",
     "title": "Legion: Venture",
-    "count": 25,
+    "count": 26,
     "items": [
       {
         "videoId": "1iH5YpzPZi8",
@@ -852,6 +872,11 @@
       {
         "videoId": "4H1FbNRdtM0",
         "title": "David George on Growth Investing, AI, and Why the Power Law Is Stronger Than Ever | Ep. 58",
+        "artists": null
+      },
+      {
+        "videoId": "MM-C3JqCXBk",
+        "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
         "artists": null
       }
     ]
