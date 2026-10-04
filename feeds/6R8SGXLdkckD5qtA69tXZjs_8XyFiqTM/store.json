@@ -8,6 +8,19 @@
   "category": "Comedy",
   "items": [
     {
+      "title": "\"Andrew Garfield\" (SmartLess)",
+      "show": "SmartLess",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/87c3910f-5613-4004-b511-d01b233e8ae3/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=87c3910f-5613-4004-b511-d01b233e8ae3&feed=hNaFxXpO",
+      "guid": "3921b589-81ed-4cfd-8702-b57360d58fda",
+      "pub_date": "2026-10-04T11:38:48Z",
+      "duration": "3803",
+      "link": "https://www.smartless.com/",
+      "description": "Andrew Garfield joins Jason Bateman, Sean Hayes, and Will Arnett for a freewheeling SmartLess hang \u2014 shrinking bears, Fincher lore, and the usual PantsLess chaos.\n\nWatch: https://youtu.be/kqbPcd1-3ck",
+      "mime_type": "audio/mpeg",
+      "length_bytes": 60849955,
+      "image_url": "https://image.simplecastcdn.com/images/8436e3c1-2479-4466-ac48-fa58259960bb/0156216b-cc03-4f2c-9fcc-03fd38a2f4e0/3000x3000/sxm-cover-smartless-r2025-3000x3000-final.jpg?aid=rss_feed"
+    },
+    {
       "title": "Ben Lamm (on de-extinction) (Armchair Expert with Dax Shepard)",
       "show": "Armchair Expert with Dax Shepard",
       "enclosure_url": "https://rss.art19.com/episodes/cb84d537-6072-4185-a9ac-e240fa21280c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
