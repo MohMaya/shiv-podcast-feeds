@@ -301,7 +301,7 @@
   "sidequest": {
     "playlist_id": "PLFcnkig9pxrc",
     "title": "Legion: Side Quest",
-    "count": 27,
+    "count": 28,
     "items": [
       {
         "videoId": "aKy38oc4D_I",
@@ -437,13 +437,18 @@
         "videoId": "ElJciBYU6Eo",
         "title": "Ben Lamm (on de-extinction) | Armchair Expert with Dax Shepard",
         "artists": null
+      },
+      {
+        "videoId": "kqbPcd1-3ck",
+        "title": "Andrew Garfield | SmartLess",
+        "artists": null
       }
     ]
   },
   "desi": {
     "playlist_id": "PLLZp4-lkp0yk",
     "title": "Legion: Desi",
-    "count": 34,
+    "count": 35,
     "items": [
       {
         "videoId": "mAh0ohu18HU",
@@ -614,13 +619,18 @@
         "videoId": "5KCjX6XtjRo",
         "title": "India’s untapped pool of copper | Indian industry’s coal question | The Daily Brief #553",
         "artists": null
+      },
+      {
+        "videoId": "BZv_N4I_THQ",
+        "title": "How to SELL ANYTHING to ANYONE? | The Cold Calling Masterclass | Saad Khaja",
+        "artists": null
       }
     ]
   },
   "arena": {
     "playlist_id": "PLDpj8_op57Ww",
     "title": "Legion: Arena",
-    "count": 17,
+    "count": 18,
     "items": [
       {
         "videoId": "fjZ90V_JREk",
@@ -706,13 +716,18 @@
         "videoId": "Kss_qJoph-8",
         "title": "The Real Problem With Sydney Sweeney’s Ad",
         "artists": null
+      },
+      {
+        "videoId": "PJrq_bw7bPc",
+        "title": "\"Big Short\" Investor: One Company Could Break The AI Boom",
+        "artists": null
       }
     ]
   },
   "venture": {
     "playlist_id": "PLBqqPf0fwuWM",
     "title": "Legion: Venture",
-    "count": 24,
+    "count": 25,
     "items": [
       {
         "videoId": "1iH5YpzPZi8",
@@ -832,6 +847,11 @@
       {
         "videoId": "v-2BdiL6r74",
         "title": "Why the World Order Is Collapsing and American Power Is Rising",
+        "artists": null
+      },
+      {
+        "videoId": "4H1FbNRdtM0",
+        "title": "David George on Growth Investing, AI, and Why the Power Law Is Stronger Than Ever | Ep. 58",
         "artists": null
       }
     ]
